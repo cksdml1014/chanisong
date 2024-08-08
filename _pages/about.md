@@ -28,5 +28,5 @@ I'm also a huge football fan, supporting FC Seoul from when I was 4.
 P.S. For non-Korean speakers finding hard to pronounce my name, you can call me Chani :)
 
 
-![Hi! I'm Chani!](/images/profile2.jpg)
+![Hi! I'm Chani!](/images/profile1.jpg)
 
