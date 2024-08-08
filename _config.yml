@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile2.jpg"
+  avatar           : "profile2.jpg"
   name             : "Chan-Eui Song"
   pronouns         : "he/him"# example: "she/her"  
   bio              : "ME/MATH student from SNU, now working as a Researcher in IDeAOcean"
