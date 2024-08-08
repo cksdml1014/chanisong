@@ -13,7 +13,7 @@ From IDeAOcean, I've made huge contributions to developing Mechanism Design Auto
 
 Also using this technology, I've designed novel and practical mechanisms applicable to the *rear wing*, *sliding door*, *hood hinge*, etc, along with cooperating with Hyundai Motors.
 
-More information about previous contributions of Mechanism Design Automation Technology could be found from **[here]**(https://ideaocean.ai/technology/)
+More information about previous contributions of Mechanism Design Automation Technology can be found from **[here](https://ideaocean.ai/technology/)**
 
 ### Synthesizing mechanisms that avoid obstacles using SBM
 1. **C. Song†**, J. Kim, and Y.Y. Kim∗, *“Automatic Synthesis of 1-DOF Linkage Mechanism in a Constrained Space”*, Expected
