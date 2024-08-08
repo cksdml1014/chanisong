@@ -24,7 +24,8 @@ I like to discuss about engineering issues from various fields, and I'll appreci
 
 I'm also a huge football fan, supporting FC Seoul from when I was 4.
 
+P.S. For non-Korean speakers finding hard to pronounce my name, you can call me Chani :)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+
+![Hi! I'm Chani!](/images/18-02-송찬의-31.jpg)
 
