@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 
+
 Welcome to my website!
 
 I'm Chan-Eui Song, a mechanical engineering student from SNU.
@@ -27,5 +28,5 @@ I'm also a huge football fan, supporting FC Seoul from when I was 4.
 P.S. For non-Korean speakers finding hard to pronounce my name, you can call me Chani :)
 
 
-![Hi! I'm Chani!](/images/18-02-송찬의-31.jpg)
+![Hi! I'm Chani!](/images/profile2.jpg)
 
