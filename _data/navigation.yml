@@ -3,20 +3,20 @@ main:
   - title: "Publications and manuscripts"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Research Projects"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Education"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "STEM"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Selective Courses"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
+  - title: "Miscellaneous"
     url: /markdown/
