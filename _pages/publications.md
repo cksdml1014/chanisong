@@ -17,7 +17,7 @@ More information about previous contributions of Mechanism Design Automation Tec
 
 =====
 
-### Synthesizing mechanisms that avoid obstacles using SBM
+## Synthesizing mechanisms that avoid obstacles using SBM
 1. **C. Song†**, J. Kim, and Y.Y. Kim∗, *“Automatic Synthesis of 1-DOF Linkage Mechanism in a Constrained Space”*, Expected
 submission in 2024 at *Journal of Mechanical Design*.
 
