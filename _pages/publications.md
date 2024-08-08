@@ -15,7 +15,6 @@ Also using this technology, I've designed novel and practical mechanisms applica
 
 More information about previous contributions of Mechanism Design Automation Technology can be found from **[here](https://ideaocean.ai/technology/)**
 
-=====
 
 ## Synthesizing mechanisms that avoid obstacles using SBM
 1. **C. Song†**, J. Kim, and Y.Y. Kim∗, *“Automatic Synthesis of 1-DOF Linkage Mechanism in a Constrained Space”*, Expected
@@ -23,7 +22,6 @@ submission in 2024 at *Journal of Mechanical Design*.
 
 [More Details](https://cksdml1014.github.io/chanisong//publication/2009-10-01-paper-title-number-1)
 
-=====
 
 ## Synthesizing novel rear wing mechanism using newly developed 3D JBM model
 2. **C. Song†**, J. Kim, J. Kim, J. Jang, Y. Han, E. Park and Y.Y. Kim∗, *“A Novel Rear-wing Mechanism Synthesized by a
