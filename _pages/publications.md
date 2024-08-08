@@ -28,8 +28,10 @@ submission in 2024 at *Journal of Mechanical Design*.
 Systematic Design Process Employing Topology Optimization”*, Expected submission in 2025 at *Mechanism and Machine
 Theory*.
 
+<small>
 Manuscript submission is scheduled for 2025 due to Hyundai Motors’ project completion and internal conference schedule.
 Currently, it is difficult to disclose the research results due to the project agreement regulations, as the research is being conducted in the form of a corporate project with Hyundai Motors.
 However, you can refer to the level of results that can be disclosed on the page below
+</small>
 
 [More Details](https://cksdml1014.github.io/chanisong//publications/2010-10-01-paper-title-number-2)
