@@ -15,7 +15,7 @@ author_profile: true
 </div>
 
 My Research focuses on **Mechanism Design Automation**, which was first proposed and developed at *SNU's IDeALab*.  
-It utilized a novel concept of describing linkages, using **SBM**(Spring connected rigid Block Model) and **JBM**(Joint-element connected rigid Block Model)  
+It utilized a novel concept of describing linkages, using **SBM** Spring connected rigid Block Model) and **JBM** (Joint-element connected rigid Block Model)  
 
 From *IDeAOcean*, I've made huge contributions to developing Mechanism Design Automation technology and preparing **multiple journals**.  
 Also using this technology, I've designed **novel and practical mechanisms** applicable to the *rear wing*, *sliding door*, *hood hinge*, etc, along with cooperating with Hyundai Motors.  
@@ -41,9 +41,9 @@ Systematic Design Process Employing Topology Optimization”*, Expected submissi
 Theory*.
 
 <small>
-Manuscript submission is scheduled for 2025 due to Hyundai Motors’ project completion and internal conference schedule.
-Currently, it is difficult to disclose the research results due to the project agreement regulations, as the research is being conducted in the form of a corporate project with Hyundai Motors.
-However, you can refer to the level of results that can be disclosed on the page below
+Manuscript submission is scheduled for 2025 due to Hyundai Motors’ project completion and internal conference schedule.  
+Currently, it is difficult to disclose the research results due to the project agreement regulations, as the research is being conducted in the form of a corporate project with Hyundai Motors.  
+However, you can refer to the level of results that can be disclosed on the page below.
 </small>
 
 [More Details](https://cksdml1014.github.io/chanisong//publication/2010-10-01-paper-title-number-2)
