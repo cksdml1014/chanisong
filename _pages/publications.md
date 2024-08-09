@@ -9,7 +9,7 @@ author_profile: true
 
 <div style="float: right; margin-left: 10px; text-align: center;">
   <a href="https://www.youtube.com/watch?v=cO3l77FlimU">
-    <img src="https://img.youtube.com/vi/cO3l77FlimU/0.jpg" alt="Watch Video" style="width: 200px; height: 0px;">
+    <img src="https://img.youtube.com/vi/cO3l77FlimU/0.jpg" alt="Watch Video" style="width: 200px; height: 150px;">
   </a>
   <p style="font-size: 12px; color: gray;">mechanism synthesis process using SBM (Click to Watch!)</p>
 </div>
