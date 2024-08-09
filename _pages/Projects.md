@@ -25,7 +25,7 @@ asdf
 ## Origami Robot simulator
 *Origami Kinematics, Physics simulator, Pybullet*
 <div style="float: right; width: 200px; margin: 0 0 10px 10px;">
-    <img src="https://cksdml1014.github.io/chanisong/images/origmaisimulator.gif" alt="Hi! I'm Chani!" style="width: 100%;">
+    <img src="https://cksdml1014.github.io/chanisong/images/origamisimulator.gif" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> Origami robot simulator </p>
 </div>
 asdf
