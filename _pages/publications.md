@@ -34,4 +34,4 @@ Currently, it is difficult to disclose the research results due to the project a
 However, you can refer to the level of results that can be disclosed on the page below
 </small>
 
-[More Details](https://cksdml1014.github.io/chanisong//publications/2010-10-01-paper-title-number-2)
+[More Details](https://cksdml1014.github.io/chanisong//publication/2010-10-01-paper-title-number-2)
