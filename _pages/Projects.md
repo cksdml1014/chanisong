@@ -11,8 +11,11 @@ author_profile: true
     <img src="https://cksdml1014.github.io/chanisong/images/metheus.png" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> METHEUS v1.0 (CES2024 Innovation Award)</p>
 </div>
-asdf
 
+METHEUS is an innovative AI-driven autonomous mechanism design solution program, made by *IDeAOcean*.  
+It has been awarded **CES 2024 Innovation award** by proving its ability to generate various mechanisms suitable for various purposes.  
+In this project, I took the role of generating numerous linkage datasets that contain essential information about each mechanism: the path of the effector, manipulability, kineto-static analysis, etc.  
+Since the CES 2024, we've been developing the evolved version of METHEUS and we expect to publish METHEUS v2.0 in the market by starting of 2025.
 
 For more information, refer to the METHEUS website **[METHEUS](https://ideaocean.ai/metheus/)**.  
 You can also try out METHEUS v1.0 from **[here](https://www.metheus.ai/)**
