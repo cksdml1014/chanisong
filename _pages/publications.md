@@ -19,7 +19,7 @@ Block Model)
 From IDeAOcean, I've made huge contributions to developing Mechanism Design Automation technology and preparing multiple journals.  
 Also using this technology, I've designed novel and practical mechanisms applicable to the *rear wing*, *sliding door*, *hood hinge*, etc, along with cooperating with Hyundai Motors.  
 More information about previous contributions of Mechanism Design Automation Technology can be found from **[here](https://ideaocean.ai/technology/)**
-</div>
+
 
 
 
