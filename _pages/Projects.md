@@ -14,6 +14,9 @@ author_profile: true
 asdf
 
 
+For more information, refer to the METHEUS website **[METHEUS](https://ideaocean.ai/metheus/)**.
+You can also try out METHEUS v1.0 from **[here](https://www.metheus.ai/)**
+
 ## 10x Coffee Machine
 *Mechatronics, Face Recognition, Laser Cutter*
 <div style="float: left; width: 200px; margin: 0 0 10px 10px;clear: both;">
@@ -21,6 +24,9 @@ asdf
     <p style="font-size: 12px; color: gray;"> 10x coffee machine (Mechatronics Excellence Award)</p>
 </div>
 asdf
+
+
+You can check more detailed introduction of the project here
 
 ## Origami Robot simulator
 *Origami Kinematics, Physics simulator, Pybullet*
