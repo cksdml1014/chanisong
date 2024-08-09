@@ -4,6 +4,38 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+## METHEUS: AI-driven autonomous mechanism design solution
+
+
+## 10x Coffee Machine
+
+
+## Origami Robot simulator
+
+
+## MPC Contol on STM32H723 microcontroller
+
+
+## Designing Automation Process of removing Compressor cap
+
+
+## Material Classification using tactile sensor Digit
+
+
+## Analyzing Beam Deformation using PINN
+
+
+## 6R robot imitating human activities of moving objects using meta-learning
+
+
+## Hot wind tunnel control using MPC
+
+
+## Mass production of walking toys
+
+
+## Inverse Engineering of Impact Wrench
+
 
 ## Mechanism Design Automation Technology
 My publications & manuscripts focus on **Mechanism Design Automation Technology**, which was first proposed and developed by *SNU's IDeALab* using **SBM**(Spring connected rigid Block Model) and **JBM**(Joint-element connected rigid
