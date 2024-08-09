@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Miscellaneous"
-permalink: /Miscellaneous/
+permalink: /miscellaneous/
 author_profile: true
 ---
 ## Exchange Semester at RWTH Aachen University
