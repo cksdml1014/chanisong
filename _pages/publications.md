@@ -7,8 +7,11 @@ author_profile: true
 
 ## Mechanism Design Automation Technology
 <div style="text-align: right;">
-  <iframe width="320" height="180" src="https://www.youtube.com/watch?v=cO3l77FlimU&t=10sD" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <a href="https://www.youtube.com/watch?v=cO3l77FlimU&t=10sD">
+    <img src="https://img.youtube.com/vi/cO3l77FlimU&t=10sD/0.jpg" alt="Watch Video" style="width: 100px; height: 100px;">
+  </a>
 </div>
+
 
 My publications & manuscripts focus on **Mechanism Design Automation Technology**, which was first proposed and developed by *SNU's IDeALab* using **SBM**(Spring connected rigid Block Model) and **JBM**(Joint-element connected rigid
 Block Model)  
