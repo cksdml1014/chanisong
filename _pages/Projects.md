@@ -37,6 +37,8 @@ author_profile: true
 ## Inverse Engineering of Impact Wrench
 
 
+## ROBOCON 2018
+
 ## Mechanism Design Automation Technology
 My publications & manuscripts focus on **Mechanism Design Automation Technology**, which was first proposed and developed by *SNU's IDeALab* using **SBM**(Spring connected rigid Block Model) and **JBM**(Joint-element connected rigid
 Block Model)
