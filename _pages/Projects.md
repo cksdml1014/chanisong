@@ -99,25 +99,34 @@ Due to corporate confidentiality, detailed results are partially disclosed. **[D
     <img src="https://cksdml1014.github.io/chanisong/images/Beam deformation.png" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> Calculation of beam deformation via Deep Energy Method</p>
 </div>
-asdf
 
+- Under the guidance of Professor *Do-Nyun Kim* from *SNU*, I carried out research on implementing PINN(Physics-Informed Neural Networks) to beam deformation analysis using the Deep Energy method.
+- Applied various Neural Networks and investigated the possibility of applying Neural ODE to the Deep Energy Method.
+- Compared the results with traditional force-based analysis using FEM.
+- Submitted as a graduation thesis
 
 Detailed information on this research can be found here. **[Analyzing beam deformation problem using Deep Energy Method with various Neural Networks](https://cksdml1014.github.io/chanisong/files/PINN.pdf)**
 <div style="clear: both;"></div>
-## 6R robot imitating human activities of moving objects using meta-learning
+## 6R robot imitating human activities of assembly using meta-learning
 *ROS Control, Image Processing, Meta-Learning*
 <div style="float: left; width: 200px; margin:0 30px 10px 0;">
     <img src="https://cksdml1014.github.io/chanisong/images/6R Robot.png" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> Experiment setup for meta-learning</p>
 </div>
-asdf
 
+- Under the guidance of Professor *Sung-Hoon Ahn* from *SNU*, I participated in research about Automatic robot task generation in the assembly process by learning from observation.
+- Generated both human and robot datasets of objects moving for applying meta-learning to 6R Robot.
+- Proposed a new algorithm for vision recognition and image processing.
+- Controlled 6R Robot using ROS.
 
 Detailed information on this research can be found here. (Written in Korean) **[Automatic robot task generation in assembly process with learning from observation](https://cksdml1014.github.io/chanisong/files/final 수정.pdf)**
 <div style="clear: both;"></div>
 ## Hot wind tunnel control using MPC
 *MPC, Control Theory*
 
+- Under the guidance of Professor *Dongjun Lee* from *SNU*, I participated in research about controlling hot wind tunnels using MPC.
+- Studied control theory and applied parameter estimation to MPC.
+- Implemented toy problem of Q-learning, checking possibilities of applying it to the hot wind tunnels.
 
 <div style="clear: both;"></div>
 ## Mass production of walking toys
@@ -126,7 +135,8 @@ Detailed information on this research can be found here. (Written in Korean) **[
     <img src="https://cksdml1014.github.io/chanisong/images/20211203_163948-ezgif.com-optimize.gif" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> Walking Toy made by injection molding</p>
 </div>
-asdf
+
+- 
 
 
 Final Report on this project can be found here. (Written in Korean) **[Walking Toy Manufacture report](https://cksdml1014.github.io/chanisong/files/4조_관악산타_레포트1_merged.pdf)**
