@@ -10,7 +10,7 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'TBD'
 ---
 
-In this research, we developed **a new methodology of automatic linkage mechanism design** when there's **an obstacle inside the feasible design area**.  
-We've revised the *SBM model* by adding additional constraints that make the mechanism avoid the obstacle.  
-With this methodology, we can automatically design both the topology and the shape of the linkage mechanism that works safely in environments where there are obstacles.  
+- In this research, we developed **a new methodology of automatic linkage mechanism design** when there's **an obstacle inside the feasible design area**.  
+- We've revised the *SBM model* by adding additional constraints that make the mechanism avoid the obstacle.  
+- With this methodology, we can automatically design both the topology and the shape of the linkage mechanism that works safely in environments where there are obstacles.  
 For more detailed information, refer to the pdf files below.
