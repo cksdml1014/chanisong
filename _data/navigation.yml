@@ -7,16 +7,16 @@ main:
     url: /projects/    
 
   - title: "Education"
-    url: /teaching/    
+    url: /education/    
     
   - title: "STEM"
-    url: /portfolio/
+    url: /STEM/
         
   - title: "Selective Courses"
-    url: /year-archive/
+    url: /courses/
     
   - title: "CV"
     url: /cv/
     
   - title: "Miscellaneous"
-    url: /markdown/
+    url: /miscellaneous/
