@@ -23,7 +23,7 @@ You can also try out METHEUS v1.0 from **[here](https://www.metheus.ai/)**
 
 ## 10x Coffee Machine
 *Mechatronics, Face Recognition, Manufacturing*
-<div style="float: left; width: 200px; margin: 0 30px 10px 0;">
+<div style="float: left; width: 200px; margin: 10px 10px 10px 10px;">
     <img src="https://cksdml1014.github.io/chanisong/images/tenxcoffee.jpg" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> 10x coffee machine (Mechatronics Excellence Award)</p>
 </div>
@@ -54,7 +54,7 @@ You can check the detailed results of this research here **[Origami Robot Simula
 
 ## MPC Contol on STM32H723 microcontroller
 *MPC, Embedded System*
-<div style="float: left; width: 200px; margin: 0 30px 10px 0;">
+<div style="float: left; width: 200px; margin: 10px 30px 10px 10px;">
     <img src="https://cksdml1014.github.io/chanisong/images/Cart pole.png" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> Cart pole used for MPC control </p>
 </div>
