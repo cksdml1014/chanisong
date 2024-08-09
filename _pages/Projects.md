@@ -31,7 +31,7 @@ You can also try out METHEUS v1.0 from **[here](https://www.metheus.ai/)**
 - 10x Coffee Machine is a Customizable Coffee Machine Based on Face Recognition.  
 - Using a comprehensive combination of mechatronics, vision, communication, and manufacturing, we made a neat coffee machine that tailors each individual's favorite beverage.  
 - We've won the **Mechatronics Excellence Award** with High-quality product and proven its Commercial potential.  
-- As a leader of the group, I've managed the whole process, along with specializing in the mechatronics part to control motors and design the system.
+- As a leader of the group, I oversaw the whole process, while specializing in the mechatronics part to control motors and design the system.
 
 You can check a more detailed introduction of the project here **[10x Coffee Machine Presentation](https://cksdml1014.github.io/chanisong/files/231222_Final Presentation_v2.pdf)**
 <div style="clear: both;"></div>
@@ -136,8 +136,9 @@ Detailed information on this research can be found here. (Written in Korean) **[
     <p style="font-size: 12px; color: gray;"> Walking Toy made by injection molding</p>
 </div>
 
-- 
-
+- Fabricated 100 Walking Toys using Injection molding.
+- As a leader of the group,  I oversaw the whole process, while specializing in dynamics analysis and 3D CAD design.
+- Used 3D Printing multiple times to confirm the design of the walking toy, successfully ending up fabricating 100 walking toys generating perfect motions.
 
 Final Report on this project can be found here. (Written in Korean) **[Walking Toy Manufacture report](https://cksdml1014.github.io/chanisong/files/4조_관악산타_레포트1_merged.pdf)**
 <div style="clear: both;"></div>
@@ -147,7 +148,9 @@ Final Report on this project can be found here. (Written in Korean) **[Walking T
     <img src="https://cksdml1014.github.io/chanisong/images/inverseengineering.png" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;">  Stress & Deformation analysis</p>
 </div>
-asdf
+
+- Conducted an inverse engineering project for an Impact Wrench.
+- Used various methods such as the Decomposition of the machine, angular velocity calculation through video analysis, 3D CAD design, and stress analysis to check the Mechanical Stability of the Impact Wrench.
 
 Final Report and slides on this project can be found here. **[Inverse Engineering Report](https://cksdml1014.github.io/chanisong/files/MPD Team 6 Final Report.pdf)** **[Inverse Engineering Presentation Slide](https://cksdml1014.github.io/chanisong/files/[MPD]Final Presentation Slides(Team6).pdf)** 
 <div style="clear: both;"></div>
