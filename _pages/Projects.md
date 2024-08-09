@@ -160,7 +160,9 @@ Final Report and slides on this project can be found here. **[Inverse Engineerin
     <img src="https://cksdml1014.github.io/chanisong/images/robocon.png" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> Robot used for Robocon</p>
 </div>
-asdf
+
+- Participated in ROBOCON to fabricate 2 2-DOF robots: 1 with Motor input and the other with cylinder input.
+- Designed / Fabricated / Controlled the robots, ending up defeated in 1st round due to unexpected malfunctioning.
 
 Final Report slides on this contest can be found here. **[ROBOCON 2018 Report](https://cksdml1014.github.io/chanisong/files/Design Review_Group15.pdf)**
 <div style="clear: both;"></div>
