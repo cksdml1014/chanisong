@@ -7,19 +7,20 @@ author_profile: true
 ## METHEUS: AI-driven autonomous mechanism design solution
 *Linkage Mechanism Design, Dynamics, Optimization*
 
-<div style="float: right; width: 200px; margin: 0 0 10px 10px;clear: both;">
+<div style="float: right; width: 200px; margin: 0 0 10px 10px;">
     <img src="https://cksdml1014.github.io/chanisong/images/metheus.png" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> METHEUS v1.0 (CES2024 Innovation Award)</p>
 </div>
 asdf
 
 
-For more information, refer to the METHEUS website **[METHEUS](https://ideaocean.ai/metheus/)**.
+For more information, refer to the METHEUS website **[METHEUS](https://ideaocean.ai/metheus/)**.  
 You can also try out METHEUS v1.0 from **[here](https://www.metheus.ai/)**
+<div style="clear: both;"></div>
 
 ## 10x Coffee Machine
 *Mechatronics, Face Recognition, Laser Cutter*
-<div style="float: left; width: 200px; margin: 0 0 10px 10px;clear: both;">
+<div style="float: left; width: 200px; margin: 0 0 10px 10px;">
     <img src="https://cksdml1014.github.io/chanisong/images/tenxcoffee.jpg" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> 10x coffee machine (Mechatronics Excellence Award)</p>
 </div>
@@ -27,6 +28,8 @@ asdf
 
 
 You can check more detailed introduction of the project here
+
+<div style="clear: both;"></div>
 
 ## Origami Robot simulator
 *Origami Kinematics, Physics simulator, Pybullet*
