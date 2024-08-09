@@ -16,7 +16,7 @@ Welcome to my website!
 
 I'm Chan-Eui Song, a mechanical engineering & mathematics(double major) student from SNU.
 
-I've fulfilled all the requirements for graduation, and since September 2023, I've been working as a researcher from **[IDeAOcean](ideaocean.ai)**, a company developing state-of-the-art technology on mechanism and machine design.
+I've fulfilled all the requirements for graduation, and since September 2023, I've been working as a researcher from **[IDeAOcean](https://ideaocean.ai)**, a company developing state-of-the-art technology on mechanism and machine design.
 
 I'm planning to pursue my PhD course starting in 2025, expecting to grow a lot through interaction with many talented researchers from around the world.
 
