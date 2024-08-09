@@ -18,7 +18,7 @@ author_profile: true
 - Since the CES 2024, we've been developing the evolved version of METHEUS and we expect to publish METHEUS v2.0 in the market by starting of 2025.
 
 For more information, refer to the METHEUS website **[METHEUS](https://ideaocean.ai/metheus/)**.  
-You can also try out METHEUS v1.0 from **[here](https://www.metheus.ai/)**
+You can also try out METHEUS v1.0 from here. **[METHEUS v1.0](https://www.metheus.ai/)**
 <div style="clear: both;"></div>
 
 ## 10x Coffee Machine
@@ -33,7 +33,7 @@ You can also try out METHEUS v1.0 from **[here](https://www.metheus.ai/)**
 - We've won the **Mechatronics Excellence Award** with High-quality product and proven its Commercial potential.  
 - As a leader of the group, I oversaw the whole process, while specializing in the mechatronics part to control motors and design the system.
 
-You can check a more detailed introduction of the project here **[10x Coffee Machine Presentation](https://cksdml1014.github.io/chanisong/files/231222_Final Presentation_v2.pdf)**
+You can check a more detailed introduction of the project here **[Slides](https://cksdml1014.github.io/chanisong/files/231222_Final Presentation_v2.pdf)**
 <div style="clear: both;"></div>
 
 ## Origami Robot Simulator
@@ -49,7 +49,7 @@ You can check a more detailed introduction of the project here **[10x Coffee Mac
 - Checked the possibility of applying reinforcement learning to the origami robot using Pybullet.
 
 
-You can check the detailed results of this research here **[Origami Robot Simulator Result](https://cksdml1014.github.io/chanisong/files/starurop.pdf)**
+You can check the detailed results of this research here **[Slides](https://cksdml1014.github.io/chanisong/files/starurop.pdf)**
 <div style="clear: both;"></div>
 
 ## MPC Contol on STM32H723 microcontroller
@@ -76,7 +76,7 @@ You can check the detailed results of this research here **[Origami Robot Simula
 - Designed a Cap-remover suitable for various sizes of caps and bottles using 3D vision and 3D CAD.
 - Used Roboguide to simulate 6R FANUC Robots and check if they can remove the caps without interfering with objects nearby.
 
-Due to corporate confidentiality, detailed results are partially disclosed. **[Cap Remover Automation Result](https://cksdml1014.github.io/chanisong/files/samsung_1st.pdf)**
+Due to corporate confidentiality, detailed results are partially disclosed. **[Slides](https://cksdml1014.github.io/chanisong/files/samsung_1st.pdf)**
 <div style="clear: both;"></div>
 ## Material Classification using tactile sensor Digit
 *Tactile Sensor, ResNet, Pytorch*
@@ -90,7 +90,7 @@ Due to corporate confidentiality, detailed results are partially disclosed. **[C
 - Trained various dataset and tested if DIGIT can distinguish coin and glasses case.
 - Brought the accuracy up to 80% in a very short time using 200 datasets.
 
-Due to corporate confidentiality, detailed results are partially disclosed. **[DIGIT Result](https://cksdml1014.github.io/chanisong/files/samsung_2nd.pdf)**
+Due to corporate confidentiality, detailed results are partially disclosed. **[Slides](https://cksdml1014.github.io/chanisong/files/samsung_2nd.pdf)**
 <div style="clear: both;"></div>
 
 ## Analyzing Beam Deformation using PINN
@@ -105,7 +105,7 @@ Due to corporate confidentiality, detailed results are partially disclosed. **[D
 - Compared the results with traditional force-based analysis using FEM.
 - Submitted as a graduation thesis
 
-Detailed information on this research can be found here. **[Analyzing beam deformation problem using Deep Energy Method with various Neural Networks](https://cksdml1014.github.io/chanisong/files/PINN.pdf)**
+Detailed information on this research can be found here. **[Bachelor thesis](https://cksdml1014.github.io/chanisong/files/PINN.pdf)**
 <div style="clear: both;"></div>
 ## 6R robot imitating human activities of assembly using meta-learning
 *ROS Control, Image Processing, Meta-Learning*
@@ -119,7 +119,7 @@ Detailed information on this research can be found here. **[Analyzing beam defor
 - Proposed a new algorithm for vision recognition and image processing.
 - Controlled 6R Robot using ROS.
 
-Detailed information on this research can be found here. (Written in Korean) **[Automatic robot task generation in assembly process with learning from observation](https://cksdml1014.github.io/chanisong/files/final 수정.pdf)**
+Detailed information on this research can be found here. (Written in Korean) **[Report](https://cksdml1014.github.io/chanisong/files/final 수정.pdf)**
 <div style="clear: both;"></div>
 ## Hot wind tunnel control using MPC
 *MPC, Control Theory*
@@ -140,7 +140,7 @@ Detailed information on this research can be found here. (Written in Korean) **[
 - As a leader of the group,  I oversaw the whole process, while specializing in dynamics analysis and 3D CAD design.
 - Used 3D Printing multiple times to confirm the design of the walking toy, successfully ending up fabricating 100 walking toys generating perfect motions.
 
-Final Report on this project can be found here. (Written in Korean) **[Walking Toy Manufacture report](https://cksdml1014.github.io/chanisong/files/4조_관악산타_레포트1_merged.pdf)**
+Final Report on this project can be found here. (Written in Korean) **[Report](https://cksdml1014.github.io/chanisong/files/4조_관악산타_레포트1_merged.pdf)**
 <div style="clear: both;"></div>
 ## Inverse Engineering of Impact Wrench
 *3D CAD, Stress Analysis, Machine Mechanism*
@@ -152,7 +152,7 @@ Final Report on this project can be found here. (Written in Korean) **[Walking T
 - Conducted an inverse engineering project for an Impact Wrench.
 - Used various methods such as the Decomposition of the machine, angular velocity calculation through video analysis, 3D CAD design, and stress analysis to check the Mechanical Stability of the Impact Wrench.
 
-Final Report and slides on this project can be found here. **[Inverse Engineering Report](https://cksdml1014.github.io/chanisong/files/MPD Team 6 Final Report.pdf)** **[Inverse Engineering Presentation Slide](https://cksdml1014.github.io/chanisong/files/[MPD]Final Presentation Slides(Team6).pdf)** 
+Final Report and slides on this project can be found here. **[Report](https://cksdml1014.github.io/chanisong/files/MPD Team 6 Final Report.pdf)** **[Slide](https://cksdml1014.github.io/chanisong/files/[MPD]Final Presentation Slides(Team6).pdf)** 
 <div style="clear: both;"></div>
 ## ROBOCON 2018
 *Linkage Mechanism Design, Robot Design & Control, Manufacturing*
@@ -164,7 +164,7 @@ Final Report and slides on this project can be found here. **[Inverse Engineerin
 - Participated in ROBOCON to fabricate 2 2-DOF robots: 1 with Motor input and the other with cylinder input.
 - Designed / Fabricated / Controlled the robots, ending up defeated in 1st round due to unexpected malfunctioning.
 
-Final Report slides on this contest can be found here. **[ROBOCON 2018 Report](https://cksdml1014.github.io/chanisong/files/Design Review_Group15.pdf)**
+Final Report slides on this contest can be found here. **[Slide](https://cksdml1014.github.io/chanisong/files/Design Review_Group15.pdf)**
 <div style="clear: both;"></div>
 
 
