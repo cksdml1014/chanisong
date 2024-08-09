@@ -28,10 +28,10 @@ You can also try out METHEUS v1.0 from **[here](https://www.metheus.ai/)**
     <p style="font-size: 12px; color: gray;"> 10x coffee machine (Mechatronics Excellence Award)</p>
 </div>
 
-10x Coffee Machine is a Customizable Coffee Machine Based on Face Recognition.  
-Using a comprehensive combination of mechatronics, vision, communication, and manufacturing, we made a neat coffee machine that tailors each individual's favorite beverage.  
-We've won the **Mechatronics Excellence Award** with High-quality product and proven its Commercial potential.  
-As a leader of the group, I've managed the whole process, along with specializing in the mechatronics part to control motors and design the system.
+- 10x Coffee Machine is a Customizable Coffee Machine Based on Face Recognition.  
+- Using a comprehensive combination of mechatronics, vision, communication, and manufacturing, we made a neat coffee machine that tailors each individual's favorite beverage.  
+- We've won the **Mechatronics Excellence Award** with High-quality product and proven its Commercial potential.  
+- As a leader of the group, I've managed the whole process, along with specializing in the mechatronics part to control motors and design the system.
 
 You can check a more detailed introduction of the project here **[10x Coffee Machine Presentation](https://cksdml1014.github.io/chanisong/files/231222_Final Presentation_v2.pdf)**
 <div style="clear: both;"></div>
@@ -43,8 +43,10 @@ You can check a more detailed introduction of the project here **[10x Coffee Mac
     <p style="font-size: 12px; color: gray;"> Origami robot simulator </p>
 </div>
 
-Under the guidance of professor Jinkyu Yang from SNU, I've developed a Origami Robot Simulator using 
-
+- Under the guidance of Professor *Jinkyu Yang* from *SNU*, I developed an Origami Robot Simulator using the Pybullet library.
+- I confirmed that the Pybullet simulator works properly on origami structures by implementing the grasping motion of five Miura-Ori unit cells.
+- Calculated the origami kinematics and executed the configuration via Pybullet.
+- Checked the possibility of applying reinforcement learning to the origami robot using Pybullet.
 
 
 You can check the detailed results of this research here **[Origami Robot Simulator Result](https://cksdml1014.github.io/chanisong/files/starurop.pdf)**
@@ -56,7 +58,10 @@ You can check the detailed results of this research here **[Origami Robot Simula
     <img src="https://cksdml1014.github.io/chanisong/images/Cart pole.png" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> Cart pole used for MPC control </p>
 </div>
-asdf
+
+- Carried out a small project of applying the Model Predictive Controller(MPC) on an embedded system from *Institute for Data Science in Mechanical Engineering, RWTH Aachen University*.
+- Solved the cart-pole pendulum problem analytically, and applied the MPC Control logic to implement the QP solver in C++.
+- Evaluated the calculation speed of the MPC on an STM32H723 microcontroller.
 
 
 <div style="clear: both;"></div>
