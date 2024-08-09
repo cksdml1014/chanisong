@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## Mechanism Design Automation Technology
+<div style="float: right; width: 200px; margin: 0 0 10px 10px;">
+    <img src="https://cksdml1014.github.io/chanisong/images/SBM.png" alt="Linkage Mechanism Design using SBM" style="width: 100%;">
+</div>
 My publications & manuscripts focus on **Mechanism Design Automation Technology**, which was first proposed and developed by *SNU's IDeALab* using **SBM**(Spring connected rigid Block Model) and **JBM**(Joint-element connected rigid
 Block Model)  
 From IDeAOcean, I've made huge contributions to developing Mechanism Design Automation technology and preparing multiple journals.  
