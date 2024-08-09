@@ -9,13 +9,12 @@ author_profile: true
 
 <div style="float: right; margin-left: 10px; text-align: center;">
   <a href="https://www.youtube.com/watch?v=cO3l77FlimU">
-    <img src="https://img.youtube.com/vi/cO3l77FlimU/0.jpg" alt="Watch Video" style="width: 200px; height: 200px;">
+    <img src="https://img.youtube.com/vi/cO3l77FlimU/0.jpg" alt="Watch Video" style="width: 200px; height: 0px;">
   </a>
   <p style="font-size: 12px; color: gray;">mechanism synthesis process using SBM (Click to Watch!)</p>
 </div>
 
 My Research focuses on **Mechanism Design Automation**, which was first proposed and developed at *SNU's IDeALab*.
-
 It utilized a novel concept of describing linkages, using **SBM**(Spring connected rigid Block Model) and **JBM**(Joint-element connected rigid Block Model)  
 
 From IDeAOcean, I've made huge contributions to developing Mechanism Design Automation technology and preparing **multiple journals**.  
