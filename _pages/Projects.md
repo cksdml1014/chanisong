@@ -23,7 +23,7 @@ You can also try out METHEUS v1.0 from **[here](https://www.metheus.ai/)**
 
 ## 10x Coffee Machine
 *Mechatronics, Face Recognition, Manufacturing*
-<div style="float: left; width: 200px; margin: 10px 10px 10px 10px;">
+<div style="float: left; width: 200px; margin: 0px 10px 10px 0px;">
     <img src="https://cksdml1014.github.io/chanisong/images/tenxcoffee.jpg" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> 10x coffee machine (Mechatronics Excellence Award)</p>
 </div>
@@ -72,7 +72,9 @@ You can check the detailed results of this research here **[Origami Robot Simula
     <p style="font-size: 12px; color: gray;"> 3D Design & Simulation of cap remover</p>
 </div>
 
-- 
+- Designed an Automation Process for removing the cap from the Compressor used in *Samsung Electronics*'s Refrigerator Fabrication.
+- Designed a Cap-remover suitable for various sizes of caps and bottles using 3D vision and 3D CAD.
+- Used Roboguide to simulate 6R FANUC Robots and check if they can remove the caps without interfering with objects nearby.
 
 Due to corporate confidentiality, detailed results are partially disclosed. **[Cap Remover Automation Result](https://cksdml1014.github.io/chanisong/files/samsung_1st.pdf)**
 <div style="clear: both;"></div>
@@ -82,7 +84,11 @@ Due to corporate confidentiality, detailed results are partially disclosed. **[C
     <img src="https://cksdml1014.github.io/chanisong/images/Tactile Sensing.png" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> DIGIT: Vision-based tactile sensor</p>
 </div>
-asdf
+
+- Carried out basic experiments of a tactile sensor DIGIT to check if it can be used in *Samsung Electronics*'s manufacturing robots.
+- Implemented ResNet56 model with various input settings to investigate DIGIT.
+- Trained various dataset and tested if DIGIT can distinguish coin and glasses case.
+- Brought the accuracy up to 80% in a very short time using 200 datasets.
 
 Due to corporate confidentiality, detailed results are partially disclosed. **[DIGIT Result](https://cksdml1014.github.io/chanisong/files/samsung_2nd.pdf)**
 <div style="clear: both;"></div>
