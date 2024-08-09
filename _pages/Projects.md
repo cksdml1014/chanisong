@@ -27,11 +27,13 @@ You can also try out METHEUS v1.0 from **[here](https://www.metheus.ai/)**
     <img src="https://cksdml1014.github.io/chanisong/images/tenxcoffee.jpg" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> 10x coffee machine (Mechatronics Excellence Award)</p>
 </div>
-asdf
 
+10x Coffee Machine is a Customizable Coffee Machine Based on Face Recognition.  
+Using a comprehensive combination of mechatronics, vision, communication, and manufacturing, we made a neat coffee machine that tailors each individual's favorite beverage.  
+We've won the **Mechatronics Excellence Award** with High-quality product and proven its Commercial potential.  
+As a leader of the group, I've managed the whole process, along with specializing in the mechatronics part to control motors and design the system.
 
 You can check a more detailed introduction of the project here **[10x Coffee Machine Presentation](https://cksdml1014.github.io/chanisong/files/231222_Final Presentation_v2.pdf)**
-
 <div style="clear: both;"></div>
 
 ## Origami Robot Simulator
