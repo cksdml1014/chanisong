@@ -14,11 +14,11 @@ author_profile: true
   <p style="font-size: 12px; color: gray;">mechanism synthesis process using SBM (Click to Watch!)</p>
 </div>
 
-My Research focuses on **Mechanism Design Automation**, which was first proposed and developed at *SNU's IDeALab*.  
-It utilized a novel concept of describing linkages, using **SBM** Spring connected rigid Block Model) and **JBM** (Joint-element connected rigid Block Model)  
+- My Research focuses on **Mechanism Design Automation**, which was first proposed and developed at *SNU's IDeALab*.  
+- It utilized a novel concept of describing linkages, using **SBM** Spring connected rigid Block Model) and **JBM** (Joint-element connected rigid Block Model)  
 
-From *IDeAOcean*, I've made huge contributions to developing Mechanism Design Automation technology and preparing **multiple journals**.  
-Also using this technology, I've designed **novel and practical mechanisms** applicable to the *rear wing*, *sliding door*, *hood hinge*, etc, along with cooperating with Hyundai Motors.  
+- From *IDeAOcean*, I've made huge contributions to developing Mechanism Design Automation technology and preparing **multiple journals**.  
+- Also using this technology, I've designed **novel and practical mechanisms** applicable to the *rear wing*, *sliding door*, *hood hinge*, etc, along with cooperating with Hyundai Motors.  
 
 More information about previous contributions of Mechanism Design Automation Technology can be found from **[here](https://ideaocean.ai/technology/)**
 
