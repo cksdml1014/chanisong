@@ -27,7 +27,7 @@ You can also try out METHEUS v1.0 from **[here](https://www.metheus.ai/)**
 asdf
 
 
-You can check a more detailed introduction of the project here **10x Coffee Machine Presentation(https://cksdml1014.github.io/chanisong/files/231222_Final Presentation_v2.pdf)**
+You can check a more detailed introduction of the project here **[10x Coffee Machine Presentation](https://cksdml1014.github.io/chanisong/files/231222_Final Presentation_v2.pdf)**
 
 <div style="clear: both;"></div>
 
@@ -41,7 +41,7 @@ asdf
 
 
 
-You can check the detailed results of this research here **Origami Robot Simulator Result(https://cksdml1014.github.io/chanisong/files/starurop.pdf)**
+You can check the detailed results of this research here **[Origami Robot Simulator Result](https://cksdml1014.github.io/chanisong/files/starurop.pdf)**
 <div style="clear: both;"></div>
 
 ## MPC Contol on STM32H723 microcontroller
@@ -62,7 +62,7 @@ asdf
 </div>
 asdf
 
-Due to corporate confidentiality, detailed results are partially disclosed. **Cap Remover Automation Result(https://cksdml1014.github.io/chanisong/files/samsung_1st.pdf)**
+Due to corporate confidentiality, detailed results are partially disclosed. **[Cap Remover Automation Result](https://cksdml1014.github.io/chanisong/files/samsung_1st.pdf)**
 <div style="clear: both;"></div>
 ## Material Classification using tactile sensor Digit
 *Tactile Sensor, ResNet, Pytorch*
@@ -72,7 +72,7 @@ Due to corporate confidentiality, detailed results are partially disclosed. **Ca
 </div>
 asdf
 
-Due to corporate confidentiality, detailed results are partially disclosed. **DIGIT Result(https://cksdml1014.github.io/chanisong/files/samsung_2nd.pdf)**
+Due to corporate confidentiality, detailed results are partially disclosed. **[DIGIT Result](https://cksdml1014.github.io/chanisong/files/samsung_2nd.pdf)**
 <div style="clear: both;"></div>
 
 ## Analyzing Beam Deformation using PINN
@@ -84,7 +84,7 @@ Due to corporate confidentiality, detailed results are partially disclosed. **DI
 asdf
 
 
-Detailed information on this research can be found here. **Analyzing beam deformation problem using Deep Energy Method with various Neural Networks(https://cksdml1014.github.io/chanisong/files/PINN.pdf)**
+Detailed information on this research can be found here. **[Analyzing beam deformation problem using Deep Energy Method with various Neural Networks](https://cksdml1014.github.io/chanisong/files/PINN.pdf)**
 <div style="clear: both;"></div>
 ## 6R robot imitating human activities of moving objects using meta-learning
 *ROS Control, Image Processing, Meta-Learning*
@@ -95,7 +95,7 @@ Detailed information on this research can be found here. **Analyzing beam deform
 asdf
 
 
-Detailed information on this research can be found here. (Written in Korean) **Automatic robot task generation in assembly process with learning from observation(https://cksdml1014.github.io/chanisong/files/final 수정.pdf)**
+Detailed information on this research can be found here. (Written in Korean) **[Automatic robot task generation in assembly process with learning from observation](https://cksdml1014.github.io/chanisong/files/final 수정.pdf)**
 <div style="clear: both;"></div>
 ## Hot wind tunnel control using MPC
 *MPC, Control Theory*
@@ -111,7 +111,7 @@ Detailed information on this research can be found here. (Written in Korean) **A
 asdf
 
 
-Final Report on this project can be found here. (Written in Korean) **Walking Toy Manufacture report(https://cksdml1014.github.io/chanisong/files/4조_관악산타_레포트1_merged.pdf)**
+Final Report on this project can be found here. (Written in Korean) **[Walking Toy Manufacture report](https://cksdml1014.github.io/chanisong/files/4조_관악산타_레포트1_merged.pdf)**
 <div style="clear: both;"></div>
 ## Inverse Engineering of Impact Wrench
 *3D CAD, Stress Analysis, Machine Mechanism*
@@ -121,7 +121,7 @@ Final Report on this project can be found here. (Written in Korean) **Walking To
 </div>
 asdf
 
-Final Report and slides on this project can be found here. **Inverse Engineering Report(https://cksdml1014.github.io/chanisong/files/MPD Team 6 Final Report.pdf)** **Inverse Engineering Presentation Slide(https://cksdml1014.github.io/chanisong/files/[MPD]Final Presentation Slides(Team6).pdf)** 
+Final Report and slides on this project can be found here. **[Inverse Engineering Report](https://cksdml1014.github.io/chanisong/files/MPD Team 6 Final Report.pdf)** **[Inverse Engineering Presentation Slide](https://cksdml1014.github.io/chanisong/files/[MPD]Final Presentation Slides(Team6).pdf)** 
 <div style="clear: both;"></div>
 ## ROBOCON 2018
 *Linkage Mechanism Design, Robot Design & Control, Manufacturing*
@@ -131,7 +131,7 @@ Final Report and slides on this project can be found here. **Inverse Engineering
 </div>
 asdf
 
-Final Report slides on this contest can be found here. **ROBOCON 2018 Report(https://cksdml1014.github.io/chanisong/files/Design Review_Group15.pdf)**
+Final Report slides on this contest can be found here. **[ROBOCON 2018 Report](https://cksdml1014.github.io/chanisong/files/Design Review_Group15.pdf)**
 <div style="clear: both;"></div>
 
 
