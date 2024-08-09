@@ -6,13 +6,15 @@ author_profile: true
 ---
 
 ## Mechanism Design Automation Technology
-<div style="overflow: hidden;">
-  <div style="float: right; margin-left: 10px;">
-    <a href="https://www.youtube.com/watch?v=cO3l77FlimU">
-      <img src="https://img.youtube.com/vi/cO3l77FlimU/0.jpg" alt="Watch Video" style="width: 200px; height: 200px;">
-    </a>
-  </div>
-  My publications & manuscripts focus on **Mechanism Design Automation Technology**, which was first proposed and developed by *SNU's IDeALab* using **SBM**(Spring connected rigid Block Model) and **JBM**(Joint-element connected rigid
+
+<div style="float: right; margin-left: 10px; text-align: center;">
+  <a href="https://www.youtube.com/watch?v=cO3l77FlimU">
+    <img src="https://img.youtube.com/vi/cO3l77FlimU/0.jpg" alt="Watch Video" style="width: 200px; height: 200px;">
+  </a>
+  <p style="font-size: 12px; color: gray;">mechanism synthesis process using SBM (Click to Watch!)</p>
+</div>
+
+My publications & manuscripts focus on **Mechanism Design Automation Technology**, which was first proposed and developed by *SNU's IDeALab* using **SBM**(Spring connected rigid Block Model) and **JBM**(Joint-element connected rigid
 Block Model)  
 From IDeAOcean, I've made huge contributions to developing Mechanism Design Automation technology and preparing multiple journals.  
 Also using this technology, I've designed novel and practical mechanisms applicable to the *rear wing*, *sliding door*, *hood hinge*, etc, along with cooperating with Hyundai Motors.  
