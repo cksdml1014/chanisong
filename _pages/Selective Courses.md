@@ -5,6 +5,7 @@ permalink: /courses/
 author_profile: true
 ---
 ## Mathematical Foundation
+
 | Subject     | Description  | Semester     | Grades |
 |-------------|--------------|--------------|--------|
 | Honor Calculus and Practice 1 | Only top exam scorers can enroll  | Spring 2018  | A+     |
