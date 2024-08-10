@@ -7,11 +7,11 @@ author_profile: true
 ## Mathematical Foundation
 
 <table>
-  <tr style="background-color: #f2f2f2;">
-    <th style="width:50%">Subject</th>
-    <th style="width:30%">Description</th>
-    <th style="width:10%">Semester</th>
-    <th style="width:10%">Grades</th>
+  <tr style="background-color: #f2f2f2; border-bottom: 2px solid #000;">
+    <th style="width:50%; border-bottom: 2px solid #000;">Subject</th>
+    <th style="width:30%; border-bottom: 2px solid #000;">Description</th>
+    <th style="width:10%; border-bottom: 2px solid #000;">Semester</th>
+    <th style="width:10%; border-bottom: 2px solid #000;">Grades</th>
   </tr>
   <tr style="background-color: #ffffff;">
     <td>Honor Calculus and Practice 1</td>
@@ -84,11 +84,11 @@ author_profile: true
 ## Mechanics
 
 <table>
-  <tr style="background-color: #f2f2f2;">
-    <th style="width:50%">Subject</th>
-    <th style="width:30%">Description</th>
-    <th style="width:10%">Semester</th>
-    <th style="width:10%">Grades</th>
+  <tr style="background-color: #f2f2f2; border-bottom: 2px solid #000;">
+    <th style="width:50%; border-bottom: 2px solid #000;">Subject</th>
+    <th style="width:30%; border-bottom: 2px solid #000;">Description</th>
+    <th style="width:10%; border-bottom: 2px solid #000;">Semester</th>
+    <th style="width:10%; border-bottom: 2px solid #000;">Grades</th>
   </tr>
   <tr style="background-color: #ffffff;">
     <td>Thermodynamics</td>
@@ -125,11 +125,11 @@ author_profile: true
 ## Optimization, Control, Machine Learning, and Robotics
 
 <table>
-  <tr style="background-color: #f2f2f2;">
-    <th style="width:50%">Subject</th>
-    <th style="width:30%">Description</th>
-    <th style="width:10%">Semester</th>
-    <th style="width:10%">Grades</th>
+  <tr style="background-color: #f2f2f2; border-bottom: 2px solid #000;">
+    <th style="width:50%; border-bottom: 2px solid #000;">Subject</th>
+    <th style="width:30%; border-bottom: 2px solid #000;">Description</th>
+    <th style="width:10%; border-bottom: 2px solid #000;">Semester</th>
+    <th style="width:10%; border-bottom: 2px solid #000;">Grades</th>
   </tr>
   <tr style="background-color: #ffffff;">
     <td>Mechanical System Modeling and Control</td>
