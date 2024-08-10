@@ -11,38 +11,36 @@ author_profile: true
 | Honor Calculus and Practice 2 | Only top exam scorers can enroll  | Fall 2018  | A+     |
 | Differential Equations |   | Fall 2018  | A      |
 | Introduction to Linear Algebra |   | Winter 2018  | A      |
+| Introduction to Mathematical Analysis with Practice 1 |   | Spring 2019  | A+     |
+| Engineering Mathematics 1 | Differential Equations, Linear Algebra  | Spring 2019  | A     |
+| Modern Algebra 1 |   | Spring 2021  | A      |
+| Engineering Mathematics 1 | Vector Calculus, Fourier Transform, PDEs, Complex Analysis  | Fall 2021  | A      |
+| Linear Algebra 2 | Group Theory, Quadratic Form, Spectral Theorem  | Fall 2021  | A      |
+| Introduction to Mathematical Analysis 2 |  | Fall 2021  | A+      |
+| Introduction to Differential Geometry 1 |  | Spring 2022  | A      |
 
 
 ## Mechanics
 
-<table border="1" cellpadding="10" cellspacing="0">
-  <tr style="background-color: #f2f2f2; font-weight: bold;">
-    <th>Subject</th>
-    <th>Description</th>
-    <th>Semester</th>
-    <th>Grades</th>
-  </tr>
-  <tr>
-    <td>Row 1 Col 1</td>
-    <td>Row 1 Col 2</td>
-    <td>Row 1 Col 3</td>
-    <td>A+</td>
-  </tr>
-  <tr>
-    <td>Row 2 Col 1</td>
-    <td>Row 2 Col 2</td>
-    <td>Row 2 Col 3</td>
-    <td>A</td>
-  </tr>
-  <tr>
-    <td>Row 3 Col 1</td>
-    <td>Row 3 Col 2</td>
-    <td>Row 3 Col 3</td>
-    <td>A</td>
-  </tr>
-</table>
+| Subject     | Description  | Semester     | Grades |
+|-------------|--------------|--------------|--------|
+| Thermodynamics |   | Spring 2019  | A+     |
+| Solid Mechanics |   | Spring 2021  | A+     |
+| Dynamics |   | Fall 2021  | A+     |
+| Fluid Mechanics |   | Fall 2021  | A+     |
 
 
-## Optimization, Control and Machine Learning
+
+## Optimization, Control, Machine Learning, and Robotics
+
+| Subject     | Description  | Semester     | Grades |
+|-------------|--------------|--------------|--------|
+| Mechanical System Modeling and Control | Mechanical Systems, PID Control | Spring 2021  | A     |
+| Operations Research 1 | LP, Duality, Graph Theory, Game Theory | Spring 2022  | A+     |
+| Introduction to Robotics | Kinematics, Grasping, Motion Planning, Dynamic Programming | Spring 2022  | A+     |
+| Advanced Control Techniques | Control Theory, Optimal Control, MPC | Fall 2022  | A+     |
+| Mathematical Foundations of Deep Neural Networks | Control Theory, Optimal Control, MPC | Fall 2022  | A+     |
+
+
 
 ## Robotics
