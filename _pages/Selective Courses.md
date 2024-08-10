@@ -28,6 +28,7 @@ author_profile: true
 | Solid Mechanics |   | Spring 2021  | A+     |
 | Dynamics |   | Fall 2021  | A+     |
 | Fluid Mechanics |   | Fall 2021  | A+     |
+| Mechanics and Design |   | Fall 2022  | A+     |
 
 
 
@@ -39,8 +40,6 @@ author_profile: true
 | Operations Research 1 | LP, Duality, Graph Theory, Game Theory | Spring 2022  | A+     |
 | Introduction to Robotics | Kinematics, Grasping, Motion Planning, Dynamic Programming | Spring 2022  | A+     |
 | Advanced Control Techniques | Control Theory, Optimal Control, MPC | Fall 2022  | A+     |
-| Mathematical Foundations of Deep Neural Networks | Control Theory, Optimal Control, MPC | Fall 2022  | A+     |
+| Mathematical Foundations of Deep Neural Networks | Deep Learning | Fall 2022  | A+     |
+| Nonlinear Control |  | Spring 2023  | 1.0 (equivalent to A+)     |
 
-
-
-## Robotics
