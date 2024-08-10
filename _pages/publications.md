@@ -14,13 +14,16 @@ author_profile: true
   <p style="font-size: 12px; color: gray;">mechanism synthesis process using SBM (Click to Watch!)</p>
 </div>
 
-- My Research focuses on **Mechanism Design Automation**, which was first proposed and developed at *SNU's IDeALab*.  
-- It utilized a novel concept of describing linkages, using **SBM** Spring connected rigid Block Model) and **JBM** (Joint-element connected rigid Block Model)  
+- **Mechanism Design Automation** utilizes a novel concept of describing linkages using the **SBM (Spring-connected rigid Block Model)** and **JBM (Joint-element connected rigid Block Model)**.
+- These innovative models enable the automatic design of linkage mechanisms that can trace desired paths, showcasing the technology's ability to create mechanisms that were previously inconceivable by traditional human methods.
 
-- From *IDeAOcean*, I've made huge contributions to developing Mechanism Design Automation technology and preparing **multiple journals**.  
-- Also using this technology, I've designed **novel and practical mechanisms** applicable to the *rear wing*, *sliding door*, *hood hinge*, etc, along with cooperating with Hyundai Motors.  
+- The effectiveness of SBM and JBM models has been demonstrated in multiple journals.
+- One notable example is the paper "Automatic Synthesis of 1-DOF Transformable Wheel Mechanisms," published in IEEE Transactions on Robotics, which highlights the application of SBM in the field of robotics.
+- More information about previous contributions of Mechanism Design Automation Technology can be found from **[here](https://ideaocean.ai/technology/)**
 
-More information about previous contributions of Mechanism Design Automation Technology can be found from **[here](https://ideaocean.ai/technology/)**
+- **At IDeAOcean, I have leveraged SBM and JBM models to design novel and practical mechanisms for various automotive components, such as the *rear wing, sliding door, and hood hinge*, in collaboration with Hyundai Motors.**
+- **In addition, I have played a pivotal role in advancing Mechanism Design Automation technology, contributing significantly to the preparation and publication of *multiple journals*, which are listed below.**
+
 
 
 
