@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selective Courses"
+title: "Key Courses"
 permalink: /courses/
 author_profile: true
 ---
