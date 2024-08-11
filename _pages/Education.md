@@ -58,6 +58,13 @@ These are some of the events that influenced me a lot to grow ability as a educa
 
 ## Undergraduate Tutor
 
-- 
-
+- I worked as a tutor for 10 freshman taking course of calculus.
+- Since some students felt calculs hard and didn't catch the important point, I tried to give detailed feedbacks for them.
+- Especially I had enough knowhow of how to express math solutions in a good way, thanks to the courses that I took as a double major student in mathematics department, I could give feedback, not only about the contents of the calculus, but also teach them the proper ways to write solutions.
+ 
 ## Private Tutor
+
+- During my college years, except for the periods of military service and exchange years, I worked as a private tutor to middle school and high school students.
+- I taught in total of 8 different students, which varied the range of courses they studied starting from middle school math and physics up to caclculs and fundamental physics.
+- I found out that I had special strength in teaching: I could easily find out what part the students are struggling, or have lack of understanding. I could explain the contents in easy language, making them take step by step to fully understand the context.
+- Every single student performed better after taking my tutoring, and they advanced to the high school and college that they targeted.
