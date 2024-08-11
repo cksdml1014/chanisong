@@ -14,6 +14,13 @@ These are some of the events that influenced me a lot to grow ability as a educa
 
 ## Gong Dream Camp
 
+- Gong Dream camp is a 4-day mentroing camp for 120 high school students with 30 mentors from SENS participating.
+- SENS(Society of Engineering Network and Service) is a Engineering Education volunteer club of SNU College of Engineering
+- With other members of SENS, I hosted Gong Dream Camp 2 times.
+- I planned and operated startup contest for mentees, along with taking charge of 9 group mentees to control throughout the camp, and give personal consultation about their worries about schoolworks and future plans.
+- I've also assisted other programs that nurture the mentees dreams as becoming an engineer, such as E-Contest which is building specific machine with limited resources, or introducing each specific major of engineering for them to know what can you learn at college and determine where to apply.
+- I gained so much love from the mentees throughout the camp, also with giving much care and love for them.
+
 ## SENS
 
 ## Major Snapshot
