@@ -40,13 +40,24 @@ These are some of the events that influenced me a lot to grow ability as a educa
 - As this date of August 12th of 2024, there are 106 Major Snapshots uploaded in STEMentor from various majors of engineering, and many high school students can now refer to these articles when they are curious what can they learn in college.
 - Especially one of my article: Introducing 4 major mechanics had biggest hit, marking the highest view of the major snapshot with 10000 views.
 - With it's peak, even the Google search engine refered to my article when you search '4대역학' in Google, which means 4 major mechanics in Korean. It illustrated 4 major mechanics as Solid mechanics, Thermodynamics, Fluid Mechanics, and Dynamics as I wrote in the article, which is different from 4 major mechanics from Physics. It is still listed on top of the search result from Google.
-- You can connect to my 3 articles with the following links, all written in Korean. [4 Major Mechanics](https://stementor.tistory.com/entry/%EA%B8%B0%EA%B3%84%EA%B3%B5%ED%95%99%EB%B6%80-4%EB%8C%80%EC%97%AD%ED%95%99-%EC%86%8C%EA%B0%9C) [Robotics](https://stementor.tistory.com/entry/%EA%B8%B0%EA%B3%84%EA%B3%B5%ED%95%99%EB%B6%80-%EB%A1%9C%EB%B4%87%EA%B3%B5%ED%95%99%EC%9E%85%EB%AC%B8), [Mechanics and Design](https://stementor.tistory.com/entry/%EA%B8%B0%EA%B3%84%EA%B3%B5%ED%95%99%EB%B6%80-%EC%97%AD%ED%95%99%EA%B3%BC-%EC%84%A4%EA%B3%84)
+- You can connect to my 3 articles with the following links, all written in Korean. [4 Major Mechanics](https://stementor.tistory.com/entry/%EA%B8%B0%EA%B3%84%EA%B3%B5%ED%95%99%EB%B6%80-4%EB%8C%80%EC%97%AD%ED%95%99-%EC%86%8C%EA%B0%9C), [Robotics](https://stementor.tistory.com/entry/%EA%B8%B0%EA%B3%84%EA%B3%B5%ED%95%99%EB%B6%80-%EB%A1%9C%EB%B4%87%EA%B3%B5%ED%95%99%EC%9E%85%EB%AC%B8), [Mechanics and Design](https://stementor.tistory.com/entry/%EA%B8%B0%EA%B3%84%EA%B3%B5%ED%95%99%EB%B6%80-%EC%97%AD%ED%95%99%EA%B3%BC-%EC%84%A4%EA%B3%84)
 - Until this day after I graduated STEM as an Honor member, I still give feedback to newly updated major snapshots to make them more understandable to high school students.
 
 ## Vision Exhibition
 
-## Personal record of professros
+- Reaching my junior and senior years in SNU, I realized that giving advice to freshman and sophomores are also essential, remembering the lack of information and advice I had in my first 2 years of college.
+- Through Vision Exhibition from STEM, I could give speech to 100 freshman and sophomores in SNU college of engineering.
+- I could introduce Mechanism Design Automation Technology to students which is an unfamiliar field of engineering for them, and even for researchers in academic fields. I emphasized the potential of this technology and wanted to introduce mentees to broad fields of engineering.
+- Also, I could share my experience of my life as an exchange student in RWTH Aachen University, and my experience working at a startup *IDeAOcean*. 
+
+## Personal record of professors
+
+- After I got my dream of being a professor one day, I made special interest to the ways of professors are teaching courses. I tried to catch what kinds of message they are trying to convey through classes.
+- After end of each semester, I wrote detailed and innocent feedback of the lectures to the professors, also with pondering the efficiency of the curriculum that the department provides. I could give detailed feedback of the curriculums to the department, emphasizing some inferior infrastructure of the computer room and lack of research related courses. I also pointed out that some mandatory courses seemes unneccessory, but taking up so much time compared to other important courses that needed enough time to understand. After the survey, new computers are installed, and the number of mandtory courses had decreased, and UROP program had appeared.
+- In addition to the formal feedback to the department and to the professors, I am recording more detailed feelings and what I learned, how I suffered and how do I think that the teaching method of the course could be better, thinking about the time when I became a professor and had to teach those contents to students. I believe that these documents could be a great help for me when I become a professor one day.
 
 ## Undergraduate Tutor
+
+- 
 
 ## Private Tutor
