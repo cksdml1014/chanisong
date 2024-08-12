@@ -29,6 +29,13 @@ men and sophomores (Feb 2024).
 
 ## SRT
 
+- SRT is the activity that I have strong attraction and devoted a lot of work and love to it.
+- SRT, which stands for Student Round Table is a huge event between about 50 college students from 4 Asian countries (Korea, Japan, Taiwan, Mongolia) to discuss currently significant international problems that these countries should resovle and think of various ways for these countries to unite and incorporate with each other.
+- Each year, STEM members participate in SRT, representing the team Korea.
+- Every year, each countries take turns to host the event, which has to prepare the conference along with preparing extra events so that the members can get to know each other, to understand the cultural difference and become good friends.
+- I took the charge of becoming the chairman of SRT 2022, which was hosted in Korea.
+- Due to Covid, 
+
 ## PR
 
 ## Tech square
