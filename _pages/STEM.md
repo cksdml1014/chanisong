@@ -37,7 +37,9 @@ men and sophomores (Feb 2024).
 - Due to Covid, SRT 2020 and 2021 was held online, and SRT 2022 was also planned to held online.
 - Since the Covid era was drastical to both SRT and STEM activity, it was both really hard but to important to encourage other members to participate and plan for this event, which was really hard due to the reason that it would be held as an online event.
 - I tried to make this event as special and intimate as possible, came up and executed various ideas: 2-day Internal workshop with SRT Korean members to get closer to each other, opening up small zoom events 2 months before the SRT, opening specialized Slack for SRT members and hosting regular events to describe each other and writing comments to them, Sending Korean snacks to other countries by post so they can participate in food sharing event, gathering handwritings from each countries via online, and assemblying them to make a speicalized SRT bag and sending them as a gift, with handwritten postcard with them.
-- 
+- It turned out with great results: most of the members, either from Korea or abroad, were very touched by this event, many crying when it ended.
+- We could had in depth conference about four big topics: environment, techonology, covid regulation, and ???.
+- We made good cultural exchange by sharing the pre-made Vlogs of our lives in our home university, and language sharing eventI've also received a 
 
 ## PR
 
