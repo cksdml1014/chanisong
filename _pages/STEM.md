@@ -34,7 +34,10 @@ men and sophomores (Feb 2024).
 - Each year, STEM members participate in SRT, representing the team Korea.
 - Every year, each countries take turns to host the event, which has to prepare the conference along with preparing extra events so that the members can get to know each other, to understand the cultural difference and become good friends.
 - I took the charge of becoming the chairman of SRT 2022, which was hosted in Korea.
-- Due to Covid, 
+- Due to Covid, SRT 2020 and 2021 was held online, and SRT 2022 was also planned to held online.
+- Since the Covid era was drastical to both SRT and STEM activity, it was both really hard but to important to encourage other members to participate and plan for this event, which was really hard due to the reason that it would be held as an online event.
+- I tried to make this event as special and intimate as possible, came up and executed various ideas: 2-day Internal workshop with SRT Korean members to get closer to each other, opening up small zoom events 2 months before the SRT, opening specialized Slack for SRT members and hosting regular events to describe each other and writing comments to them, Sending Korean snacks to other countries by post so they can participate in food sharing event, gathering handwritings from each countries via online, and assemblying them to make a speicalized SRT bag and sending them as a gift, with handwritten postcard with them.
+- 
 
 ## PR
 
