@@ -63,7 +63,8 @@ men and sophomores (Feb 2024).
 - Tech square was an another activity that I really enjoyed in STEM.
 - Through Tech square, STEM members held a in-depth conference about a big topic, each preparing some research about a related subtopic, and exchange opinions with each other.
 - I've participated Tech square two times, one about the topic 'Sustainable City', and the other about 'Future Techniques'.
-- 
+- I've made speach about change of engines of automobiles and aerial vehicles related to sustainability, and policy related to engineering techniques.
+- Through tech square, we could discuss serious issues that we might not think of during research process, and we could fuse knokwledge and research from various fields.
 
 ## Vision Exhibition
 
