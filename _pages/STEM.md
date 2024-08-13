@@ -5,19 +5,6 @@ permalink: /STEM/
 author_profile: true
 ---
 
- STEM (SNU Engineers Honor Society) | College of Engineering, SNU
- Sep 2021- Present
- Graduated as an Honors Member for exceptional contributions as HR/PR Director and Chairman of SRT 2022.
- • Chairman, Student Round Table (SRT): Hosted and organized a successful four-day international conference uniting
- 50 delegates from 4 Asian countries. Led academic sessions and facilitated cultural exchanges.
- • Speaker, Tech Square Academic Seminar: Presented on power systems regarding environmental regulations (May
- 2022) and Social Policy on Technology (Nov 2022).
- • Speaker, Vision Exhibition: Presented on automatic linkage mechanism design methodology (SBM) to over 100 fresh
-men and sophomores (Feb 2024).
- • Major Snapshot: Authored three articles introducing major courses in the ME department, achieving a top-ranked
- Google search result for the keyword ’Mechanics’ in Korean with over 10,000 views.
- • Bi-Weekly Academic Seminars: Regularly discussed recent engineering issues in various fields
-
 - STEM is a Honor Society for SNU engineering students, standing for SNU Tomorrow's Edge Membership.
 - Every year, between 20~30 students with superior academic performance and great will to contribute in engineering fields are allowed to join STEM.
 - Most of the alumnis and even the current active members are now performing well and contributing a lot in various fields of academia and industry, many of them graduated or taking phd programs from top engineering institues in the US and Korea.
@@ -75,7 +62,9 @@ men and sophomores (Feb 2024).
 
 ## Academic Seminar
 
-- 
+- One of my favorite part about STEM is that I can listen to high quality seminars bi-weekly. Every other week, 2 students from STEM make seminar about engineering, usually related to their research area.
+- Through these seminars, I can easily catch up with research from various areas like soft robotics, anit-aging, machine learning, quantum computing, Nuclear fusion, etc.
+- After graduation as a honors member, I am participating in these academic seminars to catch up and discuss engineering issues. 
 
 ## Major Snapshot
 
