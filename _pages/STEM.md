@@ -60,6 +60,11 @@ men and sophomores (Feb 2024).
 
 ## Tech square
 
+- Tech square was an another activity that I really enjoyed in STEM.
+- Through Tech square, STEM members held a in-depth conference about a big topic, each preparing some research about a related subtopic, and exchange opinions with each other.
+- I've participated Tech square two times, one about the topic 'Sustainable City', and the other about 'Future Techniques'.
+- 
+
 ## Vision Exhibition
 
 ## Academic Seminar
