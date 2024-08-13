@@ -49,6 +49,15 @@ men and sophomores (Feb 2024).
 
 ## PR
 
+- I've worked as a chair of department of Public Relation department and led the department members with organizing various activities.
+- I've organized and operated academic session with GLEAP, which is a honor scoeity for SNU natural science. It was interesting to study different approaches that science and math majors take and the different points that they consider important in their research, for example like fields in optimization and deep learning.
+- Since most members and alumins of GLEAP are also performing well and contributing a lot in various fields of academia, the seminars they present was interesting and high-quaility.
+- I've gathered seminar topics and give feedback to STEM members based on their materials, because it should be understable to non-engineers.
+- I've also came out with an new idea of making pre-gorup meeting, ice-breaking and intermission time to make chances for STEM members and GLEAP members to get closer. This also considered that participating several seminars in a row wouldn't be recommended.
+- Another big event that I've organized was sports day with SENS and gongsang, which are other clubs in SNU college of engineering both targeting education based volunteer works for high school students, and composed of mostly freshman and sophomores.
+- Through this event, I wanted to make it as a good opportunity to meet younger students, since we can be a good mentor for them. The event also worked out well, and many of the SENS and gongsang members later joined STEM too.
+- Another big reponsibility of Public Relation chair was as a executive of STEM, to operate the STEM and find ways for STEM to make more comfortable space for members to be friends and talk freely about engineering and other issues. After covid, reviving this mood was difficult but crucial, and the executives met bi-weekly to talk about how we should progress and what programs to operate to make this honor society a better organization. We really talke a lot through the meeting, lasting 3 hours and more, sometimes resulting in serious conflicts. But overcoming the conflicts and through those process, we were able to revive the mood and members became enthusiastic to STEM activities.
+
 ## Tech square
 
 ## Vision Exhibition
