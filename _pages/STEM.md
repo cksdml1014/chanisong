@@ -78,4 +78,8 @@ author_profile: true
 - You can connect to my 3 articles with the following links, all written in Korean. [4 Major Mechanics](https://stementor.tistory.com/entry/%EA%B8%B0%EA%B3%84%EA%B3%B5%ED%95%99%EB%B6%80-4%EB%8C%80%EC%97%AD%ED%95%99-%EC%86%8C%EA%B0%9C), [Robotics](https://stementor.tistory.com/entry/%EA%B8%B0%EA%B3%84%EA%B3%B5%ED%95%99%EB%B6%80-%EB%A1%9C%EB%B4%87%EA%B3%B5%ED%95%99%EC%9E%85%EB%AC%B8), [Mechanics and Design](https://stementor.tistory.com/entry/%EA%B8%B0%EA%B3%84%EA%B3%B5%ED%95%99%EB%B6%80-%EC%97%AD%ED%95%99%EA%B3%BC-%EC%84%A4%EA%B3%84)
 - Until this day after I graduated STEM as an Honor member, I still give feedback to newly updated major snapshots to make them more understandable to high school students.
 
-## Exercise
+## Sports
+
+- Besides academic activities, I've spent a lot of times with STEM members, especially doing sports together.
+- One of the most unexpected accomplishment with STEM members was winning the **2nd place at futsal competition**, where all SNU engineering students can participate, and I was the core member to play the goal keeper.
+- For other sports, we ran the school marathon together, going to row kayak in the river, or taking the swimming lesson together.
