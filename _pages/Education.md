@@ -11,17 +11,26 @@ Throughout my academic journey, I have taken many opportunities to grow as an ed
 
 ## Gong Dream Camp
 
+![Gong Dream Camp](url_to_image) 
+*Caption: Mentoring high school students during Gong Dream Camp*
+
 - **Overview:** Gong Dream Camp is a four-day mentoring camp for 120 high school students, organized by SENS (Society of Engineering Network and Service) at SNU. I participated as a mentor twice.
 - **Role:** I planned and facilitated a startup contest for the mentees and provided personal guidance to nine students. I also assisted with various engineering challenges such as the E-Contest, which involved building machines with limited resources, and introduced different engineering majors to help students make informed decisions about their future studies.
 - **Impact:** The relationships I built with the mentees continue today, as I still provide them with advice on their studies and career paths. The experience taught me the value of mentorship and the joy of helping students find direction in their academic journeys.
 
 ## SENS (Society of Engineering Network and Service)
 
+![SENS Mentoring](url_to_image)
+*Caption: Mentoring sessions with students from the SENS program*
+
 - **Volunteer Work:** Beyond Gong Dream Camp, I completed 87.5 hours of volunteer mentoring through SENS. I served as both the Daily Engineering Class chair and vice president of the organization.
 - **Program Development:** As chair, I developed a new class program on the "Principle of Viscoelasticity" using potato starch slurry for hands-on experiments. This program has been in use for over seven years, giving middle school students an engaging introduction to engineering concepts. Additionally, I introduced various engineering majors to high school students to help them better understand their future academic options.
 - **Leadership:** As an executive member, I contributed to program revisions and helped foster enthusiasm for mentoring among fellow students. I built strong friendships with like-minded peers, further deepening my commitment to engineering education.
 
 ## Major Snapshot and STEMentor
+
+![4 Major Mechanics Google Result](url_to_image)
+*Caption: "4 Major Mechanics" article as the top search result on Google for "4대역학"*
 
 - **Motivation:** After my involvement with SENS, I recognized the need for more students to have access to clear information about engineering majors. This led to my initiative to expand beyond face-to-face mentoring and contribute to a larger audience.
 - **STEMentor Contributions:** After joining SNU's STEM Honor Society, I initiated the "Major Snapshot" program on the **[STEMentor](https://stementor.tistory.com/)** website, where members share insights about their major courses. This resource, now featuring over 110 articles, helps high school students gain a better understanding of engineering education.
