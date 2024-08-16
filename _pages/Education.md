@@ -5,66 +5,44 @@ permalink: /education/
 author_profile: true
 ---
 
-Education is another field that I value a lot as well as engineering and research, and therefore I've put much effort and consideration into it.  
-I believe that education is one of the most powerful tools to influence the world and people.  
-Also, it is one of the best way to use my talent and to share knowledge, to lead others to live better lives, and to make a more equal and sharing society.  
-One of my biggest reason to pursue PhD course is to gain enough experience and knowledge with others, to learn others how to study and research, and therefore getting enough skills to become a professor, which I can contribute to many students a lot.  
-My devotion into education has persisted throughout my schooldays, and I had participated in some significan events that I learnt how to convey my knowledge and experience to others, and find out I have a strong talent in this area.  
-These are some of the events that influenced me a lot to grow ability as a educator.  
+Education is a field that I value deeply, alongside engineering and research. I believe education is one of the most powerful tools to influence the world and shape the lives of others. It is a way to use my talents to share knowledge, guide others toward better lives, and contribute to a more equitable society. One of my primary reasons for pursuing a PhD is to gain the experience and knowledge necessary to teach and mentor future students as a professor.
+
+Throughout my academic journey, I have taken many opportunities to grow as an educator and mentor. Below are some of the experiences that have had a significant impact on my development as an educator:
 
 ## Gong Dream Camp
 
-- Gong Dream camp is a 4-day mentroing camp for 120 high school students with 30 mentors from SENS participating.
-- SENS(Society of Engineering Network and Service) is a Engineering Education volunteer club of SNU College of Engineering
-- With other members of SENS, I hosted Gong Dream Camp 2 times.
-- I planned and operated startup contest for mentees, along with taking charge of 9 group mentees to control throughout the camp, and give personal consultation about their worries about schoolworks and future plans.
-- I've also assisted other programs that nurture the mentees dreams as becoming an engineer, such as E-Contest which is building specific machine with limited resources, or introducing each specific major of engineering for them to know what can you learn at college and determine where to apply.
-- I gained so much love and thanks from the mentees throughout the camp, also with giving much care and love for them.
-- After the camp, I am keeping in touch with my mentees, giving them advice for study and hanging out time by time.
+- **Overview:** Gong Dream Camp is a four-day mentoring camp for 120 high school students, organized by SENS (Society of Engineering Network and Service) at SNU. I participated as a mentor twice.
+- **Role:** I planned and facilitated a startup contest for the mentees and provided personal guidance to nine students. I also assisted with various engineering challenges such as the E-Contest, which involved building machines with limited resources, and introduced different engineering majors to help students make informed decisions about their future studies.
+- **Impact:** The relationships I built with the mentees continue today, as I still provide them with advice on their studies and career paths. The experience taught me the value of mentorship and the joy of helping students find direction in their academic journeys.
 
-## SENS
+## SENS (Society of Engineering Network and Service)
 
-- Besides 2 times of Gong Dream Camp, I've done various mentoring volunteering with SENS members, summing up to 87.5 hours of volunteer work.
-- I've took the executive roles twice, one for taking the charge of Daily Engineering Class chair and once as a vice-president role.
-- While working as a Daily Engineering Class chair, I've developed a new program for the class called 'Principle of viscoelasticity' with using potato starch slurry for students to experiment with, which is still using in SENS for 7 year now.
-- Through Daily Engineering Class program, I could introduce engineering to middle school students, with programs like 'Principle of viscoelasticity', 'Glider folding contest', and 'building spaghetti and marshmellow tower' and convey the importance of efficiency and safety in engineering. I could also give campus tours to the mentees and give study advice, along with growing their dreams of becoming an engineer.
-- Through Engineering Talk Tal program, I introduced my major: mechanical engineering to high school students. Thining about the periods that I suffered due to lack of information about the different majors of engineering, I tried to convey information as easy and helpful as possible. The major courses, what do they teach, and what kinds of engineering field and jobs you can take.
-- Working as an executive, I could give opinions about how to revise the programs to make more efficient mentoring, and how to make other students more enthusiastic into mentoring programs. Participating in the executive meeting bi-weekly, I could make good friends that has strong interest with engineering education and make good friends with them, which still gives me a lot of insights.
+- **Volunteer Work:** Beyond Gong Dream Camp, I completed 87.5 hours of volunteer mentoring through SENS. I served as both the Daily Engineering Class chair and vice president of the organization.
+- **Program Development:** As chair, I developed a new class program on the "Principle of Viscoelasticity" using potato starch slurry for hands-on experiments. This program has been in use for over seven years, giving middle school students an engaging introduction to engineering concepts. Additionally, I introduced various engineering majors to high school students to help them better understand their future academic options.
+- **Leadership:** As an executive member, I contributed to program revisions and helped foster enthusiasm for mentoring among fellow students. I built strong friendships with like-minded peers, further deepening my commitment to engineering education.
 
-## Major Snapshot
+## Major Snapshot and STEMentor
 
-- Activities from SENS had gave me great opportunites to give mentoring and love to mentees, which brought me so much happiness in the fact that I could be a great help for them. Especially, introducing each majors to high school students seemed so cruical for students, as I didn't have enough information about it when I was their age. But with SENS activities, I could only convey information and contribute to the students that I could meet face to face. There were a lot of other students that still need those information and I tried to wonder what else I can do for them.
-- After I joined STEM, which is SNU Engineers Honor Society, I could post articles to [STEMentor](https://stementor.tistory.com/), which is a website used to post informative articles about engineering by STEM members. STEMentor is a huge website with total of more than 1.6 million views, and I found this as a great chance to convey information to other students that I can't reach offline.
-- When I became the executive of STEM, I came out with a program of writing 'Major Snapshot' in STEMentor where members of STEM can convey information of the major courses they take, in the level that high school students can understand.
-- With encouraging memebers of STEM to write Major Snapshots, I could also write 3 articles introducing 4 major mechanics, robotics, and mechanics and design which I regarded as crucial courses of mechanical engineering.
-- As this date of August 12th of 2024, there are 106 Major Snapshots uploaded in STEMentor from various majors of engineering, and many high school students can now refer to these articles when they are curious what can they learn in college.
-- Especially one of my article: Introducing 4 major mechanics had biggest hit, marking the highest view of the major snapshot with 10000 views.
-- With it's peak, even the Google search engine refered to my article when you search '4대역학' in Google, which means 4 major mechanics in Korean. It illustrated 4 major mechanics as Solid mechanics, Thermodynamics, Fluid Mechanics, and Dynamics as I wrote in the article, which is different from 4 major mechanics from Physics. It is still listed on top of the search result from Google.
-- You can connect to my 3 articles with the following links, all written in Korean. [4 Major Mechanics](https://stementor.tistory.com/entry/%EA%B8%B0%EA%B3%84%EA%B3%B5%ED%95%99%EB%B6%80-4%EB%8C%80%EC%97%AD%ED%95%99-%EC%86%8C%EA%B0%9C), [Robotics](https://stementor.tistory.com/entry/%EA%B8%B0%EA%B3%84%EA%B3%B5%ED%95%99%EB%B6%80-%EB%A1%9C%EB%B4%87%EA%B3%B5%ED%95%99%EC%9E%85%EB%AC%B8), [Mechanics and Design](https://stementor.tistory.com/entry/%EA%B8%B0%EA%B3%84%EA%B3%B5%ED%95%99%EB%B6%80-%EC%97%AD%ED%95%99%EA%B3%BC-%EC%84%A4%EA%B3%84)
-- Until this day after I graduated STEM as an Honor member, I still give feedback to newly updated major snapshots to make them more understandable to high school students.
+- **Motivation:** After my involvement with SENS, I recognized the need for more students to have access to clear information about engineering majors. This led to my initiative to expand beyond face-to-face mentoring and contribute to a larger audience.
+- **STEMentor Contributions:** After joining SNU's STEM Honor Society, I initiated the "Major Snapshot" program on the **[STEMentor](https://stementor.tistory.com/)** website, where members share insights about their major courses. This resource, now featuring over 110 articles, helps high school students gain a better understanding of engineering education.
+- **Impact:** I personally contributed three articles on mechanical engineering topics, including "4 Major Mechanics," "Robotics," and "Mechanics and Design." My article on "4 Major Mechanics" has garnered over 17,000 views and is currently the top search result on Google for the term "4대역학" (Four Major Mechanics). Across all my articles, I have accumulated over 22,000 views. These articles continue to guide students in making informed decisions about their academic futures.
 
 ## Vision Exhibition
 
-- Reaching my junior and senior years in SNU, I realized that giving advice to freshman and sophomores are also essential, remembering the lack of information and advice I had in my first 2 years of college.
-- Through Vision Exhibition from STEM, I could give speech to 100 freshman and sophomores in SNU college of engineering.
-- I could introduce Mechanism Design Automation Technology to students which is an unfamiliar field of engineering for them, and even for researchers in academic fields. I emphasized the potential of this technology and wanted to introduce mentees to broad fields of engineering.
-- Also, I could share my experience of my life as an exchange student in RWTH Aachen University, and my experience working at a startup *IDeAOcean*. 
+- **Overview:** During my junior and senior years at SNU, I began mentoring younger students, remembering the lack of guidance I experienced during my first two years of college. The Vision Exhibition, hosted by STEM, provided an opportunity to share my experiences with over 100 freshmen and sophomores in the College of Engineering.
+- **Content:** I introduced students to Mechanism Design Automation Technology, a relatively new field even among academics. I emphasized its potential impact and encouraged students to explore broad fields within engineering. I also shared my experiences as an exchange student at RWTH Aachen University and as a researcher at **IDeAOcean**.
 
-## Personal record of professors
+## Observations on Teaching and Curriculum Development
 
-- After I got my dream of being a professor one day, I made special interest to the ways of professors are teaching courses. I tried to catch what kinds of message they are trying to convey through classes.
-- After end of each semester, I wrote detailed and innocent feedback of the lectures to the professors, also with pondering the efficiency of the curriculum that the department provides. I could give detailed feedback of the curriculums to the department, emphasizing some inferior infrastructure of the computer room and lack of research related courses. I also pointed out that some mandatory courses seemes unneccessory, but taking up so much time compared to other important courses that needed enough time to understand. After the survey, new computers are installed, and the number of mandtory courses had decreased, and UROP program had appeared.
-- In addition to the formal feedback to the department and to the professors, I am recording more detailed feelings and what I learned, how I suffered and how do I think that the teaching method of the course could be better, thinking about the time when I became a professor and had to teach those contents to students. I believe that these documents could be a great help for me when I become a professor one day.
+- **Reflection on Teaching:** Aspiring to become a professor, I have closely observed various teaching methods and curricula throughout my studies. After each semester, I provided detailed feedback to professors, offering constructive suggestions for course improvements and better resource allocation, such as improving computer labs and optimizing course requirements.
+- **Impact:** My feedback has led to the installation of new computers and a revision of the mandatory course structure. I also keep personal records of my thoughts on teaching methods, course design, and what I would change when I eventually teach, preparing for the day when I become a professor myself.
 
 ## Undergraduate Tutor
 
-- I worked as a tutor for 10 freshman taking course of calculus.
-- Since some students felt calculs hard and didn't catch the important point, I tried to give detailed feedbacks for them.
-- Especially I had enough knowhow of how to express math solutions in a good way, thanks to the courses that I took as a double major student in mathematics department, I could give feedback, not only about the contents of the calculus, but also teach them the proper ways to write solutions.
- 
+- **Role:** I tutored freshmen in calculus, focusing on areas where they struggled and offering feedback on how to approach mathematical problems more effectively. Drawing on my background as a double major in mathematics, I also taught students how to present solutions clearly and logically.
+- **Results:** My students improved significantly in their understanding of calculus, with many achieving their academic goals as a result of our sessions.
+
 ## Private Tutor
 
-- During my college years, except for the periods of military service and exchange years, I worked as a private tutor to middle school and high school students.
-- I taught in total of 8 different students, which varied the range of courses they studied starting from middle school math and physics up to caclculs and fundamental physics.
-- I found out that I had special strength in teaching: I could easily find out what part the students are struggling, or have lack of understanding. I could explain the contents in easy language, making them take step by step to fully understand the context.
-- Every single student performed better after taking my tutoring, and they advanced to the high school and college that they targeted.
+- **Tutoring Experience:** Throughout my college years, except during military service and my exchange program, I worked as a private tutor for middle and high school students. I taught eight different students subjects ranging from middle school math and physics to college-level calculus and physics.
+- **Teaching Strengths:** I excelled at identifying students' problem areas and breaking down complex concepts into manageable steps. Every student I tutored made measurable progress and succeeded in achieving their academic goals.
