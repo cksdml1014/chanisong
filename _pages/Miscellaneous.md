@@ -39,6 +39,9 @@ I documented my entire exchange experience in detail through Instagram, writing 
 
 
 ## ROKAF (to be updated)
+- Staring from August 2019, I served mandatory military service at ROKAF(Repulic Of Korea Air Force) for 21.5 months.
+- This period as a soldier was an barrier for me to study engineering, but I utilized it as  a precious chance to enhance in various aspects, which became a solid background for me pursuing my bachelor years, and also will be a great source during my PhD years.
+- 
 - Leadership
 - Books
 - English
