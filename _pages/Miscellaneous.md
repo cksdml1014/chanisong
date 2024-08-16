@@ -38,7 +38,7 @@ My experience in Germany also helped me realize the advantages of studying in re
 I documented my entire exchange experience in detail through Instagram, writing 510 daily posts over six months. This diary not only serves as a record of this pivotal time in my life but also as a source of reflection on how much I grew during this semester.
 
 
-## ROKAF
+## ROKAF (to be updated)
 - Leadership
 - Books
 - English
