@@ -5,81 +5,69 @@ permalink: /STEM/
 author_profile: true
 ---
 
-- STEM is a Honor Society for SNU engineering students, standing for SNU Tomorrow's Edge Membership.
-- Every year, between 20~30 students with superior academic performance and great will to contribute in engineering fields are allowed to join STEM.
-- Most of the alumnis and even the current active members are now performing well and contributing a lot in various fields of academia and industry, many of them graduated or taking phd programs from top engineering institues in the US and Korea.
-- With STEM members, we discuss various of engineering issues with each other and also participate in various events that can be held by a honor society.
-- I regard communication between engineers of various fields really important, and also like to transfer opinions about research issues, or more broad issues like research ethics and the way engineers should develop.
-- I really loved participating activities with STEM members, and made so many good friends inside this group.
-- I've graduate STEM as an Honors Member for exceptional contributions as HR/PR Director and Chairman of SRT 2022.
-- Even after graduation, I am still participating in some STEM activities, to gain insights from the seminars, and to communicate with the members to understand the current flow of engineering and to search for ways to incorporate with my research.
+STEM (SNU Tomorrow's Edge Membership) is an honor society for Seoul National University engineering students. Each year, 20-30 students with outstanding academic performance and a strong commitment to advancing the field of engineering are invited to join. Many STEM alumni are now making significant contributions in academia and industry, with many pursuing or completing PhDs at top engineering institutions in Korea and abroad, including the U.S.
 
-## SRT
+With STEM members, I’ve had the opportunity to discuss various engineering issues, participate in meaningful activities, and foster a community of collaboration. I believe communication between engineers from different fields is vital, and I enjoy exchanging ideas not only on research but also on broader topics such as research ethics and the role of engineers in society. STEM has been a deeply enriching experience, where I’ve made valuable friendships and had the chance to grow as both an engineer and a leader.
 
-- SRT is the activity that I have strong attraction and devoted a lot of work and love to it.
-- SRT, which stands for Student Round Table is a huge event between about 50 college students from 4 Asian countries (Korea, Japan, Taiwan, Mongolia) to discuss currently significant international problems that these countries should resovle and think of various ways for these countries to unite and incorporate with each other.
-- Each year, STEM members participate in SRT, representing the team Korea.
-- Every year, each countries take turns to host the event, which has to prepare the conference along with preparing extra events so that the members can get to know each other, to understand the cultural difference and become good friends.
-- I took the charge of becoming the chairman of SRT 2022, which was hosted in Korea.
-- Due to Covid, SRT 2020 and 2021 was held online, and SRT 2022 was also planned to held online.
-- Since the Covid era was drastical to both SRT and STEM activity, it was both really hard but to important to encourage other members to participate and plan for this event, which was really hard due to the reason that it would be held as an online event.
-- I tried to make this event as special and intimate as possible, came up and executed various ideas: 2-day Internal workshop with SRT Korean members to get closer to each other, opening up small zoom events 2 months before the SRT, opening specialized Slack for SRT members and hosting regular events to describe each other and writing comments to them, Sending Korean snacks to other countries by post so they can participate in food sharing event, gathering handwritings from each countries via online, and assemblying them to make a speicalized SRT bag and sending them as a gift, with handwritten postcard with them.
-- It turned out with great results: most of the members, either from Korea or abroad, were very touched by this event, many crying when it ended.
-- We could had in depth conference about four big topics: environment, techonology, covid regulation, and ???.
-- We made good cultural exchange by sharing the pre-made Vlogs of our lives in our home university, and through language sharing event we can get not only basic knowledge of each others language, but also the culture behind it.
-- Food sharing was a super succeed, everyone was so thankful to receive Korean food from overseas, and they loved the food so much. We chat a lot through the food sharing event, promising that we'll meet the others soon.
-- At the end of the event, I've received a heartwarming rolling paper from all of the parcitipants and I felt so happy to organize such an event. This is also one of the moment that I decided to become a professor. I love to give love and good memories to others, and also love to see them being happy with it.
-- After the event, I could still have close interaction with SRT members from other countries: we chat about our careers, future, and also give helps to each other: like filming videos that could encourage other students to joint the SRT club of their countries. We've also received other snacks and handwritings from the other countries as a sign of thank you.
-- I've actually met some delegates and it was such a wholesome moment for me. I met Iori from SRT Japan at Cologne, Germany where she came from Oslo where she stayed for exchange semester to visit me when I was at exchange semester too. Seungwee from SRT Taiwan also came to Seoul the year after. I really enjoyed our times together, to hear their stories and what they'd gonna do in the future, also feeling happy that they are all curious about my story too.
-- I could grow in various areas through organizing and operating this event, and Enlgish is also one huge thing. Before this event, there weren't so much chances to communicate using English. Through SRT, I could gain a lot of confidence and experience of using English. Of course many other aspects like leadership, controlling conflicts between members, planning and organizing events from zero base with controlling various aspects, how to play it by ear when sudden inicidents occur, and just so many more.
-- It influenced STEM a lot too. STEM's members were not intimate with each other after 2 years of Covid, and many of the activities was not energetic at all. After SRT, the STEM members who participated in SRT made more energy to the whole STEM, encouraging other members to joint more activities, and they became the executive members, including myself, which led STEM become much activative club and to communicate a lot with each other. 
+I graduated from STEM as an Honors Member, recognized for my significant contributions, including my role as HR/PR Director and Chairman of SRT 2022. Even after graduation, I continue to participate in STEM activities, attending seminars to gain insights and stay connected with current trends in engineering.
 
-## PR
+## SRT (Student Round Table)
 
-- I've worked as a chair of department of Public Relation department and led the department members with organizing various activities.
-- I've organized and operated academic session with GLEAP, which is a honor scoeity for SNU natural science. It was interesting to study different approaches that science and math majors take and the different points that they consider important in their research, for example like fields in optimization and deep learning.
-- Since most members and alumins of GLEAP are also performing well and contributing a lot in various fields of academia, the seminars they present was interesting and high-quaility.
-- I've gathered seminar topics and give feedback to STEM members based on their materials, because it should be understable to non-engineers.
-- I've also came out with an new idea of making pre-gorup meeting, ice-breaking and intermission time to make chances for STEM members and GLEAP members to get closer. This also considered that participating several seminars in a row wouldn't be recommended.
-- Another big event that I've organized was sports day with SENS and gongsang, which are other clubs in SNU college of engineering both targeting education based volunteer works for high school students, and composed of mostly freshman and sophomores.
-- Through this event, I wanted to make it as a good opportunity to meet younger students, since we can be a good mentor for them. The event also worked out well, and many of the SENS and gongsang members later joined STEM too.
-- Another big reponsibility of Public Relation chair was as a executive of STEM, to operate the STEM and find ways for STEM to make more comfortable space for members to be friends and talk freely about engineering and other issues. After covid, reviving this mood was difficult but crucial, and the executives met bi-weekly to talk about how we should progress and what programs to operate to make this honor society a better organization. We really talke a lot through the meeting, lasting 3 hours and more, sometimes resulting in serious conflicts. But overcoming the conflicts and through those process, we were able to revive the mood and members became enthusiastic to STEM activities.
+SRT is one of the activities I am most passionate about. It is an annual event that brings together around 50 university students from Korea, Japan, Taiwan, and Mongolia to discuss critical international issues affecting these countries. The goal is to foster understanding and cooperation among future leaders from different cultures.
 
-## Tech square
+As Chairman of SRT 2022, which was hosted by Korea, I faced the challenge of organizing an event in the midst of the COVID-19 pandemic. Due to restrictions, the event had to be held online, but I worked hard to make it as special and engaging as possible. Some initiatives I introduced included:
+- A two-day internal workshop with SRT Korean members to build stronger connections before the event.
+- Regular Zoom meetings two months prior to the event to foster interaction among participants.
+- Specialized Slack channels for discussions and small events, allowing members to communicate regularly.
+- Sending Korean snacks by post to international participants for a food-sharing event.
+- Collecting handwritten notes from all countries and assembling them into a special SRT bag, which was sent to participants along with personalized postcards.
 
-- Tech square was an another activity that I really enjoyed in STEM.
-- Through Tech square, STEM members held a in-depth conference about a big topic, each preparing some research about a related subtopic, and exchange opinions with each other.
-- I've participated Tech square two times, one about the topic 'Sustainable City', and the other about 'Future Techniques'.
-- I've made speach about change of engines of automobiles and aerial vehicles related to sustainability, and policy related to engineering techniques.
-- Through tech square, we could discuss serious issues that we might not think of during research process, and we could fuse knokwledge and research from various fields.
+The result was a touching and memorable event. Participants from all countries expressed their appreciation, many even shedding tears at the conclusion. We held in-depth discussions on four major topics—environment, technology, COVID-19 regulations, and [insert fourth topic]—and engaged in cultural exchanges through pre-recorded vlogs and language-sharing activities. The food-sharing event, in particular, was a huge success, with everyone enjoying Korean snacks together.
+
+After SRT, I maintained close connections with members from other countries. We’ve continued to share our career aspirations, offer support, and even collaborate on initiatives such as videos encouraging others to join SRT. I’ve met several delegates in person, including Iori from Japan, who was studying in Norway at the time. She traveled to visit me in Germany during my exchange semester. Seungwee from Taiwan also visited me in Seoul the following year.
+
+SRT was a transformative experience for me, enhancing my leadership, conflict resolution, event organization, and English communication skills. It also played a pivotal role in my decision to become a professor, as I found great joy in organizing events that brought happiness and meaningful experiences to others.
+
+## HR/PR Director
+
+As HR/PR Director for STEM, I led several key initiatives, including organizing events and fostering connections between members. One of my proudest achievements was the joint academic session with GLEAP (the Honor Society for SNU Natural Sciences). This collaboration allowed engineering students to engage with science and math students, providing a unique opportunity to compare approaches and perspectives in fields such as optimization and deep learning.
+
+To encourage interaction among STEM and GLEAP members, I implemented pre-group meetings, icebreaker activities, and intermission breaks during the seminars. This helped foster a closer-knit community and allowed participants to better absorb the high-level material presented.
+
+I also organized a Sports Day event with SENS and Gongsang, two other volunteer organizations at SNU’s College of Engineering. This event provided an opportunity for younger students to meet potential mentors, and many of the participants later joined STEM.
+
+In my role as HR/PR Director, I also worked closely with the STEM executive team to improve the organization’s culture post-COVID. We met bi-weekly to discuss strategies for increasing member engagement and revitalizing STEM’s activities. These meetings were often long and challenging, but they were essential in fostering a more enthusiastic and supportive environment within the organization.
+
+## Academic Seminars
+
+One of my favorite aspects of STEM is the bi-weekly academic seminars, where members present their research on topics ranging from soft robotics to nuclear fusion. These seminars offer a valuable opportunity to stay informed about cutting-edge developments across various fields of engineering.
+
+In addition to student-led seminars, STEM invites alumni who are now pursuing PhDs, working as professors, or contributing to industry, to share their experiences and research. These sessions have exposed me to advancements in fields such as artificial intelligence, soft-robotics, and data science. Engaging with these alumni has provided invaluable insights into potential career paths and the evolving landscape of engineering research.
+
+Even after graduating as an Honors Member, I continue to participate in these seminars, which allow me to stay engaged with ongoing research and contribute to discussions on emerging technologies.
+
+## Tech Square
+
+Tech Square is one of the core activities in STEM, where members participate in in-depth discussions on major topics of interest. Each participant conducts research on a subtopic and shares their insights with the group. I participated in Tech Square twice, presenting on:
+- **Sustainable Cities:** I discussed the future of engine technology for automobiles and aerial vehicles, as well as the policies related to engineering for sustainability.
+- **Future Technologies:** I contributed to discussions on cutting-edge innovations and their potential impact on society.
+
+Tech Square allowed me to broaden my knowledge beyond my own research and engage in meaningful dialogue with members from different fields. It was an excellent opportunity to fuse ideas and expand my perspective on engineering’s role in addressing global challenges.
 
 ## Vision Exhibition
 
-- Reaching my junior and senior years in SNU, I realized that giving advice to freshman and sophomores are also essential, remembering the lack of information and advice I had in my first 2 years of college.
-- Through Vision Exhibition from STEM, I could give speech to 100 freshman and sophomores in SNU college of engineering.
-- I could introduce Mechanism Design Automation Technology to students which is an unfamiliar field of engineering for them, and even for researchers in academic fields. I emphasized the potential of this technology and wanted to introduce mentees to broad fields of engineering.
-- Also, I could share my experience of my life as an exchange student in RWTH Aachen University, and my experience working at a startup *IDeAOcean*.
+During my junior and senior years, I recognized the importance of mentoring younger students, especially freshmen and sophomores who may feel uncertain about their academic paths. Through STEM’s Vision Exhibition, I delivered a presentation to over 100 students, introducing them to Mechanism Design Automation Technology—a field unfamiliar to many students and even researchers.
 
-## Academic Seminar
+I emphasized the potential of this technology and encouraged students to explore the vast opportunities available in engineering. I also shared my experiences as an exchange student at RWTH Aachen University and as a researcher at the startup **IDeAOcean**, providing them with insights into both academic and industry careers.
 
-- One of my favorite part about STEM is that I can listen to high quality seminars bi-weekly. Every other week, 2 students from STEM make seminar about engineering, usually related to their research area.
-- Through these seminars, I can easily catch up with research from various areas like soft robotics, anit-aging, machine learning, quantum computing, Nuclear fusion, etc.
-- After graduation as a honors member, I am participating in these academic seminars to catch up and discuss engineering issues. 
+## Major Snapshot and STEMentor
 
-## Major Snapshot
+In addition to my work with SENS, where I mentored high school students on engineering majors, I also contributed to STEMentor, a website created by STEM members to provide accessible articles about engineering. This platform has garnered over 1.6 million views and serves as an invaluable resource for high school students seeking information about different engineering disciplines.
 
-- Activities from SENS had gave me great opportunites to give mentoring and love to mentees, which brought me so much happiness in the fact that I could be a great help for them. Especially, introducing each majors to high school students seemed so cruical for students, as I didn't have enough information about it when I was their age. But with SENS activities, I could only convey information and contribute to the students that I could meet face to face. There were a lot of other students that still need those information and I tried to wonder what else I can do for them.
-- After I joined STEM, which is SNU Engineers Honor Society, I could post articles to [STEMentor](https://stementor.tistory.com/), which is a website used to post informative articles about engineering by STEM members. STEMentor is a huge website with total of more than 1.6 million views, and I found this as a great chance to convey information to other students that I can't reach offline.
-- When I became the executive of STEM, I came out with a program of writing 'Major Snapshot' in STEMentor where members of STEM can convey information of the major courses they take, in the level that high school students can understand.
-- With encouraging memebers of STEM to write Major Snapshots, I could also write 3 articles introducing 4 major mechanics, robotics, and mechanics and design which I regarded as crucial courses of mechanical engineering.
-- As this date of August 12th of 2024, there are 106 Major Snapshots uploaded in STEMentor from various majors of engineering, and many high school students can now refer to these articles when they are curious what can they learn in college.
-- Especially one of my article: Introducing 4 major mechanics had biggest hit, marking the highest view of the major snapshot with 10000 views.
-- With it's peak, even the Google search engine refered to my article when you search '4대역학' in Google, which means 4 major mechanics in Korean. It illustrated 4 major mechanics as Solid mechanics, Thermodynamics, Fluid Mechanics, and Dynamics as I wrote in the article, which is different from 4 major mechanics from Physics. It is still listed on top of the search result from Google.
-- You can connect to my 3 articles with the following links, all written in Korean. [4 Major Mechanics](https://stementor.tistory.com/entry/%EA%B8%B0%EA%B3%84%EA%B3%B5%ED%95%99%EB%B6%80-4%EB%8C%80%EC%97%AD%ED%95%99-%EC%86%8C%EA%B0%9C), [Robotics](https://stementor.tistory.com/entry/%EA%B8%B0%EA%B3%84%EA%B3%B5%ED%95%99%EB%B6%80-%EB%A1%9C%EB%B4%87%EA%B3%B5%ED%95%99%EC%9E%85%EB%AC%B8), [Mechanics and Design](https://stementor.tistory.com/entry/%EA%B8%B0%EA%B3%84%EA%B3%B5%ED%95%99%EB%B6%80-%EC%97%AD%ED%95%99%EA%B3%BC-%EC%84%A4%EA%B3%84)
-- Until this day after I graduated STEM as an Honor member, I still give feedback to newly updated major snapshots to make them more understandable to high school students.
+I initiated the "Major Snapshot" program, where members of STEM write detailed articles about their major courses in a way that high school students can easily understand. I contributed three articles, including the widely-read "4 Major Mechanics," which received over 17,000 views and became the top Google search result for "4대역학" (Four Major Mechanics). My articles on robotics and mechanics & design have also helped students better understand mechanical engineering.
 
-## Sports
+Today, Major Snapshot includes over 110 articles, and I continue to provide feedback to new contributors, helping them refine their articles to make them more accessible to younger students.
 
-- Besides academic activities, I've spent a lot of times with STEM members, especially doing sports together.
-- One of the most unexpected accomplishment with STEM members was winning the **2nd place at futsal competition**, where all SNU engineering students can participate, and I was the core member to play the goal keeper.
-- For other sports, we ran the school marathon together, going to row kayak in the river, or taking the swimming lesson together.
+## Sports and Community
+
+Beyond academic activities, I’ve enjoyed spending time with STEM members through sports and other social events. One memorable achievement was winning 2nd place in the SNU engineering futsal competition, where I played as goalkeeper. We also participated in marathons, kayaking, and swimming lessons together, strengthening our bonds as a community.
