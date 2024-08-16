@@ -39,7 +39,7 @@ I plan to begin my PhD studies in 2025, and aspire to become a professor, where 
 
 - **Education:** Discover the diverse educational experiences that have shaped my passion for academia and my drive to become both a professor and a researcher.
 
-- **STEM Activities:** Learn about my involvement in SNU's Honor Society STEM, where collaboration with peers from various disciplines has allowed me to gain fresh insights and approach research challenges with creative solutions.
+- **STEM:** Learn about my involvement in SNU's Honor Society STEM, where collaboration with peers from various disciplines has allowed me to gain fresh insights and approach research challenges with creative solutions.
 
 - **Miscellaneous:** Here, you’ll find reflections on my time as an exchange student at RWTH Aachen University, where I embraced diverse cultural perspectives, and insights from my military service, which developed my leadership, discipline, and resilience.
 
