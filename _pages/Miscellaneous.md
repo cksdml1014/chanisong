@@ -42,7 +42,7 @@ I documented my entire exchange experience in detail through Instagram, writing 
 - Staring from August 2019, I served mandatory military service at ROKAF(Repulic Of Korea Air Force) for 21.5 months.
 - This period as a soldier was an barrier for me to study engineering, but I utilized it as  a precious chance to enhance in various aspects, which became a solid background for me pursuing my bachelor years, and also will be a great source during my PhD years.
 - Since there are strict hierarchy in military, I was supposed to follow orders, but I also had to order and lead successor soldiers. It was a great chance for me to lead the group in operations and drills. Moreover, I had to address many personal conflicts which of course occurs when you put male stranger guys of early 20s into a single room and make them to live together for years. I've shown great skills managing the conflicts by carefully listening to each other's perspective and trying to stay objective to convey the misunderstandings between them.
-- It also was a great chance to enhance my adaptability. Spending near 2 years in a small room with 8 guys is definitely uncomfortable with no privacy guaranteed. 
+- It also was a great chance to enhance my adaptability. Spending near 2 years in a small room with 8 guys is definitely uncomfortable with no privacy guaranteed. I easily adapted to the new culture and learned how to endure various circumstances. This helped me a lot especially in my exchange semester where I had to adapt to whole new culture with a lot of obstacles to overcome. It also will be a great background for me when I pursue my PhD in an another new culture.
 - Leadership
 - Books
 - English
