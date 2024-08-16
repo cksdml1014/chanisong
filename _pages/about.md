@@ -11,8 +11,6 @@ redirect_from:
     <img src="https://cksdml1014.github.io/chanisong/images/profile1.jpg" alt="Hi! I'm Chani!" style="width: 100%;">
 </div>
 
-## About Chan-Eui
-
 Welcome to my personal website!
 
 I created this space to showcase my work and research, which reflect my qualifications as a prospective PhD candidate and my journey toward pursuing a doctoral degree. Here, you'll find a collection of my academic projects, publications, and other efforts that have shaped my path and aspirations in research.
