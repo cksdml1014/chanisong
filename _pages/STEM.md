@@ -13,6 +13,17 @@ I graduated from STEM as an Honors Member, recognized for my significant contrib
 
 ## SRT (Student Round Table)
 
+<div style="display: flex; justify-content: space-between;">
+    <div style="width: 48%;">
+        <img src="https://cksdml1014.github.io/chanisong/images/SRT1.png" alt="SRT1" style="width: 100%;">
+        <p style="font-size: 12px; text-align: center;">Leading discussions on global issues with students from Korea, Japan, Taiwan, and Mongolia during the 2022 online SRT conference.</p>
+    </div>
+    <div style="width: 48%;">
+        <img src="https://cksdml1014.github.io/chanisong/images/SRT2.jpg" alt="SRT2" style="width: 100%;">
+        <p style="font-size: 12px; text-align: center;">Heartfelt gratitude from SRT Japan members after receiving their personalized gifts and participating in our cultural exchange activities.</p>
+    </div>
+</div>
+
 SRT is one of the activities I am most passionate about. It is an annual event that brings together around 50 university students from Korea, Japan, Taiwan, and Mongolia to discuss critical international issues affecting these countries. The goal is to foster understanding and cooperation among future leaders from different cultures.
 
 As Chairman of SRT 2022, which was hosted by Korea, I faced the challenge of organizing an event in the midst of the COVID-19 pandemic. Due to restrictions, the event had to be held online, but I worked hard to make it as special and engaging as possible. Some initiatives I introduced included:
@@ -48,6 +59,17 @@ Even after graduating as an Honors Member, I continue to participate in these se
 
 ## Tech Square
 
+<div style="display: flex; justify-content: space-between;">
+    <div style="width: 48%;">
+        <img src="https://cksdml1014.github.io/chanisong/images/TS1.JPG" alt="TS1" style="width: 100%;">
+        <p style="font-size: 12px; text-align: center;">Engaged in deep discussions at Tech Square, presenting ideas and actively contributing to the conversations on critical engineering topics with STEM members.</p>
+    </div>
+    <div style="width: 48%;">
+        <img src="https://cksdml1014.github.io/chanisong/images//TS2.JPG" alt="TS2" style="width: 100%;">
+        <p style="font-size: 12px; text-align: center;">Closing the Tech Square event with fellow STEM members, united by a shared passion for engineering and knowledge exchange.</p>
+    </div>
+</div>
+
 Tech Square is one of the core activities in STEM, where members participate in in-depth discussions on major topics of interest. Each participant conducts research on a subtopic and shares their insights with the group. I participated in Tech Square twice, presenting on:
 - **Sustainable Cities:** I discussed the future of engine technology for automobiles and aerial vehicles, as well as the policies related to engineering for sustainability.
 - **Future Technologies:** I contributed to discussions on cutting-edge innovations and their potential impact on society.
@@ -69,5 +91,10 @@ I initiated the "Major Snapshot" program, where members of STEM write detailed a
 Today, Major Snapshot includes over 110 articles, and I continue to provide feedback to new contributors, helping them refine their articles to make them more accessible to younger students.
 
 ## Sports and Community
+
+<div style="text-align: center;">
+    <img src="https://cksdml1014.github.io/chanisong/images/futsal.jpg" alt="Futsal" style="width: 50%;">
+    <p style="font-size: 12px;">Celebrating teamwork and perseverance after securing 2nd place in the university futsal competition.</p>
+</div>
 
 Beyond academic activities, I’ve enjoyed spending time with STEM members through sports and other social events. One memorable achievement was winning 2nd place in the SNU engineering futsal competition, where I played as goalkeeper. We also participated in marathons, kayaking, and swimming lessons together, strengthening our bonds as a community.
