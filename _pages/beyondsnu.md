@@ -11,21 +11,51 @@ In the Spring semester of 2023, I had the opportunity to study as an exchange st
 
 ### Academic Experience
 
+<div style="display: flex; justify-content: space-between;">
+    <div style="width: 32%;">
+        <img src="https://cksdml1014.github.io/chanisong/images/class1.png" alt="class1" style="width: 100%;">
+        <p style="font-size: 12px; text-align: center;">Attending the introductory lecture on Reinforcement Learning and Learning-Based Control at RWTH Aachen University.</p>
+    </div>
+    <div style="width: 32%;">
+        <img src="https://cksdml1014.github.io/chanisong/images/class2.png" alt="class2" style="width: 100%;">
+        <p style="font-size: 12px; text-align: center;">Participating in a computer lab session for Model-Based Estimation at RWTH Aachen University.</p>
+    </div>
+    <div style="width: 32%;">
+        <img src="https://cksdml1014.github.io/chanisong/images/class3.jpg" alt="class3" style="width: 100%;">
+        <p style="font-size: 12px; text-align: center;">Attending a lecture on Nonlinear Control Systems, studying stability and Lyapunov’s criteria.</p>
+    </div>
+</div>
+
 At RWTH Aachen, I took three master's-level courses: Nonlinear Control, Model-Based Estimation Methods, and Reinforcement Learning & Learning-Based Control. Due to differing academic schedules between Germany and Korea, I completed exams for the first two courses, achieving 1.0 in both. This boosted my confidence in my academic competitiveness, as earning such grades at a German institution is considered challenging. I was pleased to find that I could handle these courses with less effort than similar courses at SNU, which reassured me of my ability to thrive in international academic environments.
 
 Through this experience, I gained clarity in my career direction. Through my studies, I recognized that while significant advancements have been made in both optimal and nonlinear control, these areas are highly developed and often theoretical. This led me to explore mechanism design, where I see more opportunities for innovation and practical applications. However, I remain deeply interested in control systems and how they can intersect with mechanical design to address complex engineering challenges.
 
 ### Research Experience
 
+<div style="text-align: center;">
+    <img src="https://cksdml1014.github.io/chanisong/images/research1.png" alt="Research" style="width: 50%;">
+    <p style="font-size: 12px;">Formulating QP problems and writing code for Model Predictive Control during lab work at RWTH Aachen.</p>
+</div>
+
 During my time at RWTH, I also had the chance to conduct research, applying Model Predictive Control (MPC) to an embedded system. This experience allowed me to present my research to foreign advisors, further developing my communication skills and gaining valuable feedback on my work.
 
 ### Cultural and Social Experience
+
+<div style="text-align: center;">
+    <img src="https://cksdml1014.github.io/chanisong/images/friend1.webp" alt="Friend" style="width: 50%;">
+    <p style="font-size: 12px;">Cherishing the memories with my best friend group in Aachen — a thoughtful farewell gift and pictures from our time together.</p>
+</div>
 
 In addition to my academic growth, my time at RWTH was a valuable cultural experience. I formed a close-knit group of international friends from Mexico, Austria, Turkey, Slovakia, and Ethiopia, and we met regularly at a local bar called *Kaktus* to share our experiences and cultures. We enjoyed activities like cooking traditional meals, going on day trips, and even introducing our families to one another. This deepened my understanding of different cultures and reinforced my belief that I can build strong, lasting friendships with people from diverse backgrounds, regardless of nationality or race.
 
 I also took full advantage of events hosted by student associations such as AV, Incas, AEGEE, and TedX RWTH. These events allowed me to meet new friends from various backgrounds, some of whom I’ve maintained close relationships with.
 
 ### Travel and Broader Perspectives
+
+<div style="text-align: center;">
+    <img src="https://cksdml1014.github.io/chanisong/images/travel2.jpg" alt="Travel" style="width: 50%;">
+    <p style="font-size: 12px;">Unforgettable travel memories with my friends met in Mostar, Bosnia, exploring Sarajevo and Istanbul together.</p>
+</div>
 
 Throughout my exchange semester, I traveled to 70 cities across 24 countries, meeting people from diverse backgrounds, including Europe, North America, South America, and Asia. These encounters broadened my perspective on different lifestyles and societal challenges. I focused much of my travels on the Balkans, where I found that travelers tend to be particularly open-minded and eager to connect. Meeting people from various walks of life has reinforced my belief that an engineer must understand the different needs and problems of people across cultures. I continue to keep in touch with many of the people I met, and they remain valuable connections that will enrich my career and personal growth.
 
