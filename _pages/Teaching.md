@@ -11,8 +11,8 @@ Throughout my academic journey, I have taken many opportunities to grow as an ed
 
 ## Gong Dream Camp
 
-![1st Gong Dream Camp]("https://cksdml1014.github.io/chanisong/images/Gongdream1.jpg") 
-![2nd Gong Dream Camp]("https://cksdml1014.github.io/chanisong/images/Gongdream2.jpg") 
+![1st Gong Dream Camp](https://cksdml1014.github.io/chanisong/images/Gongdream1.jpg) 
+![2nd Gong Dream Camp](https://cksdml1014.github.io/chanisong/images/Gongdream2.jpg) 
 *Mentoring at Gong Dream Camp was a highlight of my early years at SNU, where I had the chance to exchange knowledge and support with bright, aspiring students.*
 
 - **Overview:** Gong Dream Camp is a four-day mentoring camp for 120 high school students, organized by SENS (Society of Engineering Network and Service) at SNU. I participated as a mentor twice.
