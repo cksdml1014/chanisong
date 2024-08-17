@@ -65,7 +65,7 @@ Even after graduating as an Honors Member, I continue to participate in these se
         <p style="font-size: 12px; text-align: center;">Engaged in deep discussions at Tech Square, presenting ideas and actively contributing to the conversations on critical engineering topics with STEM members.</p>
     </div>
     <div style="width: 48%;">
-        <img src="https://cksdml1014.github.io/chanisong/images//TS2.JPG" alt="TS2" style="width: 100%;">
+        <img src="https://cksdml1014.github.io/chanisong/images/TS2.JPG" alt="TS2" style="width: 100%;">
         <p style="font-size: 12px; text-align: center;">Closing the Tech Square event with fellow STEM members, united by a shared passion for engineering and knowledge exchange.</p>
     </div>
 </div>
