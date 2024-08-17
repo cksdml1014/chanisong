@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Miscellaneous"
-permalink: /miscellaneous/
+title: "Beyond SNU"
+permalink: /beyondsnu/
 author_profile: true
 ---
 
