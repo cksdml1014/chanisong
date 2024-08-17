@@ -11,8 +11,8 @@ Throughout my academic journey, I have taken many opportunities to grow as an ed
 
 ## Gong Dream Camp
 
-![1st Gong Dream Camp]("https://cksdml1014.github.io/chanisong/images/Gongdream1.png") 
-![2nd Gong Dream Camp]("https://cksdml1014.github.io/chanisong/images/Gongdream2.png") 
+![1st Gong Dream Camp]("https://cksdml1014.github.io/chanisong/images/Gongdream1.jpg") 
+![2nd Gong Dream Camp]("https://cksdml1014.github.io/chanisong/images/Gongdream2.jpg") 
 *Mentoring at Gong Dream Camp was a highlight of my early years at SNU, where I had the chance to exchange knowledge and support with bright, aspiring students.*
 
 - **Overview:** Gong Dream Camp is a four-day mentoring camp for 120 high school students, organized by SENS (Society of Engineering Network and Service) at SNU. I participated as a mentor twice.
@@ -21,9 +21,9 @@ Throughout my academic journey, I have taken many opportunities to grow as an ed
 
 ## SENS (Society of Engineering Network and Service)
 
-![Introducing Mechanical Engineering]("https://cksdml1014.github.io/chanisong/images/SENS1.png") 
+![Introducing Mechanical Engineering]("https://cksdml1014.github.io/chanisong/images/SENS1.jpeg") 
 *Introducing Mechanical Engineering to high school students as part of SENS outreach, helping future engineers discover their academic paths.*
-![SENS Executive group photo]("https://cksdml1014.github.io/chanisong/images/SENS2.png") 
+![SENS Executive group photo]("https://cksdml1014.github.io/chanisong/images/SENS2.jpeg") 
 *Serving as part of the SENS executive team, working collaboratively to lead mentoring programs and engineering education initiatives at SNU.*
 
 - **Volunteer Work:** Beyond Gong Dream Camp, I completed 87.5 hours of volunteer mentoring through SENS. I served as both the Daily Engineering Class chair and vice president of the organization.
@@ -41,9 +41,9 @@ Throughout my academic journey, I have taken many opportunities to grow as an ed
 
 ## Vision Exhibition
 
-![Vision Exhibition 1]("https://cksdml1014.github.io/chanisong/images/VE1.png") 
+![Vision Exhibition 1]("https://cksdml1014.github.io/chanisong/images/VE1.jpg") 
 *Presenting on Mechanism Design Automation Technology at the Vision Exhibition, engaging students in cutting-edge engineering concepts.*
-![Vision Exhibition 2]("https://cksdml1014.github.io/chanisong/images/VE2.png") 
+![Vision Exhibition 2]("https://cksdml1014.github.io/chanisong/images/VE2.jpg") 
 *Leading a diverse group of 100 students and mentors at the Vision Exhibition, sharing insights on engineering and inspiring future innovators.*
 
 - **Overview:** During my junior and senior years at SNU, I began mentoring younger students, remembering the lack of guidance I experienced during my first two years of college. The Vision Exhibition, hosted by STEM, provided an opportunity to share my experiences with over 100 freshmen and sophomores in the College of Engineering.
