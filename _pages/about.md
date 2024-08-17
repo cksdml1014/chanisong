@@ -35,9 +35,9 @@ I plan to begin my PhD studies in 2025, and aspire to become a professor, where 
 
 - **Key Courses:** This section highlights my academic achievements across key subject areas, showcasing the breadth of my studies.
 
-- **Education:** Discover the diverse educational experiences that have shaped my passion for academia and my drive to become both a professor and a researcher.
-
 - **STEM:** Learn about my involvement in SNU's Honor Society STEM, where collaboration with peers from various disciplines has allowed me to gain fresh insights and approach research challenges with creative solutions.
+  
+- **Teaching:** Discover the diverse educational experiences that have shaped my passion for academia and my drive to become both a professor and a researcher.
 
 - **Beyond SNU:** Here, you’ll find reflections on my time as an exchange student at RWTH Aachen University, where I embraced diverse cultural perspectives, and insights from my military service, which developed my leadership, discipline, and resilience.
 
