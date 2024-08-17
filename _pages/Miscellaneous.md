@@ -38,16 +38,28 @@ My experience in Germany also helped me realize the advantages of studying in re
 I documented my entire exchange experience in detail through Instagram, writing 510 daily posts over six months. This diary not only serves as a record of this pivotal time in my life but also as a source of reflection on how much I grew during this semester.
 
 
-## ROKAF (to be updated)
-- Staring from August 2019, I served mandatory military service at ROKAF(Repulic Of Korea Air Force) for 21.5 months.
-- This period as a soldier was an barrier for me to study engineering, but I utilized it as  a precious chance to enhance in various aspects, which became a solid background for me pursuing my bachelor years, and also will be a great source during my PhD years.
-- Since there are strict hierarchy in military, I was supposed to follow orders, but I also had to order and lead successor soldiers. It was a great chance for me to lead the group in operations and drills. Moreover, I had to address many personal conflicts which of course occurs when you put male stranger guys of early 20s into a single room and make them to live together for years. I've shown great skills managing the conflicts by carefully listening to each other's perspective and trying to stay objective to convey the misunderstandings between them.
-- It also was a great chance to enhance my adaptability. Spending near 2 years in a small room with 8 guys is definitely uncomfortable with no privacy guaranteed. I easily adapted to the new culture and learned how to endure various circumstances. This helped me a lot especially in my exchange semester where I had to adapt to whole new culture with a lot of obstacles to overcome. It also will be a great background for me when I pursue my PhD in an another new culture.
-- I also took this period to read a lot of books since use of electric devices are only permitted in small time periods. I read 50 books and wrote reviews trying to capture all the feelings and lessons from reading. I try to read various genre of books, favoring classic novels the most. It really helped me to set life goals, and to perceive life in a broader view not only constraining in engineering and math. Learned how to take obstacles and failures, and to overcome it. Learned there are no objectively correct decisions unlike math, learned how giving live to others and making marks in the world can be a great goal of living, how to be thanful and not to compare with others and get stressed is one important lesson in life, thing like that. As a whole, I could say I got mentally stronger, and it really helped a lot to live my life without getting stress from external reasons.
-- This period was also a good chance for me to study English, which I couldn't put much effort in my times in university, since I had to focus on engineering courses, and to do education activities in SENS. I could enhance my English skills a lot in this period, which helped me a lot to coordinate SRT and my exchange semester in RWTH.
-- It was also a good time for me to study solid mechanics with enough time to understand it, which I wasn't confident enough. Through in-depth study of solid mechanics, I could understand mechanics deeply, which really was crucial to take courses after I returned to university,
-- Leadership
-- Books
-- English
-- Solid Mechanics
-- Life thinking -> don't wanna waste
+## ROKAF: Republic of Korea Air Force
+
+From August 2019 to May 2021, I served my mandatory military service in the Republic of Korea Air Force (ROKAF), completing 21.5 months of duty. Although this period posed a significant break from my engineering studies, I embraced it as a valuable opportunity for personal growth and development in several key areas.
+
+### Leadership and Conflict Management
+
+Military service introduced me to a strict hierarchical environment where I was required to both follow orders and lead others. As a senior soldier, I was responsible for mentoring and guiding junior soldiers through daily operations and drills. This experience was a pivotal opportunity to develop my leadership skills. Additionally, I often found myself mediating conflicts between my fellow soldiers, who were living in close quarters under stressful conditions. By listening carefully and maintaining objectivity, I was able to help resolve misunderstandings and foster better communication among the group. These leadership experiences have deeply influenced my approach to teamwork and will serve me well in future academic and professional environments.
+
+### Adaptability and Resilience
+
+Living with eight other soldiers in a confined space for nearly two years required me to quickly adapt to a new and challenging environment. Privacy was limited, and the day-to-day routine was rigorous. However, I developed resilience and the ability to thrive in uncomfortable situations. This adaptability proved especially useful during my exchange semester at RWTH Aachen University, where I had to adjust to a new culture and overcome various obstacles. I am confident that these experiences will continue to benefit me as I pursue my PhD in another unfamiliar environment.
+
+### Intellectual Growth and Life Perspective
+
+The restrictions on the use of electronic devices during my service gave me ample time to read and reflect. Throughout my service, I read 50 books, spanning a wide range of genres, though I particularly gravitated toward classic literature. I also wrote detailed reviews to capture the lessons and emotions each book provoked. This period of introspection helped broaden my perspective on life, teaching me to approach challenges with patience and resilience, to focus on personal growth rather than external comparisons, and to appreciate the importance of making a positive impact on the world. These reflections have significantly influenced my life philosophy and approach to both my academic and personal pursuits.
+
+### English and Academic Improvement
+
+During my time in the Air Force, I also dedicated myself to improving my English, which had taken a backseat during my university years due to my focus on engineering studies and educational activities. The progress I made in English during this period later proved invaluable during my role in organizing SRT (Student Round Table) and during my exchange semester at RWTH Aachen.
+
+In addition to language study, I used this time to deepen my understanding of solid mechanics, a subject I had previously struggled with. This in-depth study gave me a much stronger grasp of mechanics, which became crucial when I returned to my university courses. The knowledge I gained during this time laid a solid foundation for my subsequent academic work in engineering.
+
+### Mental Fortitude and Life Philosophy
+
+My time in the military reinforced a mindset of resilience and purpose. I learned the importance of taking obstacles and failures in stride, setting meaningful life goals, and finding fulfillment in helping others. This period strengthened me mentally, teaching me to handle stress more effectively and live with a greater sense of gratitude. I emerged from the military with a renewed commitment to make the most of every opportunity and to approach life with both perseverance and optimism.
