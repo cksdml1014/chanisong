@@ -4,7 +4,8 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-## METHEUS: AI-driven autonomous mechanism design solution
+
+## METHEUS: AI-driven autonomous mechanism design solution  
 *Linkage Mechanism Design, Dynamics, Optimization*
 
 <div style="float: right; width: 200px; margin: 0 0 10px 10px;">
@@ -12,160 +13,190 @@ author_profile: true
     <p style="font-size: 12px; color: gray;"> METHEUS v1.0 (CES2024 Innovation Award)</p>
 </div>
 
-- METHEUS is an innovative AI-driven autonomous mechanism design solution program, made by *IDeAOcean*.  
-- It has been awarded **CES 2024 Innovation award** by proving its ability to generate various mechanisms suitable for various purposes.  
-- In this project, I took the role of generating numerous linkage datasets that contain essential information about each mechanism: the path of the effector, manipulability, kineto-static analysis, etc.  
-- Since the CES 2024, we've been developing the evolved version of METHEUS and we expect to publish METHEUS v2.0 in the market by starting of 2025.
+- METHEUS is an AI-driven mechanism design solution developed by *IDeAOcean*.  
+- It was awarded the **CES 2024 Innovation Award** for its ability to autonomously generate mechanisms tailored to various needs.  
+- I contributed by generating large-scale linkage datasets, which included essential information like the path of the effector, manipulability, and kineto-static analysis.  
+- Since CES 2024, we’ve been working on METHEUS v2.0, with plans to release it in 2025.
 
-For more information, refer to the METHEUS website **[METHEUS](https://ideaocean.ai/metheus/)**.  
-You can also try out METHEUS v1.0 from here. **[METHEUS v1.0](https://www.metheus.ai/)**
+For more info, check out the METHEUS website **[here](https://ideaocean.ai/metheus/)**.  
+You can also try out METHEUS v1.0 **[here](https://www.metheus.ai/)**.  
 <div style="clear: both;"></div>
 
-## 10x Coffee Machine
+---
+
+## 10x Coffee Machine  
 *Mechatronics, Face Recognition, Manufacturing*
+
 <div style="float: left; width: 200px; margin: 0px 30px 10px 0px;">
     <img src="https://cksdml1014.github.io/chanisong/images/tenxcoffee.jpg" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> 10x coffee machine (Mechatronics Excellence Award)</p>
 </div>
 
-- 10x Coffee Machine is a Customizable Coffee Machine Based on Face Recognition.  
-- Using a comprehensive combination of mechatronics, vision, communication, and manufacturing, we made a neat coffee machine that tailors each individual's favorite beverage.  
-- We've won the **Mechatronics Excellence Award** with High-quality product and proven its Commercial potential.  
-- As a leader of the group, I oversaw the whole process, while specializing in the mechatronics part to control motors and design the system.
+- 10x Coffee Machine is a face-recognition-based customizable coffee machine.  
+- The project combined mechatronics, vision systems, and manufacturing techniques to create a machine that tailors coffee to individual preferences.
+- We won the **Mechatronics Excellence Award** for the high-quality product and its potential commercial use.  
+- As the team leader, I oversaw the entire process, focusing on the mechatronics aspects like motor control and system design.
 
-You can check a more detailed introduction of the project here **[Slides](https://cksdml1014.github.io/chanisong/files/231222_Final Presentation_v2.pdf)**
+Check out a detailed presentation of the project **[here](https://cksdml1014.github.io/chanisong/files/231222_Final Presentation_v2.pdf)**.  
 <div style="clear: both;"></div>
 
-## Origami Robot Simulator
+---
+
+## Origami Robot Simulator  
 *Origami Kinematics, Physics simulator, Pybullet*
+
 <div style="float: right; width: 200px; margin: 0 0 10px 10px;">
     <img src="https://cksdml1014.github.io/chanisong/images/origamisimulator.gif" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> Origami robot simulator </p>
 </div>
 
-- Under the guidance of Professor *Jinkyu Yang* from *SNU*, I developed an Origami Robot Simulator using the Pybullet library.
-- I confirmed that the Pybullet simulator works properly on origami structures by implementing the grasping motion of five Miura-Ori unit cells.
-- Calculated the origami kinematics and executed the configuration via Pybullet.
-- Checked the possibility of applying reinforcement learning to the origami robot using Pybullet.
+- Developed an Origami Robot Simulator using Pybullet under the guidance of Professor *Jinkyu Yang* at *SNU*.  
+- I implemented the grasping motion of five Miura-Ori unit cells and confirmed the simulator worked accurately with origami structures.
+- The project also explored applying reinforcement learning to origami robots in simulation.
 
-
-You can check the detailed results of this research here **[Slides](https://cksdml1014.github.io/chanisong/files/starurop.pdf)**
+You can dive deeper into the research **[here](https://cksdml1014.github.io/chanisong/files/starurop.pdf)**.  
 <div style="clear: both;"></div>
 
-## MPC Contol on STM32H723 microcontroller
+---
+
+## MPC Control on STM32H723 microcontroller  
 *MPC, Embedded System*
+
 <div style="float: left; width: 200px; margin: 0px 30px 10px 0px;">
     <img src="https://cksdml1014.github.io/chanisong/images/Cart pole.png" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> Cart pole used for MPC control </p>
 </div>
 
-- Carried out a small project of applying the Model Predictive Controller(MPC) on an embedded system from *Institute for Data Science in Mechanical Engineering, RWTH Aachen University*.
-- Solved the cart-pole pendulum problem analytically, and applied the MPC Control logic to implement the QP solver in C++.
-- Evaluated the calculation speed of the MPC on an STM32H723 microcontroller.
-
+- Applied Model Predictive Control (MPC) on an STM32H723 microcontroller as part of a project at the *Institute for Data Science in Mechanical Engineering, RWTH Aachen University*.  
+- Solved the cart-pole pendulum problem analytically and implemented the QP solver in C++.  
+- The project focused on evaluating MPC calculation speeds on embedded systems.
 
 <div style="clear: both;"></div>
-## Designing Automation Process of removing Compressor cap
+
+---
+
+## Designing Automation Process for Removing Compressor Caps  
 *3D CAD, Automated Manufacturing, Roboguide Simulation*
+
 <div style="float: right; width: 200px; margin: 0 0 10px 10px;">
     <img src="https://cksdml1014.github.io/chanisong/images/capremove.png" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> 3D Design & Simulation of cap remover</p>
 </div>
 
-- Designed an Automation Process for removing the cap from the Compressor used in *Samsung Electronics*'s Refrigerator Fabrication.
-- Designed a Cap-remover suitable for various sizes of caps and bottles using 3D vision and 3D CAD.
-- Used Roboguide to simulate 6R FANUC Robots and check if they can remove the caps without interfering with objects nearby.
+- Designed an automated process for removing compressor caps used in *Samsung Electronics* refrigerators.  
+- Developed a versatile cap remover using 3D vision and CAD, ensuring it could handle caps of different sizes.  
+- Simulated the removal process using Roboguide and tested its compatibility with 6R FANUC robots in production environments.
 
-Due to corporate confidentiality, detailed results are partially disclosed. **[Slides](https://cksdml1014.github.io/chanisong/files/samsung_1st.pdf)**
+Due to confidentiality, some results are undisclosed. More info is available **[here](https://cksdml1014.github.io/chanisong/files/samsung_1st.pdf)**.  
 <div style="clear: both;"></div>
-## Material Classification using tactile sensor Digit
+
+---
+
+## Material Classification using Tactile Sensor DIGIT  
 *Tactile Sensor, ResNet, Pytorch*
+
 <div style="float: left; width: 200px; margin:0 30px 10px 0;">
     <img src="https://cksdml1014.github.io/chanisong/images/Tactile Sensing.png" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> DIGIT: Vision-based tactile sensor</p>
 </div>
 
-- Carried out basic experiments of a tactile sensor DIGIT to check if it can be used in *Samsung Electronics*'s manufacturing robots.
-- Implemented ResNet56 model with various input settings to investigate DIGIT.
-- Trained various dataset and tested if DIGIT can distinguish coin and glasses case.
-- Brought the accuracy up to 80% in a very short time using 200 datasets.
+- Conducted experiments with the DIGIT tactile sensor to assess its potential in *Samsung Electronics* manufacturing robots.  
+- Trained a ResNet56 model on small datasets to classify materials and improved accuracy to 80% using 200 samples.  
+- This project was a quick experiment, and while some details remain confidential, the work shows promise for future sensor integration in robotics.
 
-Due to corporate confidentiality, detailed results are partially disclosed. **[Slides](https://cksdml1014.github.io/chanisong/files/samsung_2nd.pdf)**
+More details can be found **[here](https://cksdml1014.github.io/chanisong/files/samsung_2nd.pdf)**.  
 <div style="clear: both;"></div>
 
-## Analyzing Beam Deformation using PINN
+---
+
+## Analyzing Beam Deformation using PINN  
 *PINN, Mechanics, Pytorch*
+
 <div style="float: right; width: 200px; margin: 0 0 10px 10px;">
     <img src="https://cksdml1014.github.io/chanisong/images/Beam deformation.png" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> Calculation of beam deformation via Deep Energy Method</p>
 </div>
 
-- Under the guidance of Professor *Do-Nyun Kim* from *SNU*, I carried out research on implementing PINN(Physics-Informed Neural Networks) to beam deformation analysis using the Deep Energy method.
-- Applied various Neural Networks and investigated the possibility of applying Neural ODE to the Deep Energy Method.
-- Compared the results with traditional force-based analysis using FEM.
-- Submitted as a graduation thesis
+- Conducted research on Physics-Informed Neural Networks (PINN) applied to beam deformation under Professor *Do-Nyun Kim* at *SNU*.  
+- Applied neural networks to the Deep Energy Method and compared results with traditional FEM analysis.  
+- This work was part of my graduation thesis, focusing on bridging neural networks with classical mechanics.
 
-Detailed information on this research can be found here. **[Bachelor thesis](https://cksdml1014.github.io/chanisong/files/PINN.pdf)**
+Thesis and detailed work can be found **[here](https://cksdml1014.github.io/chanisong/files/PINN.pdf)**.  
 <div style="clear: both;"></div>
-## 6R robot imitating human activities of assembly using meta-learning
+
+---
+
+## 6R Robot Imitating Human Assembly Using Meta-Learning  
 *ROS Control, Image Processing, Meta-Learning*
+
 <div style="float: left; width: 200px; margin:0 30px 10px 0;">
     <img src="https://cksdml1014.github.io/chanisong/images/6R Robot.png" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> Experiment setup for meta-learning</p>
 </div>
 
-- Under the guidance of Professor *Sung-Hoon Ahn* from *SNU*, I participated in research about Automatic robot task generation in the assembly process by learning from observation.
-- Generated both human and robot datasets of objects moving for applying meta-learning to 6R Robot.
-- Proposed a new algorithm for vision recognition and image processing.
-- Controlled 6R Robot using ROS.
+- Worked under Professor *Sung-Hoon Ahn* at *SNU* on a project involving 6R robots learning from human assembly tasks using meta-learning.  
+- Generated datasets for human and robot object movements and proposed a new algorithm for vision-based recognition.  
+- Controlled the 6R robot using ROS and implemented image processing algorithms to enhance task generation.
 
-Detailed information on this research can be found here. (Written in Korean) **[Report](https://cksdml1014.github.io/chanisong/files/final 수정.pdf)**
+Further insights are available **[here](https://cksdml1014.github.io/chanisong/files/final 수정.pdf)**.  
 <div style="clear: both;"></div>
-## Hot wind tunnel control using MPC
+
+---
+
+## Hot Wind Tunnel Control Using MPC  
 *MPC, Control Theory*
 
-- Under the guidance of Professor *Dongjun Lee* from *SNU*, I participated in research about controlling hot wind tunnels using MPC.
-- Studied control theory and applied parameter estimation to MPC.
-- Implemented toy problem of Q-learning, checking possibilities of applying it to the hot wind tunnels.
+- Conducted research under Professor *Dongjun Lee* at *SNU*, applying Model Predictive Control to control hot wind tunnels.  
+- Focused on parameter estimation and implemented a toy problem using Q-learning to evaluate its potential application in wind tunnel control.
 
 <div style="clear: both;"></div>
-## Mass production of walking toys
+
+---
+
+## Mass Production of Walking Toys  
 *3D CAD, 3D Printing, CNC Machining*
+
 <div style="float: right; width: 200px; margin: 0 0 10px 10px;">
     <img src="https://cksdml1014.github.io/chanisong/images/20211203_163948-ezgif.com-optimize.gif" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> Walking Toy made by injection molding</p>
 </div>
 
-- Fabricated 100 Walking Toys using Injection molding.
-- As a leader of the group,  I oversaw the whole process, while specializing in dynamics analysis and 3D CAD design.
-- Used 3D Printing multiple times to confirm the design of the walking toy, successfully ending up fabricating 100 walking toys generating perfect motions.
+- Led the fabrication of 100 walking toys using injection molding, focusing on dynamics analysis and 3D CAD design.  
+- Used 3D printing for prototyping before transitioning to full-scale production.  
+- This project combined mechanical design, analysis, and manufacturing skills to create functional walking toys in mass production.
 
-Final Report on this project can be found here. (Written in Korean) **[Report](https://cksdml1014.github.io/chanisong/files/4조_관악산타_레포트1_merged.pdf)**
+Check out the final report **[here](https://cksdml1014.github.io/chanisong/files/4조_관악산타_레포트1_merged.pdf)**.  
 <div style="clear: both;"></div>
-## Inverse Engineering of Impact Wrench
+
+---
+
+## Inverse Engineering of Impact Wrench  
 *3D CAD, Stress Analysis, Machine Mechanism*
+
 <div style="float: left; width: 200px; margin:0 30px 10px 0;">
     <img src="https://cksdml1014.github.io/chanisong/images/inverseengineering.png" alt="Hi! I'm Chani!" style="width: 100%;">
-    <p style="font-size: 12px; color: gray;">  Stress & Deformation analysis</p>
+    <p style="font-size: 12px; color: gray;"> Stress & Deformation analysis</p>
 </div>
 
-- Conducted an inverse engineering project for an Impact Wrench.
-- Used various methods such as the Decomposition of the machine, angular velocity calculation through video analysis, 3D CAD design, and stress analysis to check the Mechanical Stability of the Impact Wrench.
+- Conducted an inverse engineering project on an impact wrench, focusing on mechanical stability.  
+- Decomposed the machine, calculated angular velocity using video analysis, and designed a 3D CAD model.  
+- Stress and deformation analysis ensured the mechanical integrity of the system.
 
-Final Report and slides on this project can be found here. **[Report](https://cksdml1014.github.io/chanisong/files/MPD Team 6 Final Report.pdf)** **[Slide](https://cksdml1014.github.io/chanisong/files/[MPD]Final Presentation Slides(Team6).pdf)** 
+Final reports and presentation slides are available **[here](https://cksdml1014.github.io/chanisong/files/MPD Team 6 Final Report.pdf)** and **[here](https://cksdml1014.github.io/chanisong/files/[MPD]Final Presentation Slides(Team6).pdf)**.  
 <div style="clear: both;"></div>
-## ROBOCON 2018
+
+---
+
+## ROBOCON 2018  
 *Linkage Mechanism Design, Robot Design & Control, Manufacturing*
+
 <div style="float: right; width: 200px; margin: 0 0 10px 10px;">
     <img src="https://cksdml1014.github.io/chanisong/images/robocon.png" alt="Hi! I'm Chani!" style="width: 100%;">
     <p style="font-size: 12px; color: gray;"> Robot used for Robocon</p>
 </div>
 
-- Participated in ROBOCON to fabricate 2 2-DOF robots: 1 with Motor input and the other with cylinder input.
-- Designed / Fabricated / Controlled the robots, ending up defeated in 1st round due to unexpected malfunctioning.
+- Participated in ROBOCON 2018 by designing, fabricating, and controlling two 2-DOF robots—one motor-driven and one cylinder-driven.  
+- Although we faced technical issues during the competition, the experience taught valuable lessons in robot design and troubleshooting under pressure.
 
-Final Report slides on this contest can be found here. **[Slide](https://cksdml1014.github.io/chanisong/files/Design Review_Group15.pdf)**
+Final report slides are available **[here](https://cksdml1014.github.io/chanisong/files/Design Review_Group15.pdf)**.  
 <div style="clear: both;"></div>
-
-
-
