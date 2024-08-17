@@ -39,7 +39,7 @@ I plan to begin my PhD studies in 2025, and aspire to become a professor, where 
 
 - **STEM:** Learn about my involvement in SNU's Honor Society STEM, where collaboration with peers from various disciplines has allowed me to gain fresh insights and approach research challenges with creative solutions.
 
-- **Miscellaneous:** Here, you’ll find reflections on my time as an exchange student at RWTH Aachen University, where I embraced diverse cultural perspectives, and insights from my military service, which developed my leadership, discipline, and resilience.
+- **Beyond SNU:** Here, you’ll find reflections on my time as an exchange student at RWTH Aachen University, where I embraced diverse cultural perspectives, and insights from my military service, which developed my leadership, discipline, and resilience.
 
 P.S. If you find it difficult to pronounce my name, feel free to call me Chani!
 
