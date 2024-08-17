@@ -69,3 +69,15 @@ Throughout my academic journey, I have taken many opportunities to grow as an ed
 
 - **Overview:** During my junior and senior years at SNU, I began mentoring younger students, remembering the lack of guidance I experienced during my first two years of college. The Vision Exhibition, hosted by STEM, provided an opportunity to share my experiences with over 100 freshmen and sophomores in the College of Engineering.
 - **Content:** I introduced students to Mechanism Design Automation Technology, a relatively new field even among academics. I emphasized its potential impact and encouraged students to explore broad fields within engineering. I also shared my experiences as an exchange student at RWTH Aachen University and as a researcher at **IDeAOcean**.
+
+## Observations on Teaching and Curriculum Development
+- **Reflection on Teaching:** Aspiring to become a professor, I have closely observed various teaching methods and curricula throughout my studies. After each semester, I provided detailed feedback to professors, offering constructive suggestions for course improvements and better resource allocation, such as improving computer labs and optimizing course requirements.
+- **Impact:** My feedback has led to the installation of new computers and a revision of the mandatory course structure. I also keep personal records of my thoughts on teaching methods, course design, and what I would change when I eventually teach, preparing for the day when I become a professor myself.
+
+## Undergraduate Tutor
+- **Role:** I tutored freshmen in calculus, focusing on areas where they struggled and offering feedback on how to approach mathematical problems more effectively. Drawing on my background as a double major in mathematics, I also taught students how to present solutions clearly and logically.
+- **Results:** My students improved significantly in their understanding of calculus, with many achieving their academic goals as a result of our sessions.
+
+## Private Tutor
+- **Tutoring Experience:** Throughout my college years, except during military service and my exchange program, I worked as a private tutor for middle and high school students. I taught eight different students subjects ranging from middle school math and physics to college-level calculus and physics.
+- **Teaching Strengths:** I excelled at identifying students' problem areas and breaking down complex concepts into manageable steps. Every student I tutored made measurable progress and succeeded in achieving their academic goals.
