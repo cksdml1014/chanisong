@@ -5,18 +5,19 @@ main:
 
   - title: "Projects"
     url: /projects/    
-
-  - title: "Education"
-    url: /education/    
+    
+  - title: "Key Courses"
+    url: /courses/
     
   - title: "STEM"
     url: /STEM/
         
-  - title: "Key Courses"
-    url: /courses/
-    
-  - title: "CV"
-    url: /cv/
+  - title: "Teaching"
+    url: /teaching/    
     
   - title: "Beyond SNU"
     url: /beyondsnu/
+
+  - title: "CV"
+    url: /cv/
+    
