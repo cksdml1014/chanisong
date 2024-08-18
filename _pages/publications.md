@@ -127,7 +127,7 @@ Although some of this research is under NDA, my published work and manuscripts r
   
 <div style="text-align: center;">
   <video width="560" height="315" controls>
-    <source src="/assets/video/3djbm_example.mp4" type="video/mp4">
+    <source src="https://cksdml1014.github.io/chanisong/images/3djbm_example.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <p style="font-size: 12px; color: gray;">This video serves as a preview to introduce the 3D Autonomous Mechanism Design Methodology, showcasing a 3D mechanism as part of the disclosure.</p>
