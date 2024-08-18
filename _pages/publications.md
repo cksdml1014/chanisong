@@ -130,7 +130,7 @@ Although some of this research is under NDA, my published work and manuscripts r
     <source src="/assets/video/3djbm_example.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <p style="font-size: 12px; color: gray;">This video of 3D Mechanism is disclosed as a trailer to introduce the 3D Autonomous Mechanism Design Methodology.</p>
+  <p style="font-size: 12px; color: gray;">This video serves as a preview to introduce the 3D Autonomous Mechanism Design Methodology, showcasing a 3D mechanism as part of the disclosure.</p>
 </div>
 
 ---
