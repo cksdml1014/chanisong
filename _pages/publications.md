@@ -15,7 +15,7 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
 
 <div style="display: flex; justify-content: space-between;">
     <div style="width: 48%;">
-        <img src="https://cksdml1014.github.io/chanisong/images/SBM1.png" alt="SBM1" style="width: 100%;">
+        <img src="https://cksdml1014.github.io/chanisong/images/SBM2.png" alt="SBM2" style="width: 100%;">
         <p style="font-size: 12px; text-align: center;">SBM, first proposed by Prof. Yoon Young Kim(JMD, 2007) enables the expression of 2D Linkage Mechanisms consisted with Revolute Joints.</p>
     </div>
     <div style="width: 48%;">
@@ -38,21 +38,21 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
 ### Some examples of Applications of Autonomous Mechanism Design Technology
 
 <div style="text-align: center;">
-    <img src="https://cksdml1014.github.io/chanisong/images/메커니즘그림1.png" alt="mech1" style="width: 50%;">
+    <img src="https://cksdml1014.github.io/chanisong/images/메커니즘그림1.png" alt="mech1" style="width: 70%;">
     <p style="font-size: 12px;">Using Autonomous Mechanism Design Technology, Novel vehicle mechanisms had been invented by Kim and Kim (IJM, 2014) and Kim et al.(2018, IJNM)</p>
 </div>
 
-1. **Vehicle Mechanisms**:  
+1) **Vehicle Mechanisms**:  
    As the automotive industry evolves toward more advanced forms of mobility, including electric and autonomous vehicles, ensuring vehicle stability and control is critical. Autonomous mechanism design technology allows for the development of mechanisms such as suspension systems, rear wings, and other components that optimize vehicle performance in various driving conditions.
 
    - **Examples**: Designing multi-link suspension systems, adaptable chassis components, and aerodynamic structures for vehicles.
 
 <div style="text-align: center;">
-    <img src="https://cksdml1014.github.io/chanisong/images/메커니즘그림2.png" alt="mech2" style="width: 50%;">
+    <img src="https://cksdml1014.github.io/chanisong/images/메커니즘그림2.png" alt="mech2" style="width: 70%;">
     <p style="font-size: 12px;">Finger rehabilitation devices and exoskeletons mechanisms were invented using SBM and JBM by Kang and Kim (SMO, 2018) and Lee et al. (IEEE ACCESS, 2023)</p>
 </div>
 
-2. **Human-Integrated Mechanisms and Robotics**:  
+2) **Human-Integrated Mechanisms and Robotics**:  
    In the field of robotics and human-integrated systems, autonomous mechanism design technology offers the potential to create mechanisms that interact directly with humans, such as exoskeletons and rehabilitation devices. These mechanisms are designed to be wearable and capable of providing assistance or mobility to individuals with physical disabilities.
 
    - **Examples**: Wearable robotic exoskeletons, rehabilitation devices for joints and limbs, and assistive mobility robots.
@@ -62,7 +62,7 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
     <p style="font-size: 12px;">Various Transformable Wheel Mechanisms using a single motor has been proposed by Kim et al.(IEEE T-RO,2023) using JBM.</p>
 </div>
 
-3. **Transformable Wheel Mechanisms**:  
+3) **Transformable Wheel Mechanisms**:  
    Transformable wheel-based robot systems represent a significant challenge in design to reduce the number of motors utilized in the system. The autonomous mechanism design technology, leveraging SBM and JBM models, provides optimal designs for such systems, enabling robots to operate in 1-DOF using single motors, also considering various options of high transmission ratio to enforce torque or low transmssion ratio for higher speed.
 
    - **Examples**: Transformable wheels capable of changing it's linkage mechanism strucutres for various needs of torque, power, # of motors, and stability.
