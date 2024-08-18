@@ -4,7 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Mechanism Design Automation Technology
+Regarding that Autonomous Mechanism Design Technology is an unfamiliar field even for researchers in related fields, here's a brief explanation of the technology followed by specific contribution of mine. You can find my contributions in the lower part of this page.
+
+## Autonomous Mechanism Design Technology: SBM and JBM Models
 
 <div style="float: right; margin-left: 10px; text-align: center;">
   <a href="https://www.youtube.com/watch?v=cO3l77FlimU">
@@ -13,20 +15,43 @@ author_profile: true
   <p style="font-size: 12px; color: gray;">Mechanism synthesis process using SBM (Click to Watch!)</p>
 </div>
 
-Mechanism Design Automation leverages innovative modeling frameworks, specifically **SBM (Spring-connected Block Model)** and **JBM (Joint-element Block Model)**, to streamline the design and synthesis of linkage mechanisms. These models enable the automatic design of mechanisms capable of performing complex tasks that traditionally rely on manual, heuristic-based approaches.
+The **Autonomous Mechanism Design Technology**, developed using the **SBM (Spring-connected Block Model)** and **JBM (Joint-element Block Model)** frameworks, represents a revolutionary approach to mechanism synthesis. This technology is capable of autonomously generating complex linkage mechanisms that can achieve specific tasks and meet performance requirements in a wide range of applications.
 
-### What are SBM and JBM?
+### What is SBM and JBM?
 
-- **SBM (Spring-connected Block Model)**: SBM utilizes spring connections between rigid blocks to represent mechanical systems. The flexibility of this model allows it to handle both linear and nonlinear behaviors, making it ideal for simulating dynamic systems and designing mechanisms with complex motion paths.
+- **SBM (Spring-connected Block Model)**: SBM is a design method that models mechanical systems using rigid blocks connected by springs. The spring connections represent constraints and force-displacement relationships that simulate the dynamic behavior of the mechanism. This model allows for the automatic synthesis of linkages that can be optimized to follow specific paths. SBM enables synthesizing **2D mechanisms** consisted with **Revolute joints**.
+
+- **JBM (Joint-element Block Model)**: The JBM extends the capabilities of SBM by introducing a double-spring model and incorporating joint elements between blocks. These joint elements represent various types of mechanical connections, which are revolute and prismatic joints, enabling more sophisticated control over the movement of the mechanism. JBM enables synthesizing **2D mechanisms** consisted with **Revolute and Prismatic joints**.
   
-- **JBM (Joint-element Block Model)**: JBM builds on the SBM concept by incorporating joint elements between the blocks, allowing for more intricate and precise motion control. This makes it suitable for designing systems with high degrees of freedom and specific motion constraints.
+### Some examples of Applications of Autonomous Mechanism Design Technology
 
-Both models are capable of synthesizing mechanisms that would be challenging or impossible to achieve through conventional manual design processes. This includes optimizing linkages for tasks such as path-following, obstacle avoidance, and movement in constrained environments (while respecting NDA-protected applications).
+1. **Vehicle Mechanisms**:  
+   As the automotive industry evolves toward more advanced forms of mobility, including electric and autonomous vehicles, ensuring vehicle stability and control is critical. Autonomous mechanism design technology allows for the development of mechanisms such as suspension systems, rear wings, and other components that optimize vehicle performance in various driving conditions.
 
-For more in-depth technical explanations, please refer to **[IDeAOcean's technology page](https://ideaocean.ai/technology/)**.
+   - **Examples**: Designing multi-link suspension systems, adaptable chassis components, and aerodynamic structures for vehicles.
 
-### Publications & Contributions
+2. **Human-Integrated Mechanisms and Robotics**:  
+   In the field of robotics and human-integrated systems, autonomous mechanism design technology offers the potential to create mechanisms that interact directly with humans, such as exoskeletons and rehabilitation devices. These mechanisms are designed to be wearable and capable of providing assistance or mobility to individuals with physical disabilities.
 
+   - **Examples**: Wearable robotic exoskeletons, rehabilitation devices for joints and limbs, and assistive mobility robots.
+
+3. **Transformable Wheel Mechanisms**:  
+   Transformable wheel-based robot systems represent a significant challenge in design to reduce the number of motors utilized in the system. The autonomous mechanism design technology, leveraging SBM and JBM models, provides optimal designs for such systems, enabling robots to operate in 1-DOF using single motors, also considering various options of high transmission ratio to enforce torque or low transmssion ratio for higher speed.
+
+   - **Examples**: Transformable wheels capable of changing it's linkage mechanism strucutres for various needs of torque, power, # of motors, and stability.
+
+### The Value of SBM and JBM in Industry and Research
+
+The ability to automatically design mechanisms using SBM and JBM represents a major leap forward in engineering and robotics. These models remove much of the manual effort traditionally associated with mechanism design, allowing engineers to focus on optimization and innovation. This technology is used not only in academic research but also in industrial applications, such as automotive design, medical robotics, and next-generation mobility solutions.
+
+### Previous Publications
+
+While much of the current research related to SBM and JBM is protected under NDA due to corporate collaborations, the contributions of these models are becoming increasingly recognized in both academia and industry. Below are publications and ongoing research efforts that highlight the advancements achieved through these models.
+
+
+### Personal Contributions
+
+*IDeAOcean*, as the successor of the *IDeALab* from professor Yoon Young Kim which led the development of Autonomous Mechanism design, is now leading the academia and industry on development of the technique along with various industrial applications. I am taking the vital role for developing SBM & JBM, such as major contributions like extending to 3D mechanisms, which is illustrated below, and also with various minor contributions like adapting parallel computing, and fusing size-optimization based on other optimizaion algorithms like NSGA-II. We are also cooperating with various companies like Hyndai Motors and HD Hyundai and I've already generated novel mechanisms with various application, which some of them preparing for patents. Our future applications would include cooperations with other vehicle companies like Honda, but also with various robot companies that require high-level of mechanism design.
 My work in Mechanism Design Automation has led to the development of new methods for synthesizing mechanical systems with high performance and adaptability. Although some research is under NDA, my published work and manuscripts provide insights into the theoretical advancements achieved with SBM and JBM models.
 
 ---
@@ -57,4 +82,4 @@ My work in Mechanism Design Automation has led to the development of new methods
 
 ### Future Directions & Zoom Meetings
 
-Due to the sensitive nature of my ongoing research projects, I am available for private discussions via **Zoom meetings** to provide more detailed information. During these meetings, I can share additional research materials and synthesized videos that are under NDA. It is recommended that these meetings be recorded for reference when I introduce my research processes and results. Please feel free to contact me to schedule a discussion.
+Due to the sensitive nature of my ongoing research projects, I am available for private discussions via **Zoom meetings** to provide more detailed information. During these meetings, I can share additional research materials and synthesized videos that are under NDA. It is recommended that I record these meetings for my personal reference when introducing my research processes and results. Please feel free to contact me to schedule a discussion.
