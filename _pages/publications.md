@@ -74,7 +74,7 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
       <source src="https://cksdml1014.github.io/chanisong/images/wheel1.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <p style="font-size: 12px; color: gray;">This video illustrates the synthesis process of Transformable Wheel Mechanisms using the JBM framework. As the optimization problem approaches its optimal solution, the JBM system gradually converges into a 1-DOF mechanism.</p>
+    <p style="font-size: 12px; color: gray;">This video illustrates the synthesis process of Transformable Wheel Mechanisms using the JBM framework. As the optimization problem approaches its optimal solution, the JBM system gradually converges into a 1-DOF mechanism. (IEEE T-RO, 2023)</p>
   </div>
 
   <div style="text-align: center; width: 48%;">
@@ -82,7 +82,7 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
       <source src="https://cksdml1014.github.io/chanisong/images/wheel2.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <p style="font-size: 12px; color: gray;">Once the JBM system converges, it is interpreted into a linkage mechanism. This video showcases the CAD models of mechanisms synthesized through the JBM framework.</p>
+    <p style="font-size: 12px; color: gray;">Once the JBM system converges, it is interpreted into a linkage mechanism. This video showcases the CAD models of mechanisms synthesized through the JBM framework. (IEEE T-RO, 2023)</p>
   </div>
 
 </div>
