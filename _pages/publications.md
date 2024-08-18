@@ -11,42 +11,49 @@ author_profile: true
   <a href="https://www.youtube.com/watch?v=cO3l77FlimU">
     <img src="https://img.youtube.com/vi/cO3l77FlimU/0.jpg" alt="Watch Video" style="width: 200px; height: 150px;">
   </a>
-  <p style="font-size: 12px; color: gray;">mechanism synthesis process using SBM (Click to Watch!)</p>
+  <p style="font-size: 12px; color: gray;">Mechanism synthesis process using SBM (Click to Watch!)</p>
 </div>
 
-- **Mechanism Design Automation** utilizes a novel concept of describing linkages using the **SBM (Spring-connected rigid Block Model)** and **JBM (Joint-element connected rigid Block Model)**.
-- These innovative models enable the automatic design of linkage mechanisms that can trace desired paths, showcasing the technology's ability to create mechanisms that were previously inconceivable by traditional human methods.
+Mechanism Design Automation leverages innovative modeling frameworks, specifically **SBM (Spring-connected Block Model)** and **JBM (Joint-element Block Model)**, to streamline the design and synthesis of linkage mechanisms. These models enable the automatic design of mechanisms that can perform complex tasks traditionally reliant on manual, heuristic-based approaches.
 
-- The effectiveness of SBM and JBM models has been demonstrated in multiple journals.
-- One notable example is the paper "Automatic Synthesis of 1-DOF Transformable Wheel Mechanisms," published in IEEE Transactions on Robotics, which highlights the application of SBM in the field of robotics.
-- More information about previous contributions of Mechanism Design Automation Technology can be found from **[here](https://ideaocean.ai/technology/)**
+### What is SBM and JBM?
 
-- **At IDeAOcean, I have leveraged SBM and JBM models to design novel and practical mechanisms for various automotive components, such as the *rear wing, sliding door, and hood hinge*, in collaboration with Hyundai Motors.**
-- **In addition, I have played a pivotal role in advancing Mechanism Design Automation technology, contributing significantly to the preparation and publication of *multiple journals*, which are listed below.**
+- **SBM (Spring-connected Block Model)**: SBM utilizes spring connections between rigid blocks to represent mechanical systems. The flexibility of this model allows it to handle both linear and nonlinear behaviors, making it ideal for simulating dynamic systems and designing mechanisms with complex motion paths.
+  
+- **JBM (Joint-element Block Model)**: JBM builds on the SBM concept by incorporating joint elements between the blocks, allowing for more intricate and precise motion control. This makes it suitable for designing systems with high degrees of freedom and specific motion constraints.
 
+Both models are capable of synthesizing mechanisms that would be challenging or impossible to achieve through conventional manual design processes. This includes optimizing linkages for tasks such as path-following, obstacle avoidance, and movement in constrained environments (without disclosing NDA-protected applications).
 
+For more in-depth technical explanations, please refer to **[IDeAOcean's technology page](https://ideaocean.ai/technology/)**.
 
+### Publications & Contributions
 
+My work in Mechanism Design Automation has led to the development of new methods for synthesizing mechanical systems with high performance and adaptability. Although certain research is under NDA, my published work and manuscripts provide insight into the theoretical advancements achieved with SBM and JBM models.
 
+---
 
+## Select Publications & Manuscripts
 
+### Synthesizing Mechanisms Using SBM
 
-## Synthesizing mechanisms that avoid obstacles using SBM
-1. **C. Song†**, J. Kim, and Y.Y. Kim∗, *“Automatic Synthesis of 1-DOF Linkage Mechanism in a Constrained Space”*, Expected
-submission in 2024 at *Journal of Mechanical Design*.
+1. **C. Song†**, J. Kim, and Y.Y. Kim∗, *“Automatic Synthesis of 1-DOF Linkage Mechanism Using SBM (on a special environment: To be Disclosed)”*, expected submission in 2024 to *Journal of Mechanical Design*.
 
-[More Details](https://cksdml1014.github.io/chanisong//publication/2009-10-01-paper-title-number-1)
+   - **Summary**: This paper introduces a novel synthesis method for linkage mechanisms using the SBM framework. The focus is on automating the design process and enhancing the performance of linkage systems in complex environments. The detailed target problems and impact of this research could be disclosed after getting accepted to the journal. This is because The problem definition is crucial to kepp this research's originality and it could be a problem if I disclose the problem definition first through website. However, I can disclose much of this research, the problem definition, methods to solve it, and the results and impact via private zoom meeting.
 
+   - **Expected Impact**: This research is crucial for automatic design of linkage mechanism in a special environment, especially designing mechanisms for robots. 
 
-## Synthesizing novel rear wing mechanism using newly developed 3D JBM model
-2. **C. Song†**, J. Kim, J. Kim, J. Jang, Y. Han, E. Park and Y.Y. Kim∗, *“A Novel Rear-wing Mechanism Synthesized by a
-Systematic Design Process Employing Topology Optimization”*, Expected submission in 2025 at *Mechanism and Machine
-Theory*.
+---
 
-<small>
-Manuscript submission is scheduled for 2025 due to Hyundai Motors’ project completion and internal conference schedule.  
-Currently, it is difficult to disclose the research results due to the project agreement regulations, as the research is being conducted in the form of a corporate project with Hyundai Motors.  
-However, you can refer to the level of results that can be disclosed on the page below.
-</small>
+### Designing Novel Mechanisms Using JBM
 
-[More Details](https://cksdml1014.github.io/chanisong//publication/2010-10-01-paper-title-number-2)
+2. **C. Song†**, J. Kim, and Y.Y. Kim∗, *“A Novel Mechanism Synthesized Using 3D JBM Model and Topology Optimization”*, expected submission in 2025 to *Mechanism and Machine Theory*.
+
+   - **Summary**: This paper presents the design and synthesis of novel mechanical systems using a novel 3D design method. 
+
+   - **NDA Compliance**: This project is part of a collaboration with Hyundai Motors, designing a novel mechanism which will be used in Hyundai's novel high-performance hydrogen-hybrid concept car. Due to NDAs, specific mechanism usage and results cannot be fully disclosed. However, more information could be disclosed via personal zoom meeting, including the process that this novel method synthesizes a mechanism following desired path in a 3D environment.
+
+---
+
+### Future Directions & Zoom Meetings
+
+Due to the sensitive nature of my current research projects, I am available for private discussions via **Zoom meetings** to provide more in-depth information. During these meetings, I can disclose additional research materials and synthesized videos that are under NDA, with a consent that the zoom meeting can be recorded when I introduce my research process and results. Please feel free to contact me to schedule a discussion.
