@@ -32,7 +32,7 @@ My work in Mechanism Design Automation has led to the development of new methods
 
 ---
 
-## Select Publications & Manuscripts
+## Publications & Manuscripts
 
 ### Synthesizing Mechanisms Using SBM
 
@@ -40,7 +40,7 @@ My work in Mechanism Design Automation has led to the development of new methods
 
    - **Summary**: This paper introduces a novel synthesis method for linkage mechanisms using the SBM framework. The focus is on automating the design process and enhancing the performance of linkage systems in complex environments. The detailed target problems and impact of this research could be disclosed after getting accepted to the journal. This is because The problem definition is crucial to kepp this research's originality and it could be a problem if I disclose the problem definition first through website. However, I can disclose much of this research, the problem definition, methods to solve it, and the results and impact via private zoom meeting.
 
-   - **Expected Impact**: This research is crucial for automatic design of linkage mechanism in a special environment, especially designing mechanisms for robots. 
+   - **Expected Impact**: This research is crucial for automatic design of linkage mechanism in a special environment, especially designing mechanisms for robots, which the environment cannot be disclosed online for now.
 
 ---
 
@@ -48,9 +48,11 @@ My work in Mechanism Design Automation has led to the development of new methods
 
 2. **C. Song†**, J. Kim, and Y.Y. Kim∗, *“A Novel Mechanism Synthesized Using 3D JBM Model and Topology Optimization”*, expected submission in 2025 to *Mechanism and Machine Theory*.
 
-   - **Summary**: This paper presents the design and synthesis of novel mechanical systems using a novel 3D design method. 
+   - **Summary**: This paper presents the design and synthesis of novel mechanical systems using a novel 3D design method. Methodology of Automatic synthesis of 3D linkage Mechanisms is developed with high completeness for now, but the submission will be delayed until 2025 due to required process and contract with Hyndai Motors.
 
    - **NDA Compliance**: This project is part of a collaboration with Hyundai Motors, designing a novel mechanism which will be used in Hyundai's novel high-performance hydrogen-hybrid concept car. Due to NDAs, specific mechanism usage and results cannot be fully disclosed. However, more information could be disclosed via personal zoom meeting, including the process that this novel method synthesizes a mechanism following desired path in a 3D environment.
+  
+   - **Expected Impact**: Development of 3D automatic synthesis methodology with a reasonable time marks a great impact in the development of automatic linkage synthesis technology, since previouos methodology were only constrained in 2D spaces. This methodology enables synthesis of various mechanisms applicable to various fields, inclduing vehicle, exo-skeleton, medical robots, locomotive robots, etc.
 
 ---
 
