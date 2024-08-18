@@ -29,7 +29,7 @@ I plan to begin my PhD studies in 2025, and aspire to become a professor, where 
 
 ### Explore My Work
 
-- **Publications and Manuscripts:** This section features my research in Mechanism Design Automation Technology, supported by images and videos that illustrate my findings. I am currently preparing two journals related to my work in this field.
+- **Publications and Manuscripts:** This section features my research in Mechanism Design Automation Technology, supported by images and videos that illustrate my findings. I am currently preparing **two journals** related to my work in this field.
   
 - **Projects:** Here, you'll find research spanning control systems, robotics, and AI-based mechanics, as well as work on origami structures. It also includes other notable projects, such as METHEUS, which was recognized with a CES Innovation Award.
 
