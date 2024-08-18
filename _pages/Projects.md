@@ -4,6 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+# METHEUS
 
 ## METHEUS: AI-driven autonomous mechanism design solution  
 *Linkage Mechanism Design, Dynamics, Optimization*
@@ -23,24 +24,7 @@ You can also try out METHEUS v1.0 **[here](https://www.metheus.ai/)**.
 <div style="clear: both;"></div>
 
 ---
-
-## 10x Coffee Machine  
-*Mechatronics, Face Recognition, Manufacturing*
-
-<div style="float: left; width: 200px; margin: 0px 30px 10px 0px;">
-    <img src="https://cksdml1014.github.io/chanisong/images/tenxcoffee.jpg" alt="Hi! I'm Chani!" style="width: 100%;">
-    <p style="font-size: 12px; color: gray;"> 10x coffee machine (Mechatronics Excellence Award)</p>
-</div>
-
-- 10x Coffee Machine is a face-recognition-based customizable coffee machine.  
-- The project combined mechatronics, vision systems, and manufacturing techniques to create a machine that tailors coffee to individual preferences.
-- We won the **Mechatronics Excellence Award** for the high-quality product and its potential commercial use.  
-- As the team leader, I oversaw the entire process, focusing on the mechatronics aspects like motor control and system design.
-
-Check out a detailed presentation of the project **[here](https://cksdml1014.github.io/chanisong/files/231222_Final Presentation_v2.pdf)**.  
-<div style="clear: both;"></div>
-
----
+# Research Experience in SNU, RWTH, and SAMSUNG ELECTRONICS
 
 ## Origami Robot Simulator  
 *Origami Kinematics, Physics simulator, Pybullet*
@@ -149,6 +133,26 @@ Further insights are available **[here](https://cksdml1014.github.io/chanisong/f
 - Conducted research under Professor *Dongjun Lee* at *SNU*, applying Model Predictive Control to control hot wind tunnels.  
 - Focused on parameter estimation and implemented a toy problem using Q-learning to evaluate its potential application in wind tunnel control.
 
+<div style="clear: both;"></div>
+
+---
+
+# Notable Projects from SNU
+
+## 10x Coffee Machine  
+*Mechatronics, Face Recognition, Manufacturing*
+
+<div style="float: left; width: 200px; margin: 0px 30px 10px 0px;">
+    <img src="https://cksdml1014.github.io/chanisong/images/tenxcoffee.jpg" alt="Hi! I'm Chani!" style="width: 100%;">
+    <p style="font-size: 12px; color: gray;"> 10x coffee machine (Mechatronics Excellence Award)</p>
+</div>
+
+- 10x Coffee Machine is a face-recognition-based customizable coffee machine.  
+- The project combined mechatronics, vision systems, and manufacturing techniques to create a machine that tailors coffee to individual preferences.
+- We won the **Mechatronics Excellence Award** for the high-quality product and its potential commercial use.  
+- As the team leader, I oversaw the entire process, focusing on the mechatronics aspects like motor control and system design.
+
+Check out a detailed presentation of the project **[here](https://cksdml1014.github.io/chanisong/files/231222_Final Presentation_v2.pdf)**.  
 <div style="clear: both;"></div>
 
 ---
