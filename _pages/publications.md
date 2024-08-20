@@ -102,7 +102,7 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
   </div>
 </div>
 
-
+---
 ### Examples of Applications of Autonomous Mechanism Design Technology
 
 - **Vehicle Mechanisms**:  
