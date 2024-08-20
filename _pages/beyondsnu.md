@@ -14,49 +14,48 @@ author_profile: true
 - **Courses:** Nonlinear Control, Model-Based Estimation, Reinforcement Learning & Learning-Based Control.
 - Achieved 1.0 in Nonlinear Control and Model-Based Estimation, validating my academic competitiveness in Germany. Couldn't take exam of Reinforcement Learning & Learning-Based Control due to semester schedule back in SNU.
 - Developed interest in practical applications of mechanism design, recognizing that control systems and mechanical design can intersect to solve complex problems.
-  
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 32%;">
-    <img src="https://cksdml1014.github.io/chanisong/images/class1.png" alt="class1" style="width: 100%;">
-    <p style="font-size: 12px; text-align: center;">Attending the introductory lecture on Reinforcement Learning and Learning-Based Control at RWTH Aachen University.</p>
-  </div>
-  <div style="width: 32%;">
-    <img src="https://cksdml1014.github.io/chanisong/images/class2.png" alt="class2" style="width: 100%;">
-    <p style="font-size: 12px; text-align: center;">Participating in a computer lab session for Model-Based Estimation at RWTH Aachen University.</p>
-  </div>
-  <div style="width: 32%;">
-    <img src="https://cksdml1014.github.io/chanisong/images/class3.jpg" alt="class3" style="width: 100%;">
-    <p style="font-size: 12px; text-align: center;">Attending a lecture on Nonlinear Control Systems, studying stability and Lyapunov’s criteria.</p>
-  </div>
-</div>
 
 ### Research Experience
 - **Project:** Applied Model Predictive Control (MPC) to an embedded system.
 - Conducted research, formulated QP problems, and wrote control code during lab work.
 - Gained valuable feedback from foreign advisors, enhancing communication and research presentation skills.
-
-<div style="text-align: center;">
-  <img src="https://cksdml1014.github.io/chanisong/images/research1.png" alt="Research" style="width: 50%;">
+  
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 25%;">
+    <img src="https://cksdml1014.github.io/chanisong/images/class1.png" alt="class1" style="width: 100%;">
+    <p style="font-size: 12px; text-align: center;">Attending the introductory lecture on Reinforcement Learning and Learning-Based Control at RWTH Aachen University.</p>
+  </div>
+  <div style="width: 25%;">
+    <img src="https://cksdml1014.github.io/chanisong/images/class2.png" alt="class2" style="width: 100%;">
+    <p style="font-size: 12px; text-align: center;">Participating in a computer lab session for Model-Based Estimation at RWTH Aachen University.</p>
+  </div>
+  <div style="width: 25%;">
+    <img src="https://cksdml1014.github.io/chanisong/images/class3.jpg" alt="class3" style="width: 100%;">
+    <p style="font-size: 12px; text-align: center;">Attending a lecture on Nonlinear Control Systems, studying stability and Lyapunov’s criteria.</p>
+  </div>
+  <div style="width: 25%;">
+    <img src="https://cksdml1014.github.io/chanisong/images/research1.png" alt="Research" style="width: 50%;">
   <p style="font-size: 12px;">Formulating QP problems and writing code for Model Predictive Control during lab work at RWTH Aachen.</p>
+  </div>
 </div>
 
+---
 ### Cultural and Social Experience
 - Formed strong connections with international friends from Mexico, Austria, Turkey, Slovakia, and Ethiopia.
 - Regular meetups at *Kaktus*, cooking traditional meals, day trips, and cultural exchanges deepened my understanding of different cultures.
 - Events hosted by student associations like AV, Incas, AEGEE, and TedX RWTH expanded my social network.
-  
-<div style="text-align: center;">
-  <img src="https://cksdml1014.github.io/chanisong/images/friend1.webp" alt="Friend" style="width: 50%;">
-  <p style="font-size: 12px;">Cherishing the memories with my best friend group in Aachen — a thoughtful farewell gift and pictures from our time together.</p>
-</div>
-
-### Travel and Broader Perspectives
 - Explored 70 cities across 24 countries, focusing on the Balkans and meeting open-minded travelers.
 - Broadened perspectives on diverse lifestyles and societal challenges, reinforcing the importance of cultural understanding for engineers.
-  
-<div style="text-align: center;">
-  <img src="https://cksdml1014.github.io/chanisong/images/travel2.jpg" alt="Travel" style="width: 50%;">
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 50%;">
+    <img src="https://cksdml1014.github.io/chanisong/images/friend1.webp" alt="Friend" style="width: 50%;">
+  <p style="font-size: 12px;">Cherishing the memories with my best friend group in Aachen — a thoughtful farewell gift and pictures from our time together.</p>
+  </div>
+  <div style="width: 50%;">
+    <img src="https://cksdml1014.github.io/chanisong/images/travel2.jpg" alt="Travel" style="width: 50%;">
   <p style="font-size: 12px;">Unforgettable travel memories with my friends met in Mostar, Bosnia, exploring Sarajevo and Istanbul together.</p>
+  </div>
 </div>
 
 ### Personal Growth and Future Goals
