@@ -26,15 +26,13 @@ author_profile: true
 </div>
 
 - **What is SRT:** An annual international conference connecting 50 students from Korea, Japan, Taiwan, and Mongolia to discuss global issues and foster cross-cultural cooperation.
-- **Role:** Chairman of SRT 2022, a major international conference with 50 participants from Korea, Japan, Taiwan, and Mongolia.
+- **Role:** Chairman of SRT 2022. Introduced new initiatives such as pre-event workshops, interactive Slack channels, and cultural exchanges, leading to a highly successful and unified event.
 - **Activities:** 
   - Organized the event during the COVID-19 pandemic, transforming it into a successful online experience.
   - Implemented pre-event workshops, regular Zoom meetings, and interactive Slack channels for collaboration.
   - Introduced cultural exchange activities, including sending Korean snacks and handwritten postcards to participants abroad.
-- **Impact:** 
-  - Enhanced my leadership, event organization, and English communication skills.
-  - Built close international connections, including in-person meetups with delegates during my exchange semester in Germany.
-  - Led deep discussions on global topics (e.g., technology, COVID-19), leaving lasting impressions on participants.
+  - Led deep discussions on global topics (e.g., technology, COVID-19)
+- **Impact:** The new initiatives helped strengthen leadership, event organization, and English communication skills while creating strong international bonds that left a lasting impression on participants, including in-person meetups with delegates during my exchange semester in Germany.
 
 ## HR/PR Director
 
