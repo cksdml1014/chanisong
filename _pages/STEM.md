@@ -25,6 +25,7 @@ author_profile: true
     </div>
 </div>
 
+- **What is SRT:** An annual international conference connecting 50 students from Korea, Japan, Taiwan, and Mongolia to discuss global issues and foster cross-cultural cooperation.
 - **Role:** Chairman of SRT 2022, a major international conference with 50 participants from Korea, Japan, Taiwan, and Mongolia.
 - **Activities:** 
   - Organized the event during the COVID-19 pandemic, transforming it into a successful online experience.
