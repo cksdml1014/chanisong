@@ -5,7 +5,48 @@ permalink: /publications/
 author_profile: true
 ---
 
-Given that Autonomous Mechanism Design Technology is an unfamiliar field even for researchers in related areas, here's a brief explanation of the technology, followed by specific contributions of mine. You can find my contributions toward the lower part of this page.
+Given that Autonomous Mechanism Design Technology is an unfamiliar field even for researchers in related areas, here's a brief explanation of the technology, followed by specific contributions of mine. You can find my publications and preparing manuscripts at the bottom of the page.
+
+## Personal Contributions to Autonomous Mechanism Design Technology
+
+At *IDeAOcean*, which succeeded *IDeALab* under Prof. Yoon Young Kim, I have played a key role in advancing Autonomous Mechanism Design Technology. My contributions include:
+
+- **Extending SBM and JBM to 3D Mechanisms**
+  - Developed novel methods to expand the existing 2D framework of SBM and JBM into 3D applications.
+  - Created mechanisms using this methodology, some of which are currently under patent processes, and the methodology itself is preparing to publish in journal.
+ 
+- **Applying SBM to solve special problems**
+  - Utilized SBM to develop a methodology to design linkage systems in complex environments.
+  - The problem definition is critical to the originality of this research, disclosing the target problem could jeopardize its uniqueness.
+  - Details of the target problems and the research impact will be disclosed after journal acceptance.
+  - However, **the problem definition, methods, results, and potential impact can be shared in private Zoom meetings**.
+
+- **Collaborations and Industrial Applications**
+  - Worked closely with **Hyundai Motors**, **HD Hyundai**, and other leading firms.
+  - Generated 3 **innovative mechanisms** for various applications in next generation automobiles and wheel loader, using SBM and JBM.
+  - Future collaborations include partnerships with **Honda** and leading robotics companies requiring advanced mechanism designs.
+ 
+- **Developing METHEUS: AI-driven mechanism design solution**
+  -  Awarded the **CES 2024 Innovation Award** for its ability to autonomously generate mechanisms tailored to various needs.
+  -  More information can be found in the "Project" Section.
+ 
+- **Optimization and Computing Techniques**
+  - Applied parallel computing to speed up mechanism synthesis.
+  - Utilized size optimization algorithms, such as **NSGA-II**, to enhance the efficiency of mechanism designs.
+
+- **NDA Compliance:** While much of the research remains under NDA(Non-disclosure Agreement), the advancements achieved through this work are reflected in several **manuscripts** and **patents** currently in perparation.
+
+### Emphasis on Zoom Meetings
+
+Due to the sensitive nature of my ongoing research projects, I offer <span style="color: red;">**private Zoom meetings**</span> to discuss the research in greater detail. During these meetings, I can:
+
+- **Share mechanism synthesize videos and research materials** that are under NDA.
+- **Share detailed problem definition, methods, results, and potential impact of developing a new method using SBM.**
+- **Provide in-depth explanations** of the methods, results, and potential impacts of my work.
+
+It is recommended that I **record these meetings for personal reference** to ensure clarity when presenting my research processes and results. Please feel free to [**contact me**](cksdml1014@gmail.com) to schedule a discussion.
+
+---
 
 ## Autonomous Mechanism Design Technology: SBM and JBM Models
 
@@ -24,82 +65,61 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
     </div>
 </div>
 
-- **SBM (Spring-connected Block Model)**: SBM models mechanical systems using rigid blocks connected by springs. The spring connections simulate constraints and force-displacement relationships that characterize the dynamic behavior of the mechanism. SBM enables the automatic synthesis of **2D mechanisms** composed of **revolute joints**, optimized to follow specific paths.
+- **SBM (Spring-connected Block Model)**:
+  - Represents mechanical systems using rigid blocks connected by springs.
+  - Simulates constraints and force-displacement relationships.
+  - Enables the automatic synthesis of **2D mechanisms** composed of **revolute joints**, optimized to follow specific paths.
 
-- **JBM (Joint-element Block Model)**: Building upon SBM, JBM introduces a double-spring model and incorporates joint elements between blocks. These elements represent various types of mechanical connections, such as revolute and prismatic joints, allowing for more sophisticated control of the mechanism's movement. JBM enables the synthesis of **2D mechanisms** with both **revolute and prismatic joints**.
+- **JBM (Joint-element Block Model)**:
+  - Extends SBM by incorporating **revolute and prismatic joints**.
+  - Allows for more sophisticated control of the mechanism's movement.
+  - Supports the synthesis of **2D mechanisms** with complex joint configurations.
 
 <div style="text-align: center;">
     <img src="https://cksdml1014.github.io/chanisong/images/optimizationformulation.png" alt="optimizationformulation" style="width: 50%;">
     <p style="font-size: 12px;">Optimization formulation for Autonomous Mechanism Design, first proposed by Kim et al. (IJNM, 2014)</p>
 </div>
 
-- By using SBM and JBM models, alongside an optimization problem formulation based on the **work transmittance efficiency function** (proposed by Kim and Kim, IJNM, 2014), linkage mechanisms that follow specific paths can be synthesized autonomously.
+- The synthesis process utilizes an **optimization formulation** based on the **work transmittance efficiency function** (Kim and Kim, IJNM, 2014), enabling the autonomous design of mechanisms that follow specific paths.
 
 ### Examples of Applications of Autonomous Mechanism Design Technology
 
+- **Vehicle Mechanisms**:  
+  - **Applications**: Autonomous suspension systems, aerodynamic components, adaptable chassis elements.
+  - **Impact**: Optimizes vehicle performance under various conditions, supporting the shift toward electric and autonomous vehicles.
+
 <div style="text-align: center;">
     <img src="https://cksdml1014.github.io/chanisong/images/메커니즘그림1.png" alt="mech1" style="width: 90%;">
-    <p style="font-size: 12px;">Autonomous Mechanism Design Technology enabled novel vehicle mechanisms, developed by Kim and Kim (IJM, 2014) and Kim et al. (IJNM, 2018).</p>
+    <p style="font-size: 12px;">Novel vehicle mechanisms developed using SBM and JBM (Kim et al., IJNM, 2018).</p>
 </div>
 
-1) **Vehicle Mechanisms**:  
-   As the automotive industry advances toward electric and autonomous vehicles, ensuring vehicle stability and control becomes critical. Autonomous mechanism design technology supports the development of vehicle mechanisms like suspension systems and aerodynamic components to optimize performance under various conditions.
-
-   - **Examples**: Designing multi-link suspension systems, adaptable chassis components, and aerodynamic structures.
+- **Human-Integrated Mechanisms and Robotics**:  
+  - **Applications**: Robotic exoskeletons, rehabilitation devices, assistive mobility systems.
+  - **Impact**: Designs mechanisms that interact with humans for wearable, assistive applications in medical robotics.
 
 <div style="text-align: center;">
     <img src="https://cksdml1014.github.io/chanisong/images/메커니즘그림2.png" alt="mech2" style="width: 90%;">
-    <p style="font-size: 12px;">Finger rehabilitation devices and exoskeleton mechanisms were designed using SBM and JBM by Kang and Kim (SMO, 2018) and Lee et al. (IEEE ACCESS, 2023).</p>
+    <p style="font-size: 12px;">Exoskeletons and rehabilitation devices designed using SBM and JBM (Kim et al., SMO, 2018).</p>
 </div>
 
-2) **Human-Integrated Mechanisms and Robotics**:  
-   In robotics and human-integrated systems, autonomous mechanism design technology offers the ability to create mechanisms that directly interact with humans, such as exoskeletons and rehabilitation devices. These mechanisms are designed to be wearable, supporting mobility for individuals with physical disabilities.
-
-   - **Examples**: Wearable robotic exoskeletons, rehabilitation devices for joints and limbs, and assistive mobility robots.
+- **Transformable Wheel Mechanisms**:  
+  - **Applications**: Transformable wheels with adaptable structures for torque, speed, and stability optimization.
+  - **Impact**: Reduces motor usage while maintaining performance, enabling 1-DOF robot systems to adjust to changing terrain.
 
 <div style="text-align: center;">
     <img src="https://cksdml1014.github.io/chanisong/images/메커니즘그림3.png" alt="mech3" style="width: 70%;">
-    <p style="font-size: 12px;">Various transformable wheel mechanisms using a single motor have been proposed by Kim et al. (IEEE T-RO, 2023) using JBM.</p>
-</div>
-
-3) **Transformable Wheel Mechanisms**:  
-   Transformable wheel-based robot systems are challenging to design due to the need for reducing the number of motors while maintaining efficiency. The autonomous mechanism design technology, leveraging SBM and JBM models, provides optimal designs for such systems. These designs allow robots to operate with one degree of freedom (1-DOF) using single motors while adjusting transmission ratios for different torque and speed requirements.
-
-   - **Examples**: Transformable wheels that adjust their linkage structures based on torque, power, the number of motors, and stability requirements.
-
-<div style="display: flex; justify-content: space-between;">
-
-  <div style="text-align: center; width: 48%;">
-    <video width="100%" controls>
-      <source src="https://cksdml1014.github.io/chanisong/images/wheel1.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <p style="font-size: 12px; color: gray;">This video illustrates the synthesis process of Transformable Wheel Mechanisms using the JBM framework. As the optimization problem approaches its optimal solution, the JBM system gradually converges into a 1-DOF mechanism. (IEEE T-RO, 2023)</p>
-  </div>
-
-  <div style="text-align: center; width: 48%;">
-    <video width="100%" controls>
-      <source src="https://cksdml1014.github.io/chanisong/images/wheel2.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <p style="font-size: 12px; color: gray;">Once the JBM system converges, it is interpreted into a linkage mechanism. This video showcases the CAD models of mechanisms synthesized through the JBM framework. (IEEE T-RO, 2023)</p>
-  </div>
-
+    <p style="font-size: 12px;">Transformable wheels designed using JBM (Kim et al., IEEE T-RO, 2023).</p>
 </div>
 
 ### The Value of SBM and JBM in Industry and Research
 
-The ability to automatically design mechanisms using SBM and JBM marks a significant leap forward in engineering and robotics. These models reduce the manual effort traditionally required for mechanism design, allowing engineers to focus on optimization and innovation. The technology is applied in both academic research and industrial applications, including automotive design, medical robotics, and next-generation mobility solutions.
+- **Optimization and Innovation:** These models streamline the mechanism design process, enabling engineers to focus on optimization and innovation.
+- **Applications:** The technology is applied in various sectors, including **automotive**, **medical robotics**, and **next-generation mobility solutions**.
 
 ### Previous Publications
 
-Previous research publications and patents made using Autonomous Mechanism Design Technology can be found **[here](https://ideaocean.ai/technology/)**.
+- For detailed publications and patents related to Autonomous Mechanism Design Technology, visit **[here](https://ideaocean.ai/technology/)**.
 
-### Personal Contributions
-
-*IDeAOcean*, succeeding *IDeALab* under Prof. Yoon Young Kim, continues to lead the development of Autonomous Mechanism Design Technology for academic and industrial applications. My role at IDeAOcean involves **extending SBM and JBM to 3D mechanisms**, as shown below, while contributing to various other areas, such as applying parallel computing and optimizing size through algorithms like NSGA-II. We collaborate with major companies, including Hyundai Motors and HD Hyundai, and have generated **novel mechanisms—some of which are in the patent process**. Our future projects involve collaborations with vehicle companies like Honda, as well as robotics firms requiring advanced mechanism design.
-
-Although some of this research is under NDA, my published work and manuscripts reflect significant advancements in synthesizing mechanical systems with high performance and adaptability.
 
 ---
 
