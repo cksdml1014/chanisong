@@ -7,9 +7,8 @@ author_profile: true
 
 ## Overview of STEM
 
-- STEM (SNU Tomorrow's Edge Membership) is an honor society for Seoul National University engineering students.
-- Membership is limited to 20-30 top-performing students annually, with alumni pursuing PhDs and contributing to academia and industry worldwide.
-- As a member, I engaged in collaborative discussions on engineering issues, research ethics, and the societal role of engineers. These experiences helped me grow as both an engineer and a leader.
+- **STEM (SNU Tomorrow's Edge Membership):** An honor society for Seoul National University's top engineering students. Limited to 20-30 members annually, with alumni making significant contributions in academia and industry worldwide.
+- **Role:** Engaged in discussions on engineering issues, research ethics, and leadership, fostering both personal and professional growth as an engineer. Graduated as an **Honor Member** in recognition of my significant contributions, and I continue to participate in STEM activities to this day.
 
 ---
 ## SRT (Student Round Table)
