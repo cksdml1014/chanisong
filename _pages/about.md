@@ -21,7 +21,7 @@ My name is Chan-Eui Song, and I am currently completing a bachelor's degree in M
 
 ### Research Interests
 
-My primary research centers around **Mechanism Design Automation Technology**, a fusion of design and optimization that drives advancements in efficient, low-cost mechanisms. While I have a deep interest in mechanism design, particularly in reducing degrees of freedom (DoF) to achieve more lightweight, highly mobile designs, I am also eager to explore how this technology could be applied to fields like robotics. Though my primary focus is on mechanism design, my broader research interests also include control systems and AI-based mechanics, all of which intersect with optimization in various ways. Additionally, I have explored origami structures, which I aim to connect with mechanism design principles in future work.
+My primary research centers around **Mechanism Design Automation Technology**, a fusion of *design* and *optimization* that drives advancements in efficient, low-cost mechanisms. While I have a deep interest in automatic mechanism design, particularly in reducing degrees of freedom (DoF) to achieve more lightweight, highly mobile designs, I am also eager to explore how this technology could be applied to fields like robotics. Though my primary focus is on automatic mechanism design, my broader research interests also include control systems and AI-based mechanics, all of which intersect with optimization in various ways. Additionally, I have explored origami structures, which I aim to connect with mechanism design principles in future work.
 
 ### Future Goals
 
