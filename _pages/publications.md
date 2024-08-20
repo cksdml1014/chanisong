@@ -65,16 +65,16 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
         <p style="font-size: 12px; text-align: center; margin-top: auto;">JBM, proposed by Kang and Kim (SMO, 2018), extends SBM by incorporating prismatic joints into 2D Linkage Mechanisms.</p>
     </div>
 </div>
-
+  
 - **SBM (Spring-connected Block Model)**:
   - Represents mechanical systems using rigid blocks connected by springs.
-  - Simulates constraints and force-displacement relationships.
-  - Enables the automatic synthesis of **2D mechanisms** composed of **revolute joints**, optimized to follow specific paths.
+  - The spring connections simulate constraints and force-displacement relationships that characterize the dynamic behavior of the mechanism. 
+  - Enables the automatic synthesis of **2D 1DOF mechanisms** composed of **revolute joints**, optimized to follow specific paths.
 
 - **JBM (Joint-element Block Model)**:
-  - Extends SBM by incorporating **revolute and prismatic joints**.
-  - Allows for more sophisticated control of the mechanism's movement.
-  - Supports the synthesis of **2D mechanisms** with complex joint configurations.
+  - Extends SBM by incorporating revolute and **prismatic joints**.
+  - Allows for more sophisticated control of the mechanism's movement by enabling the usage of prismatic joints.
+  - Supports the synthesis of **2D 1DOF mechanisms** with **revolute and prismatic joints**.
 
 <div style="text-align: center;">
     <img src="https://cksdml1014.github.io/chanisong/images/optimizationformulation.png" alt="optimizationformulation" style="width: 50%;">
