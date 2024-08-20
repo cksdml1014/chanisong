@@ -23,7 +23,7 @@ At *IDeAOcean*, which evolved from *IDeALab* under Prof. Yoon Young Kim, I have 
 
 - **Collaborations and Industrial Applications**
   - Worked closely with **Hyundai Motors**, **HD Hyundai**, and other leading firms.
-  - Generated 3 **innovative mechanisms** for various applications in next-generation automobiles and wheel loaders, using SBM and JBM.
+  - Generated **3 innovative mechanisms** for various applications in next-generation automobiles and wheel loaders, using SBM and JBM.
   - Future collaborations include partnerships with **Honda** and leading robotics companies requiring advanced mechanism designs.
 
 - **Developing METHEUS: AI-driven Mechanism Design Solution**
@@ -32,7 +32,7 @@ At *IDeAOcean*, which evolved from *IDeALab* under Prof. Yoon Young Kim, I have 
 
 - **Optimization and Computing Techniques**
   - Applied parallel computing to speed up mechanism synthesis.
-  - Utilized size optimization algorithms, such as **NSGA-II**, to enhance the efficiency of mechanism designs.
+  - Utilized size optimization algorithms, such as NSGA-II, to enhance the efficiency of mechanism designs.
 
 - **NDA Compliance**: While much of the research remains under NDA (Non-Disclosure Agreement), the advancements achieved through this work are reflected in several **manuscripts** and **patents** currently in preparation.
 
@@ -81,7 +81,28 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
     <p style="font-size: 12px;">Optimization formulation for Autonomous Mechanism Design, first proposed by Kim et al. (IJNM, 2014)</p>
 </div>
 
+- The spring constatn *k* of the springs in SBM & JBM models determines whether the system behaves like a linkage mechanism with revolute joints, like a rigidly connected structure, or something in between. By using spring values as variables, along with the position of the nodes and the angle of the double-spring structure in JBM models, we can represent various 2D linkage mechanisms composed of links and revolute/prismatic joints. 
+- Using an appropriate optimization formulation with these variables as optimization variables, we can automatically synthesize linkage mechanisms that follow specific paths. This process determines both the topology and geometry of the linkage mechanisms.
 - The synthesis process utilizes an **optimization formulation** based on the **work transmittance efficiency function** (Kim and Kim, IJNM, 2014), enabling the autonomous design of mechanisms that follow specific paths.
+
+<div style="text-align: center;">
+  <video width="560" height="315" controls>
+    <source src="https://cksdml1014.github.io/chanisong/images/3djbm_example.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <p style="font-size: 12px; color: gray;">This video serves as a preview to introduce the 3D Autonomous Mechanism Design Methodology, showcasing a 3D mechanism as part of the disclosure.</p>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <div style="width: 48%; display: flex; flex-direction: column; justify-content: space-between;">
+        <img src="https://cksdml1014.github.io/chanisong/images/SBM2.png" alt="SBM2" style="width: 100%;">
+        <p style="font-size: 12px; text-align: center; margin-top: auto;">SBM, first proposed by Prof. Yoon Young Kim (JMD, 2007), enables the synthesis of 2D Linkage Mechanisms comprised of revolute joints.</p>
+    </div>
+    <div style="width: 48%; display: flex; flex-direction: column; justify-content: space-between;">
+        <img src="https://cksdml1014.github.io/chanisong/images/JBM1.png" alt="JBM1" style="width: 100%;">
+        <p style="font-size: 12px; text-align: center; margin-top: auto;">JBM, proposed by Kang and Kim (SMO, 2018), extends SBM by incorporating prismatic joints into 2D Linkage Mechanisms.</p>
+    </div>
+</div>
 
 ### Examples of Applications of Autonomous Mechanism Design Technology
 
