@@ -126,7 +126,11 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
 - **Transformable Wheel Mechanisms**:  
   - **Applications**: Transformable wheels with adaptable structures for torque, speed, and stability optimization.
   - **Impact**: Reduces motor usage while maintaining performance, enabling 1-DOF robot systems to adjust to changing terrain.
- 
+
+<div style="text-align: center;">
+    <img src="https://cksdml1014.github.io/chanisong/images/메커니즘그림3.png" alt="mech3" style="width: 70%;">
+    <p style="font-size: 12px;">Transformable wheels designed using JBM (Kim et al., IEEE T-RO, 2023).</p>
+</div>
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center; width: 48%;">
     <video width="100%" controls>
@@ -142,11 +146,6 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
     </video>
     <p style="font-size: 12px; color: gray;">Once the JBM system converges, it is interpreted into a linkage mechanism. This video showcases the CAD models of mechanisms synthesized through the JBM framework. (IEEE T-RO, 2023)</p>
   </div>
-</div>
-
-<div style="text-align: center;">
-    <img src="https://cksdml1014.github.io/chanisong/images/메커니즘그림3.png" alt="mech3" style="width: 70%;">
-    <p style="font-size: 12px;">Transformable wheels designed using JBM (Kim et al., IEEE T-RO, 2023).</p>
 </div>
 
 ### The Value of SBM and JBM in Industry and Research
