@@ -13,6 +13,17 @@ author_profile: true
 
 ## SRT (Student Round Table)
 
+<div style="display: flex; justify-content: space-between;">
+    <div style="width: 48%;">
+        <img src="https://cksdml1014.github.io/chanisong/images/SRT1.png" alt="SRT1" style="width: 100%;">
+        <p style="font-size: 12px; text-align: center;">Leading discussions on global issues with students from Korea, Japan, Taiwan, and Mongolia during the 2022 online SRT conference.</p>
+    </div>
+    <div style="width: 48%;">
+        <img src="https://cksdml1014.github.io/chanisong/images/SRT2.jpg" alt="SRT2" style="width: 100%;">
+        <p style="font-size: 12px; text-align: center;">Heartfelt gratitude from SRT Japan members after receiving their personalized gifts and participating in our cultural exchange activities.</p>
+    </div>
+</div>
+
 - **Role:** Chairman of SRT 2022, a major international conference with 50 participants from Korea, Japan, Taiwan, and Mongolia.
 - **Activities:** 
   - Organized the event during the COVID-19 pandemic, transforming it into a successful online experience.
@@ -39,6 +50,17 @@ author_profile: true
 
 ## Tech Square
 
+<div style="display: flex; justify-content: space-between;">
+    <div style="width: 48%;">
+        <img src="https://cksdml1014.github.io/chanisong/images/TS1.JPG" alt="TS1" style="width: 100%;">
+        <p style="font-size: 12px; text-align: center;">Engaged in deep discussions at Tech Square, presenting ideas and actively contributing to the conversations on critical engineering topics with STEM members.</p>
+    </div>
+    <div style="width: 48%;">
+        <img src="https://cksdml1014.github.io/chanisong/images/TS2.JPG" alt="TS2" style="width: 100%;">
+        <p style="font-size: 12px; text-align: center;">Closing the Tech Square event with fellow STEM members, united by a shared passion for engineering and knowledge exchange.</p>
+    </div>
+</div>
+
 - **Overview:** Tech Square is a core STEM activity where engineers from various fields combine their expertise to discuss major engineering topics.
 - Participated twice, presenting on:
   - **Sustainable Cities:** Future of engine technology for automobiles and aerial vehicles, and engineering policies for sustainability.
@@ -60,6 +82,11 @@ author_profile: true
 - **Impact:** Helped high school students better understand engineering disciplines and prepare for their academic futures.
 
 ## Sports and Community
+
+<div style="text-align: center;">
+    <img src="https://cksdml1014.github.io/chanisong/images/futsal.jpg" alt="Futsal" style="width: 50%;">
+    <p style="font-size: 12px;">Celebrating teamwork and perseverance after securing 2nd place in the university futsal competition.</p>
+</div>
 
 - **Key Achievement:** Played as goalkeeper and secured 2nd place in the SNU engineering futsal competition.
 - **Other Activities:** Engaged in marathons, kayaking, and swimming with STEM members, fostering a strong sense of community and teamwork.
