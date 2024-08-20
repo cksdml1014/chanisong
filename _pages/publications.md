@@ -14,13 +14,13 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
 ### What are SBM and JBM?
 
 <div style="display: flex; justify-content: space-between;">
-    <div style="width: 48%;">
+    <div style="width: 48%; display: flex; flex-direction: column; justify-content: space-between;">
         <img src="https://cksdml1014.github.io/chanisong/images/SBM2.png" alt="SBM2" style="width: 100%;">
-        <p style="font-size: 12px; text-align: center;">SBM, first proposed by Prof. Yoon Young Kim (JMD, 2007), enables the synthesis of 2D Linkage Mechanisms comprised of revolute joints.</p>
+        <p style="font-size: 12px; text-align: center; margin-top: auto;">SBM, first proposed by Prof. Yoon Young Kim (JMD, 2007), enables the synthesis of 2D Linkage Mechanisms comprised of revolute joints.</p>
     </div>
-    <div style="width: 48%;">
+    <div style="width: 48%; display: flex; flex-direction: column; justify-content: space-between;">
         <img src="https://cksdml1014.github.io/chanisong/images/JBM1.png" alt="JBM1" style="width: 100%;">
-        <p style="font-size: 12px; text-align: center;">JBM, proposed by Kang and Kim (SMO, 2018), extends SBM by incorporating prismatic joints into 2D Linkage Mechanisms.</p>
+        <p style="font-size: 12px; text-align: center; margin-top: auto;">JBM, proposed by Kang and Kim (SMO, 2018), extends SBM by incorporating prismatic joints into 2D Linkage Mechanisms.</p>
     </div>
 </div>
 
@@ -38,7 +38,7 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
 ### Examples of Applications of Autonomous Mechanism Design Technology
 
 <div style="text-align: center;">
-    <img src="https://cksdml1014.github.io/chanisong/images/메커니즘그림1.png" alt="mech1" style="width: 70%;">
+    <img src="https://cksdml1014.github.io/chanisong/images/메커니즘그림1.png" alt="mech1" style="width: 90%;">
     <p style="font-size: 12px;">Autonomous Mechanism Design Technology enabled novel vehicle mechanisms, developed by Kim and Kim (IJM, 2014) and Kim et al. (IJNM, 2018).</p>
 </div>
 
@@ -48,7 +48,7 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
    - **Examples**: Designing multi-link suspension systems, adaptable chassis components, and aerodynamic structures.
 
 <div style="text-align: center;">
-    <img src="https://cksdml1014.github.io/chanisong/images/메커니즘그림2.png" alt="mech2" style="width: 70%;">
+    <img src="https://cksdml1014.github.io/chanisong/images/메커니즘그림2.png" alt="mech2" style="width: 90%;">
     <p style="font-size: 12px;">Finger rehabilitation devices and exoskeleton mechanisms were designed using SBM and JBM by Kang and Kim (SMO, 2018) and Lee et al. (IEEE ACCESS, 2023).</p>
 </div>
 
@@ -58,7 +58,7 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
    - **Examples**: Wearable robotic exoskeletons, rehabilitation devices for joints and limbs, and assistive mobility robots.
 
 <div style="text-align: center;">
-    <img src="https://cksdml1014.github.io/chanisong/images/메커니즘그림3.png" alt="mech3" style="width: 50%;">
+    <img src="https://cksdml1014.github.io/chanisong/images/메커니즘그림3.png" alt="mech3" style="width: 70%;">
     <p style="font-size: 12px;">Various transformable wheel mechanisms using a single motor have been proposed by Kim et al. (IEEE T-RO, 2023) using JBM.</p>
 </div>
 
