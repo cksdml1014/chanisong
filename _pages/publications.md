@@ -13,10 +13,10 @@ At *IDeAOcean*, which evolved from *IDeALab* under Prof. Yoon Young Kim, I have 
 
 - **Extending SBM and JBM to 3D Mechanisms**
   - Developed novel methods to expand the 2D frameworks of SBM and JBM into 3D applications.
-  - Created mechanisms using this methodology, some of which are currently under patent processes, and the methodology itself is being prepared for publication in a journal.
+  - Created mechanisms using this methodology, some of which are currently under patent processes, and the methodology itself is being prepared for publication in a <span style="color: blue;">journal</span>.
 
 - **Applying SBM to Solve Special Problems**
-  - Utilized SBM to develop a methodology for designing linkage systems in complex environments.
+  - Utilized SBM to develop a methodology for designing linkage systems in complex environments and is preparing for publication in a <span style="color: blue;">journal</span>.
   - The problem definition is critical to the originality of this research, and disclosing the target problem could jeopardize its uniqueness.
   - Details of the target problems and the research impact will be disclosed after journal acceptance.
   - However, **the problem definition, methods, results, and potential impact can be shared in private Zoom meetings**.
@@ -27,7 +27,7 @@ At *IDeAOcean*, which evolved from *IDeALab* under Prof. Yoon Young Kim, I have 
   - Future collaborations include partnerships with **Honda** and leading robotics companies requiring advanced mechanism designs.
 
 - **Developing METHEUS: AI-driven Mechanism Design Solution**
-  - Awarded the **CES 2024 Innovation Award** for its ability to autonomously generate mechanisms tailored to various needs.
+  - Awarded the <span style="color: blue;">CES 2024 Innovation Award</span> for its ability to autonomously generate mechanisms tailored to various needs.
   - More information can be found in the **"Project"** Section.
 
 - **Optimization and Computing Techniques**
