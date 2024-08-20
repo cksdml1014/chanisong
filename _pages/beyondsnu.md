@@ -22,19 +22,19 @@ author_profile: true
   
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 24%;">
-    <img src="https://cksdml1014.github.io/chanisong/images/class1.png" alt="class1" style="width: 100%;">
+    <img src="https://cksdml1014.github.io/chanisong/images/class1.png" alt="class1" style="width: 80%;">
     <p style="font-size: 12px; text-align: center;">Attending the introductory lecture on Reinforcement Learning and Learning-Based Control at RWTH Aachen University.</p>
   </div>
   <div style="width: 24%;">
-    <img src="https://cksdml1014.github.io/chanisong/images/class2.png" alt="class2" style="width: 100%;">
+    <img src="https://cksdml1014.github.io/chanisong/images/class2.png" alt="class2" style="width: 80%;">
     <p style="font-size: 12px; text-align: center;">Participating in a computer lab session for Model-Based Estimation at RWTH Aachen University.</p>
   </div>
   <div style="width: 24%;">
-    <img src="https://cksdml1014.github.io/chanisong/images/class3.jpg" alt="class3" style="width: 100%;">
+    <img src="https://cksdml1014.github.io/chanisong/images/class3.jpg" alt="class3" style="width: 80%;">
     <p style="font-size: 12px; text-align: center;">Attending a lecture on Nonlinear Control Systems, studying stability and Lyapunov’s criteria.</p>
   </div>
   <div style="width: 24%;">
-    <img src="https://cksdml1014.github.io/chanisong/images/research1.png" alt="Research" style="width: 50%;">
+    <img src="https://cksdml1014.github.io/chanisong/images/research1.png" alt="Research" style="width: 100%;">
   <p style="font-size: 12px;">Formulating QP problems and writing code for Model Predictive Control during lab work at RWTH Aachen.</p>
   </div>
 </div>
@@ -49,11 +49,11 @@ author_profile: true
 
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 50%;">
-    <img src="https://cksdml1014.github.io/chanisong/images/friend1.webp" alt="Friend" style="width: 50%;">
+    <img src="https://cksdml1014.github.io/chanisong/images/friend1.webp" alt="Friend" style="width: 80%;">
   <p style="font-size: 12px;">Cherishing the memories with my best friend group in Aachen — a thoughtful farewell gift and pictures from our time together.</p>
   </div>
   <div style="width: 50%;">
-    <img src="https://cksdml1014.github.io/chanisong/images/travel2.jpg" alt="Travel" style="width: 50%;">
+    <img src="https://cksdml1014.github.io/chanisong/images/travel2.jpg" alt="Travel" style="width: 80%;">
   <p style="font-size: 12px;">Unforgettable travel memories with my friends met in Mostar, Bosnia, exploring Sarajevo and Istanbul together.</p>
   </div>
 </div>
