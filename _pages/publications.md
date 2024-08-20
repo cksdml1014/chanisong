@@ -19,16 +19,16 @@ At *IDeAOcean*, which evolved from *IDeALab* under Prof. Yoon Young Kim, I have 
   - Utilized SBM to develop a methodology for designing linkage systems in complex environments and is preparing for publication in a <span style="color: blue;">journal</span>.
   - The problem definition is critical to the originality of this research, and disclosing the target problem could jeopardize its uniqueness.
   - Details of the target problems and the research impact will be disclosed after journal acceptance.
-  - However, **the problem definition, methods, results, and potential impact can be shared in private Zoom meetings**.
+  - However, the problem definition, methods, results, and potential impact can be shared in **private Zoom meetings**.
 
 - **Collaborations and Industrial Applications**
-  - Worked closely with **Hyundai Motors**, **HD Hyundai**, and other leading firms.
+  - Worked closely with **Hyundai Motors, HD Hyundai**, and other leading firms.
   - Generated **3 innovative mechanisms** for various applications in next-generation automobiles and wheel loaders, using SBM and JBM.
-  - Future collaborations include partnerships with **Honda** and leading robotics companies requiring advanced mechanism designs.
+  - Future collaborations include partnerships with *Honda* and leading robotics companies requiring advanced mechanism designs.
 
 - **Developing METHEUS: AI-driven Mechanism Design Solution**
   - Awarded the <span style="color: blue;">CES 2024 Innovation Award</span> for its ability to autonomously generate mechanisms tailored to various needs.
-  - More information can be found in the **"Project"** Section.
+  - More information can be found in the "Project" Section.
 
 - **Optimization and Computing Techniques**
   - Applied parallel computing to speed up mechanism synthesis.
@@ -72,7 +72,7 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
   - Enables the automatic synthesis of **2D 1DOF mechanisms** composed of **revolute joints**, optimized to follow specific paths.
 
 - **JBM (Joint-element Block Model)**:
-  - Extends SBM by incorporating revolute and **prismatic joints**.
+  - Extends SBM by incorporating revolute and prismatic joints.
   - Allows for more sophisticated control of the mechanism's movement by enabling the usage of prismatic joints.
   - Supports the synthesis of **2D 1DOF mechanisms** with **revolute and prismatic joints**.
 
@@ -81,8 +81,8 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
     <p style="font-size: 12px;">Optimization formulation for Autonomous Mechanism Design, first proposed by Kim et al. (IJNM, 2014)</p>
 </div>
 
-- The spring constatn *k* of the springs in SBM & JBM models determines whether the system behaves like a linkage mechanism with revolute joints, like a rigidly connected structure, or something in between. By using spring values as variables, along with the position of the nodes and the angle of the double-spring structure in JBM models, we can represent various 2D linkage mechanisms composed of links and revolute/prismatic joints. 
-- Using an appropriate optimization formulation with these variables as optimization variables, we can automatically synthesize linkage mechanisms that follow specific paths. This process determines both the topology and geometry of the linkage mechanisms.
+- The spring constant *k* of the springs in SBM & JBM models determines whether the system behaves like a linkage mechanism with revolute joints, like a rigidly connected structure, or something in between. By using spring values as variables, along with the position of the nodes and the angle of the double-spring structure in JBM models, we can represent various 2D linkage mechanisms composed of links and revolute/prismatic joints. 
+- Using an appropriate optimization formulation with these variables as optimization variables, we can automatically synthesize linkage mechanisms that follow specific paths. This process determines **both the topology and geometry** of the linkage mechanisms.
 - The synthesis process utilizes an **optimization formulation** based on the **work transmittance efficiency function** (Kim and Kim, IJNM, 2014), enabling the autonomous design of mechanisms that follow specific paths.
 
 <div style="display: flex; justify-content: space-between;">
