@@ -11,6 +11,7 @@ author_profile: true
 - Teaching allows me to share knowledge, guide others, and contribute to a more equitable society.
 - My PhD pursuit is motivated by the desire to teach and mentor future students as a professor.
 
+---
 ## Gong Dream Camp
 
 <div style="display: flex; justify-content: space-between;">
@@ -45,6 +46,7 @@ author_profile: true
 - **Program Development:** Developed a hands-on experiment on the "Principle of Viscoelasticity" using potato starch slurry. Introduced engineering majors to help students choose their academic paths.
 - **Leadership:** As an executive member, revised programs, and encouraged mentoring enthusiasm within the group.
 
+---
 ## Major Snapshot and STEMentor
 
 <div style="text-align: center;">
@@ -73,6 +75,7 @@ author_profile: true
 - **Presentation:** Introduced Mechanism Design Automation Technology and shared experiences as an exchange student at RWTH Aachen University and a researcher at **IDeAOcean**.
 - **Impact:** Provided guidance to younger students in navigating academic and career paths in engineering.
 
+---
 ## Observations on Teaching and Curriculum Development
 
 - **Role:** Provided detailed feedback on teaching methods and course improvements in SNU Mechanical Engineering, leading to better lab resources and revised course structures.
