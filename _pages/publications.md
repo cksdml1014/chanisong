@@ -5,46 +5,47 @@ permalink: /publications/
 author_profile: true
 ---
 
-Given that Autonomous Mechanism Design Technology is an unfamiliar field even for researchers in related areas, here's a brief explanation of the technology, followed by specific contributions of mine. You can find my publications and preparing manuscripts at the bottom of the page.
+Given that Autonomous Mechanism Design Technology is an emerging and relatively unfamiliar field even among researchers in related areas, here's a brief explanation of the technology, followed by a summary of my contributions. My **publications and manuscripts in preparation** can be found at the bottom of the page.
 
 ## Personal Contributions to Autonomous Mechanism Design Technology
 
-At *IDeAOcean*, which succeeded *IDeALab* under Prof. Yoon Young Kim, I have played a key role in advancing Autonomous Mechanism Design Technology. My contributions include:
+At *IDeAOcean*, which evolved from *IDeALab* under Prof. Yoon Young Kim, I have played a central role in advancing Autonomous Mechanism Design Technology. My contributions include:
 
 - **Extending SBM and JBM to 3D Mechanisms**
-  - Developed novel methods to expand the existing 2D framework of SBM and JBM into 3D applications.
-  - Created mechanisms using this methodology, some of which are currently under patent processes, and the methodology itself is preparing to publish in journal.
- 
-- **Applying SBM to solve special problems**
-  - Utilized SBM to develop a methodology to design linkage systems in complex environments.
-  - The problem definition is critical to the originality of this research, disclosing the target problem could jeopardize its uniqueness.
+  - Developed novel methods to expand the 2D frameworks of SBM and JBM into 3D applications.
+  - Created mechanisms using this methodology, some of which are currently under patent processes, and the methodology itself is being prepared for publication in a journal.
+
+- **Applying SBM to Solve Special Problems**
+  - Utilized SBM to develop a methodology for designing linkage systems in complex environments.
+  - The problem definition is critical to the originality of this research, and disclosing the target problem could jeopardize its uniqueness.
   - Details of the target problems and the research impact will be disclosed after journal acceptance.
   - However, **the problem definition, methods, results, and potential impact can be shared in private Zoom meetings**.
 
 - **Collaborations and Industrial Applications**
   - Worked closely with **Hyundai Motors**, **HD Hyundai**, and other leading firms.
-  - Generated 3 **innovative mechanisms** for various applications in next generation automobiles and wheel loader, using SBM and JBM.
+  - Generated 3 **innovative mechanisms** for various applications in next-generation automobiles and wheel loaders, using SBM and JBM.
   - Future collaborations include partnerships with **Honda** and leading robotics companies requiring advanced mechanism designs.
- 
-- **Developing METHEUS: AI-driven mechanism design solution**
-  -  Awarded the **CES 2024 Innovation Award** for its ability to autonomously generate mechanisms tailored to various needs.
-  -  More information can be found in the "Project" Section.
- 
+
+- **Developing METHEUS: AI-driven Mechanism Design Solution**
+  - Awarded the **CES 2024 Innovation Award** for its ability to autonomously generate mechanisms tailored to various needs.
+  - More information can be found in the **"Project"** Section.
+
 - **Optimization and Computing Techniques**
   - Applied parallel computing to speed up mechanism synthesis.
   - Utilized size optimization algorithms, such as **NSGA-II**, to enhance the efficiency of mechanism designs.
 
-- **NDA Compliance:** While much of the research remains under NDA(Non-disclosure Agreement), the advancements achieved through this work are reflected in several **manuscripts** and **patents** currently in perparation.
+- **NDA Compliance**: While much of the research remains under NDA (Non-Disclosure Agreement), the advancements achieved through this work are reflected in several **manuscripts** and **patents** currently in preparation.
 
 ### Emphasis on Zoom Meetings
 
 Due to the sensitive nature of my ongoing research projects, I offer <span style="color: red;">**private Zoom meetings**</span> to discuss the research in greater detail. During these meetings, I can:
 
-- **Share mechanism synthesize videos and research materials** that are under NDA.
-- **Share detailed problem definition, methods, results, and potential impact of developing a new method using SBM.**
+- **Share mechanism synthesis videos and research materials** that are under NDA.
+- **Discuss detailed problem definitions, methods, results, and the potential impact of developing new methods using SBM.**
 - **Provide in-depth explanations** of the methods, results, and potential impacts of my work.
 
-It is recommended that I **record these meetings for personal reference** to ensure clarity when presenting my research processes and results. Please feel free to [**contact me**](cksdml1014@gmail.com) to schedule a discussion.
+It is recommended that I **record these meetings for personal reference** to ensure clarity when presenting my research processes and results. Please feel free to [**contact me**](<mailto:cksdml1014@gmail.com>) to schedule a discussion.
+
 
 ---
 
@@ -119,7 +120,6 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
 ### Previous Publications
 
 - For detailed publications and patents related to Autonomous Mechanism Design Technology, visit **[here](https://ideaocean.ai/technology/)**.
-
 
 ---
 
