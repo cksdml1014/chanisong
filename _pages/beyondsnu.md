@@ -21,19 +21,19 @@ author_profile: true
 - Gained valuable feedback from foreign advisors, enhancing communication and research presentation skills.
   
 <div style="display: flex; justify-content: space-between;">
-  <div style="width: 25%;">
+  <div style="width: 24%;">
     <img src="https://cksdml1014.github.io/chanisong/images/class1.png" alt="class1" style="width: 100%;">
     <p style="font-size: 12px; text-align: center;">Attending the introductory lecture on Reinforcement Learning and Learning-Based Control at RWTH Aachen University.</p>
   </div>
-  <div style="width: 25%;">
+  <div style="width: 24%;">
     <img src="https://cksdml1014.github.io/chanisong/images/class2.png" alt="class2" style="width: 100%;">
     <p style="font-size: 12px; text-align: center;">Participating in a computer lab session for Model-Based Estimation at RWTH Aachen University.</p>
   </div>
-  <div style="width: 25%;">
+  <div style="width: 24%;">
     <img src="https://cksdml1014.github.io/chanisong/images/class3.jpg" alt="class3" style="width: 100%;">
     <p style="font-size: 12px; text-align: center;">Attending a lecture on Nonlinear Control Systems, studying stability and Lyapunov’s criteria.</p>
   </div>
-  <div style="width: 25%;">
+  <div style="width: 24%;">
     <img src="https://cksdml1014.github.io/chanisong/images/research1.png" alt="Research" style="width: 50%;">
   <p style="font-size: 12px;">Formulating QP problems and writing code for Model Predictive Control during lab work at RWTH Aachen.</p>
   </div>
