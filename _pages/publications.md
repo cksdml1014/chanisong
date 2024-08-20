@@ -88,14 +88,14 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center; width: 48%;">
     <video width="100%" controls>
-      <source src="https://cksdml1014.github.io/chanisong/images/sbmvideo1.wmv" type="video/mp4">
+      <source src="https://cksdml1014.github.io/chanisong/images/sbmvideo1.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <p style="font-size: 12px; color: gray;">This video illustrates the mechanism synthesis process using SBM. You can see how different spring constants change the motion of the SBM blocks. The path of the center of target block gradually converges to the target path. (IDeA Lab, 2022)</p>
   </div>
   <div style="text-align: center; width: 48%;">
     <video width="100%" controls>
-      <source src="https://cksdml1014.github.io/chanisong/images/sbmvideo2.wmv" type="video/mp4">
+      <source src="https://cksdml1014.github.io/chanisong/images/sbmvideo2.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <p style="font-size: 12px; color: gray;">This video illustrates the change of objective function(red) and constraints(blue) during the iteration of SBM optimization. 1DoF Mechanism is synthesized when the wort transmittance efficiency(red graph) converges to 1. (IDeA Lab, 2022)</p>
