@@ -11,6 +11,7 @@ author_profile: true
 - Membership is limited to 20-30 top-performing students annually, with alumni pursuing PhDs and contributing to academia and industry worldwide.
 - As a member, I engaged in collaborative discussions on engineering issues, research ethics, and the societal role of engineers. These experiences helped me grow as both an engineer and a leader.
 
+---
 ## SRT (Student Round Table)
 
 <div style="display: flex; justify-content: space-between;">
@@ -43,6 +44,7 @@ author_profile: true
 - **Executive Meetings:** 
   - Played a crucial role in shaping post-COVID STEM culture by organizing bi-weekly executive meetings to increase member engagement and collaboration.
 
+---
 ## Academic Seminars
 
 - Participated in Bi-weekly research presentations on cutting-edge engineering topics such as soft robotics and nuclear fusion.
@@ -67,6 +69,7 @@ author_profile: true
   - **Future Technologies:** Cutting-edge innovations and their societal impact.
 - **Impact:** Tech Square broadened my understanding beyond my own field of study, allowing me to engage in discussions that enhanced my perspective on engineering's role in addressing global challenges.
 
+---
 ## Vision Exhibition
 
 - **Audience:** Presented to over 100 SNU freshmen and sophomores in the College of Engineering.
@@ -81,6 +84,7 @@ author_profile: true
   - Other articles on robotics and mechanical design have collectively garnered over 22,000 views.
 - **Impact:** Helped high school students better understand engineering disciplines and prepare for their academic futures.
 
+---
 ## Sports and Community
 
 <div style="text-align: center;">
