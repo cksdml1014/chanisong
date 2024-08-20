@@ -85,24 +85,23 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
 - Using an appropriate optimization formulation with these variables as optimization variables, we can automatically synthesize linkage mechanisms that follow specific paths. This process determines both the topology and geometry of the linkage mechanisms.
 - The synthesis process utilizes an **optimization formulation** based on the **work transmittance efficiency function** (Kim and Kim, IJNM, 2014), enabling the autonomous design of mechanisms that follow specific paths.
 
-<div style="text-align: center;">
-  <video width="560" height="315" controls>
-    <source src="https://cksdml1014.github.io/chanisong/images/3djbm_example.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <p style="font-size: 12px; color: gray;">This video serves as a preview to introduce the 3D Autonomous Mechanism Design Methodology, showcasing a 3D mechanism as part of the disclosure.</p>
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: center; width: 48%;">
+    <video width="100%" controls>
+      <source src="https://cksdml1014.github.io/chanisong/images/sbmvideo1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p style="font-size: 12px; color: gray;">This video illustrates the mechanism synthesis process using SBM. You can see how different spring constants change the motion of the SBM blocks. The path of the center of target block gradually converges to the target path. (IDeA Lab, 2022)</p>
+  </div>
+  <div style="text-align: center; width: 48%;">
+    <video width="100%" controls>
+      <source src="https://cksdml1014.github.io/chanisong/images/sbmvideo2.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p style="font-size: 12px; color: gray;">This video illustrates the change of objective function(red) and constraints(blue) during the iteration of SBM optimization. 1DoF Mechanism is synthesized when the wort transmittance efficiency(red graph) converges to 1. (IDeA Lab, 2022)</p>
+  </div>
 </div>
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 48%; display: flex; flex-direction: column; justify-content: space-between;">
-        <img src="https://cksdml1014.github.io/chanisong/images/SBM2.png" alt="SBM2" style="width: 100%;">
-        <p style="font-size: 12px; text-align: center; margin-top: auto;">SBM, first proposed by Prof. Yoon Young Kim (JMD, 2007), enables the synthesis of 2D Linkage Mechanisms comprised of revolute joints.</p>
-    </div>
-    <div style="width: 48%; display: flex; flex-direction: column; justify-content: space-between;">
-        <img src="https://cksdml1014.github.io/chanisong/images/JBM1.png" alt="JBM1" style="width: 100%;">
-        <p style="font-size: 12px; text-align: center; margin-top: auto;">JBM, proposed by Kang and Kim (SMO, 2018), extends SBM by incorporating prismatic joints into 2D Linkage Mechanisms.</p>
-    </div>
-</div>
 
 ### Examples of Applications of Autonomous Mechanism Design Technology
 
@@ -127,6 +126,23 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
 - **Transformable Wheel Mechanisms**:  
   - **Applications**: Transformable wheels with adaptable structures for torque, speed, and stability optimization.
   - **Impact**: Reduces motor usage while maintaining performance, enabling 1-DOF robot systems to adjust to changing terrain.
+ 
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: center; width: 48%;">
+    <video width="100%" controls>
+      <source src="https://cksdml1014.github.io/chanisong/images/wheel1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p style="font-size: 12px; color: gray;">This video illustrates the synthesis process of Transformable Wheel Mechanisms using the JBM framework. As the optimization problem approaches its optimal solution, the JBM system gradually converges into a 1-DOF mechanism. (IEEE T-RO, 2023)</p>
+  </div>
+  <div style="text-align: center; width: 48%;">
+    <video width="100%" controls>
+      <source src="https://cksdml1014.github.io/chanisong/images/wheel2.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p style="font-size: 12px; color: gray;">Once the JBM system converges, it is interpreted into a linkage mechanism. This video showcases the CAD models of mechanisms synthesized through the JBM framework. (IEEE T-RO, 2023)</p>
+  </div>
+</div>
 
 <div style="text-align: center;">
     <img src="https://cksdml1014.github.io/chanisong/images/메커니즘그림3.png" alt="mech3" style="width: 70%;">
