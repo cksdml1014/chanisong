@@ -52,7 +52,7 @@ author_profile: true
     <img src="https://cksdml1014.github.io/chanisong/images/friend1.webp" alt="Friend" style="width: 100%;">
   <p style="font-size: 12px;">Cherishing the memories with my best friend group in Aachen — a thoughtful farewell gift and pictures from our time together.</p>
   </div>
-  <div style="width: 52%;">
+  <div style="width: 53%;">
     <img src="https://cksdml1014.github.io/chanisong/images/travel2.jpg" alt="Travel" style="width: 100%;">
   <p style="font-size: 12px;">Unforgettable travel memories with my friends met in Mostar, Bosnia, exploring Sarajevo and Istanbul together.</p>
   </div>
