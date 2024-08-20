@@ -11,9 +11,9 @@ author_profile: true
 - **Impact:** Broadened academic and cultural horizons, improved English proficiency, and experienced life abroad.
   
 ### Academic Experience
-- **Courses Taken:** Nonlinear Control, Model-Based Estimation, Reinforcement Learning & Learning-Based Control.
-  - Achieved 1.0 in Nonlinear Control and Model-Based Estimation, validating my academic competitiveness in Germany.
-  - Developed interest in practical applications of mechanism design, recognizing that control systems and mechanical design can intersect to solve complex problems.
+- **Courses:** Nonlinear Control, Model-Based Estimation, Reinforcement Learning & Learning-Based Control.
+- Achieved 1.0 in Nonlinear Control and Model-Based Estimation, validating my academic competitiveness in Germany. Couldn't take exam of Reinforcement Learning & Learning-Based Control due to semester schedule back in SNU.
+- Developed interest in practical applications of mechanism design, recognizing that control systems and mechanical design can intersect to solve complex problems.
   
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 32%;">
@@ -32,8 +32,8 @@ author_profile: true
 
 ### Research Experience
 - **Project:** Applied Model Predictive Control (MPC) to an embedded system.
-  - Conducted research, formulated QP problems, and wrote control code during lab work.
-  - Gained valuable feedback from foreign advisors, enhancing communication and research presentation skills.
+- Conducted research, formulated QP problems, and wrote control code during lab work.
+- Gained valuable feedback from foreign advisors, enhancing communication and research presentation skills.
 
 <div style="text-align: center;">
   <img src="https://cksdml1014.github.io/chanisong/images/research1.png" alt="Research" style="width: 50%;">
@@ -41,9 +41,9 @@ author_profile: true
 </div>
 
 ### Cultural and Social Experience
-- **Friendships:** Formed strong connections with international friends from Mexico, Austria, Turkey, Slovakia, and Ethiopia.
-  - Regular meetups at *Kaktus*, cooking traditional meals, day trips, and cultural exchanges deepened my understanding of different cultures.
-  - Events hosted by student associations like AV, Incas, AEGEE, and TedX RWTH expanded my social network.
+- Formed strong connections with international friends from Mexico, Austria, Turkey, Slovakia, and Ethiopia.
+- Regular meetups at *Kaktus*, cooking traditional meals, day trips, and cultural exchanges deepened my understanding of different cultures.
+- Events hosted by student associations like AV, Incas, AEGEE, and TedX RWTH expanded my social network.
   
 <div style="text-align: center;">
   <img src="https://cksdml1014.github.io/chanisong/images/friend1.webp" alt="Friend" style="width: 50%;">
@@ -51,8 +51,8 @@ author_profile: true
 </div>
 
 ### Travel and Broader Perspectives
-- **Travel:** Explored 70 cities across 24 countries, focusing on the Balkans and meeting open-minded travelers.
-  - Broadened perspectives on diverse lifestyles and societal challenges, reinforcing the importance of cultural understanding for engineers.
+- Explored 70 cities across 24 countries, focusing on the Balkans and meeting open-minded travelers.
+- Broadened perspectives on diverse lifestyles and societal challenges, reinforcing the importance of cultural understanding for engineers.
   
 <div style="text-align: center;">
   <img src="https://cksdml1014.github.io/chanisong/images/travel2.jpg" alt="Travel" style="width: 50%;">
@@ -63,7 +63,7 @@ author_profile: true
 - **Skills Gained:** Adaptability, resilience, and thriving in foreign environments.
 - **Future Goals:** Pursue a PhD abroad, leveraging hands-on experience in regions like the U.S. or EU where academia-industry collaboration thrives.
 
-
+---
 ## ROKAF: Republic of Korea Air Force
 
 - **Service Period:** August 2019 - May 2021 (21.5 months)
