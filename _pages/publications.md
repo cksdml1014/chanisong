@@ -151,7 +151,7 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
 ### The Value of SBM and JBM in Industry and Research
 
 - **Optimization and Innovation:** These models streamline the mechanism design process, enabling engineers to focus on optimization and innovation.
-- **Applications:** The technology is applied in various sectors, including **automotive**, **medical robotics**, and **next-generation mobility solutions**.
+- **Applications:** The technology is applied in various sectors, including automotive, medical robotics and mobility solutions.
 
 ### Previous Publications
 
