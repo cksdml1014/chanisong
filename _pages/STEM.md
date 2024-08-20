@@ -15,11 +15,11 @@ author_profile: true
 ## SRT (Student Round Table)
 
 <div style="display: flex; justify-content: center;">
-    <div style="width: 60%;">
+    <div style="width: 53%;">
         <img src="https://cksdml1014.github.io/chanisong/images/SRT1.png" alt="SRT1" style="width: 100%;">
         <p style="font-size: 12px; text-align: center;">Leading discussions on global issues with students from Korea, Japan, Taiwan, and Mongolia during the 2022 online SRT conference.</p>
     </div>
-    <div style="width: 40%;">
+    <div style="width: 43%;">
         <img src="https://cksdml1014.github.io/chanisong/images/SRT2.jpg" alt="SRT2" style="width: 100%;">
         <p style="font-size: 12px; text-align: center;">Heartfelt gratitude from SRT Japan members after receiving their personalized gifts and participating in our cultural exchange activities.</p>
     </div>
