@@ -48,7 +48,7 @@ author_profile: true
 ## Major Snapshot and STEMentor
 
 <div style="text-align: center;">
-    <img src="https://cksdml1014.github.io/chanisong/images/majorsnapshot2.png" alt="4 Major Mechanics Google Result" style="width: 50%;">
+    <img src="https://cksdml1014.github.io/chanisong/images/majorsnapshot2.png" alt="4 Major Mechanics Google Result" style="width: 80%;">
     <p style="font-size: 12px;">My STEMentor article on the 4 Major Mechanics was listed as a top search result by Google, reflecting the significant reach and impact of my educational contributions.</p>
 </div>
 
