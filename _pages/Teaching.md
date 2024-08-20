@@ -5,9 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Education is a field that I value deeply, alongside engineering and research. I believe education is one of the most powerful tools to influence the world and shape the lives of others. It is a way to use my talents to share knowledge, guide others toward better lives, and contribute to a more equitable society. One of my primary reasons for pursuing a PhD is to gain the experience and knowledge necessary to teach and mentor future students as a professor.
+## Teaching Overview
 
-Throughout my academic journey, I have taken many opportunities to grow as an educator and mentor. Below are some of the experiences that have had a significant impact on my development as an educator:
+- Education, alongside engineering and research, is a key passion of mine.
+- Teaching allows me to share knowledge, guide others, and contribute to a more equitable society.
+- My PhD pursuit is motivated by the desire to teach and mentor future students as a professor.
 
 ## Gong Dream Camp
 
@@ -22,9 +24,9 @@ Throughout my academic journey, I have taken many opportunities to grow as an ed
     </div>
 </div>
 
-- **Overview:** Gong Dream Camp is a four-day mentoring camp for 120 high school students, organized by SENS (Society of Engineering Network and Service) at SNU. I participated as a mentor twice.
-- **Role:** I planned and facilitated a startup contest for the mentees and provided personal guidance to nine students. I also assisted with various engineering challenges such as the E-Contest, which involved building machines with limited resources, and introduced different engineering majors to help students make informed decisions about their future studies.
-- **Impact:** The relationships I built with the mentees continue today, as I still provide them with advice on their studies and career paths. The experience taught me the value of mentorship and the joy of helping students find direction in their academic journeys.
+- **Overview:** Four-day mentoring camp for 120 high school students, organized by SENS at SNU. Participated twice as a mentor.
+- **Role:** Planned a startup contest and guided nine students through engineering challenges. Introduced various engineering majors to help students with career decisions.
+- **Impact:** Ongoing relationships with mentees, providing academic and career advice. Taught me the joy and importance of mentorship.
 
 ## SENS (Society of Engineering Network and Service)
 
@@ -39,20 +41,20 @@ Throughout my academic journey, I have taken many opportunities to grow as an ed
     </div>
 </div>
 
-- **Volunteer Work:** Beyond Gong Dream Camp, I completed 87.5 hours of volunteer mentoring through SENS. I served as both the Daily Engineering Class chair and vice president of the organization.
-- **Program Development:** As chair, I developed a new class program on the "Principle of Viscoelasticity" using potato starch slurry for hands-on experiments. This program has been in use for over seven years, giving middle school students an engaging introduction to engineering concepts. Additionally, I introduced various engineering majors to high school students to help them better understand their future academic options.
-- **Leadership:** As an executive member, I contributed to program revisions and helped foster enthusiasm for mentoring among fellow students. I built strong friendships with like-minded peers, further deepening my commitment to engineering education.
+- **Volunteer Work:** Completed 87.5 hours of mentoring through SENS, serving as chair for Daily Engineering Classes and vice president.
+- **Program Development:** Developed a hands-on experiment on the "Principle of Viscoelasticity" using potato starch slurry. Introduced engineering majors to help students choose their academic paths.
+- **Leadership:** As an executive member, revised programs, and encouraged mentoring enthusiasm within the group.
 
 ## Major Snapshot and STEMentor
 
 <div style="text-align: center;">
     <img src="https://cksdml1014.github.io/chanisong/images/majorsnapshot2.png" alt="4 Major Mechanics Google Result" style="width: 50%;">
-    <p style="font-size: 12px;">My STEMentor article on the 4 Major Mechanics was not only listed as a top search result by Google but was also cited by Google to explain the concept, reflecting the significant reach and impact of my educational contributions.</p>
+    <p style="font-size: 12px;">My STEMentor article on the 4 Major Mechanics was listed as a top search result by Google, reflecting the significant reach and impact of my educational contributions.</p>
 </div>
 
-- **Motivation:** After my involvement with SENS, I recognized the need for more students to have access to clear information about engineering majors. This led to my initiative to expand beyond face-to-face mentoring and contribute to a larger audience.
-- **STEMentor Contributions:** After joining SNU's STEM Honor Society, I initiated the "Major Snapshot" program on the **[STEMentor](https://stementor.tistory.com/)** website, where members share insights about their major courses. This resource, now featuring over 110 articles, helps high school students gain a better understanding of engineering education.
-- **Impact:** I personally contributed three articles on mechanical engineering topics, including "4 Major Mechanics," "Robotics," and "Mechanics and Design." My article on "4 Major Mechanics" has garnered over 17,000 views and is currently the top search result on Google for the term "4대역학" (Four Major Mechanics). Across all my articles, I have accumulated over 22,000 views. These articles continue to guide students in making informed decisions about their academic futures.
+- **Motivation:** Recognized the need for accessible information on engineering majors, leading to contributions beyond face-to-face mentoring.
+- **STEMentor Contributions:** Initiated the "Major Snapshot" program on **[STEMentor](https://stementor.tistory.com/)**, offering insights into different engineering majors.
+- **Impact:** Authored articles on "4 Major Mechanics," "Robotics," and "Mechanics and Design" with over 22,000 views. The "4 Major Mechanics" article reached 17,000 views and was the top Google search result for "4대역학."
 
 ## Vision Exhibition
 
@@ -67,17 +69,20 @@ Throughout my academic journey, I have taken many opportunities to grow as an ed
     </div>
 </div>
 
-- **Overview:** During my junior and senior years at SNU, I began mentoring younger students, remembering the lack of guidance I experienced during my first two years of college. The Vision Exhibition, hosted by STEM, provided an opportunity to share my experiences with over 100 freshmen and sophomores in the College of Engineering.
-- **Content:** I introduced students to Mechanism Design Automation Technology, a relatively new field even among academics. I emphasized its potential impact and encouraged students to explore broad fields within engineering. I also shared my experiences as an exchange student at RWTH Aachen University and as a researcher at **IDeAOcean**.
+- **Audience:** Presented to over 100 SNU freshmen and sophomores from the College of Engineering.
+- **Presentation:** Introduced Mechanism Design Automation Technology and shared experiences as an exchange student at RWTH Aachen University and a researcher at **IDeAOcean**.
+- **Impact:** Provided guidance to younger students in navigating academic and career paths in engineering.
 
 ## Observations on Teaching and Curriculum Development
-- **Reflection on Teaching:** Aspiring to become a professor, I have closely observed various teaching methods and curricula throughout my studies. After each semester, I provided detailed feedback to professors, offering constructive suggestions for course improvements and better resource allocation, such as improving computer labs and optimizing course requirements.
-- **Impact:** My feedback has led to the installation of new computers and a revision of the mandatory course structure. I also keep personal records of my thoughts on teaching methods, course design, and what I would change when I eventually teach, preparing for the day when I become a professor myself.
+
+- **Role:** Provided detailed feedback on teaching methods and course improvements in SNU Mechanical Engineering, leading to better lab resources and revised course structures.
+- **Impact:** Offered suggestions that resulted in new computers and course structure revisions at SNU.
 
 ## Undergraduate Tutor
-- **Role:** I tutored freshmen in calculus, focusing on areas where they struggled and offering feedback on how to approach mathematical problems more effectively. Drawing on my background as a double major in mathematics, I also taught students how to present solutions clearly and logically.
-- **Results:** My students improved significantly in their understanding of calculus, with many achieving their academic goals as a result of our sessions.
+
+- **Role:** Tutored freshmen in calculus, helping 10 students overcome challenges and improve their problem-solving skills.
 
 ## Private Tutor
-- **Tutoring Experience:** Throughout my college years, except during military service and my exchange program, I worked as a private tutor for middle and high school students. I taught eight different students subjects ranging from middle school math and physics to college-level calculus and physics.
-- **Teaching Strengths:** I excelled at identifying students' problem areas and breaking down complex concepts into manageable steps. Every student I tutored made measurable progress and succeeded in achieving their academic goals.
+
+- **Role:** Worked as a private tutor for in total 8 middle and high school students, teaching math and physics from middle school to college level.
+- **Strengths:** Identified students' weak areas and simplified complex concepts for effective learning. All students showed measurable progress.
