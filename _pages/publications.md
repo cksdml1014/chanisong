@@ -7,6 +7,7 @@ author_profile: true
 
 Given that Autonomous Mechanism Design Technology is an emerging and relatively unfamiliar field even among researchers in related areas, here's a brief explanation of the technology, followed by a summary of my contributions. My **publications and manuscripts in preparation** can be found at the bottom of the page.
 
+---
 ## Personal Contributions to Autonomous Mechanism Design Technology
 
 At *IDeAOcean*, which evolved from *IDeALab* under Prof. Yoon Young Kim, I have played a central role in advancing Autonomous Mechanism Design Technology. My contributions include:
