@@ -55,7 +55,7 @@ It is recommended that I **record these meetings for personal reference** to ens
 
 <p>The <strong>Autonomous Mechanism Design Technology</strong>, developed using the <strong>SBM (Spring-connected Block Model)</strong> and <strong>JBM (Joint-element Block Model)</strong> frameworks, represents a revolutionary approach to mechanism synthesis. This technology autonomously generates complex linkage mechanisms that achieve specific tasks and meet performance requirements across various applications.</p>
 
-<h3>What are SBM and JBM?</h3>
+<h2>What are SBM and JBM?</h2>
 
 <div style="display: flex; justify-content: space-between;">
     <div style="width: 48%; display: flex; flex-direction: column; justify-content: space-between;">
@@ -111,7 +111,7 @@ It is recommended that I **record these meetings for personal reference** to ens
   </div>
 </div>
 
-<h3>Examples of Applications of Autonomous Mechanism Design Technology</h3>
+<h2>Examples of Applications of Autonomous Mechanism Design Technology</h2>
 
 <p><strong style="font-size: 1.2em;">Vehicle Mechanisms:</strong></p>
 <ul>
@@ -165,8 +165,8 @@ It is recommended that I **record these meetings for personal reference** to ens
 
 <h3>The Value of SBM and JBM in Industry and Research</h3>
 
-<p><strong>Optimization and Innovation:</strong> These models streamline the mechanism design process, enabling engineers to focus on optimization and innovation.</p>
-<p><strong>Applications:</strong> The technology is applied in various sectors, including automotive, medical robotics and mobility solutions.</p>
+<p>Optimization and Innovation:These models streamline the mechanism design process, enabling engineers to focus on optimization and innovation.</p>
+<p>Applications: The technology is applied in various sectors, including automotive, medical robotics and mobility solutions.</p>
 
 <h3>Previous Publications</h3>
 
