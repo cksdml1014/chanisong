@@ -13,25 +13,30 @@ redirect_from:
 
 Welcome to my personal website!
 
-I created this space to showcase my work and research, which reflect my qualifications as a prospective PhD candidate and my journey toward pursuing a doctoral degree. Here, you'll find a collection of my academic projects, publications, and other efforts that have shaped my path and aspirations in research.
+I created this space to showcase my work and research, which reflect my qualifications as a prospective PhD candidate and my journey toward pursuing a doctoral degree.  
+Here, you'll find a collection of my academic projects, publications, and other efforts that have shaped my path and aspirations in research.
 
 ### Background
 
-My name is Chan-Eui Song, and I am currently completing a bachelor's degree in Mechanical Engineering with a double major in Mathematics from Seoul National University (SNU). While I have fulfilled the requirements for graduation, I am currently on a break from my studies to work as a researcher at **[IDeAOcean](https://ideaocean.ai)**—an innovative company specializing in state-of-the-art technology for mechanism and machine design.
+My name is Chan-Eui Song, and I am currently completing a bachelor's degree in Mechanical Engineering with a double major in Mathematics from Seoul National University (SNU).  
+While I have fulfilled the requirements for graduation, I am currently on a break from my studies to work as a researcher at **[IDeAOcean](https://ideaocean.ai)**—an innovative company specializing in state-of-the-art technology for mechanism and machine design.
 
 ### Research Interests
 
-My primary research centers around **Mechanism Design Automation Technology**, a fusion of *design* and *optimization* that drives advancements in efficient, low-cost mechanisms. While I have a deep interest in automatic mechanism design, particularly in reducing degrees of freedom (DoF) to achieve more lightweight, highly mobile designs, I am also eager to explore how this technology could be applied to fields like robotics. Though my primary focus is on automatic mechanism design, my broader research interests also include control systems and AI-based mechanics, all of which intersect with optimization in various ways. Additionally, I have explored origami structures, which I aim to connect with mechanism design principles in future work.
+My primary research centers around **Mechanism Design Automation Technology**, a fusion of *design* and *optimization* that drives advancements in efficient, low-cost mechanisms.  
+While I have a deep interest in automatic mechanism design, particularly in reducing degrees of freedom (DoF) to achieve more lightweight, highly mobile designs, I am also eager to explore how this technology could be applied to fields like robotics.  
+Though my primary focus is on automatic mechanism design, my broader research interests also include *control systems* and *AI-based mechanics*, all of which intersect with **optimization** in various ways. Additionally, I have explored origami structures, which I aim to connect with *mechanism design* principles in future work.  
+My strong foundation in *mathematics* and *mechanics*, particularly in the area of **optimization**, fuels my approach to these research topics.
 
 ### Future Goals
 
-I plan to begin my PhD studies in 2025, and aspire to become a professor, where I can combine my passions for teaching and research to inspire future engineers while making meaningful contributions to the field.
+I plan to begin my PhD studies in 2025, and aspire to become a professor, where I can combine my passions for *teaching* and *research* to inspire future engineers while making meaningful contributions to the field.
 
 ### Explore My Work
 
 - **Publications and Manuscripts:** This section features my research in Mechanism Design Automation Technology, supported by images and videos that illustrate my findings. I am currently preparing **two journals** related to my work in this field.
   
-- **Projects:** Here, you'll find research spanning control systems, robotics, and AI-based mechanics, as well as work on origami structures. It also includes other notable projects, such as METHEUS, which was recognized with a CES Innovation Award.
+- **Projects:** Here, you'll find research spanning control systems, robotics, and AI-based mechanics, as well as work on origami structures. It also includes other notable projects, such as METHEUS, which was recognized with a *CES Innovation Award*.
 
 - **Key Courses:** This section highlights my academic achievements across key subject areas, showcasing the breadth of my studies.
 
