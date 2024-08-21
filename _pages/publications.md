@@ -50,11 +50,11 @@ It is recommended that I **record these meetings for personal reference** to ens
 ---
 
 <details>
-  <summary style="font-size: 1.5em; font-weight: bold;">Autonomous Mechanism Design Technology: SBM and JBM Models </summary>  
+  <summary style="font-size: 1.0em; font-weight: bold;">Autonomous Mechanism Design Technology: SBM and JBM Models </summary>  
 
-The **Autonomous Mechanism Design Technology**, developed using the **SBM (Spring-connected Block Model)** and **JBM (Joint-element Block Model)** frameworks, represents a revolutionary approach to mechanism synthesis. This technology autonomously generates complex linkage mechanisms that achieve specific tasks and meet performance requirements across various applications.
+<p>The <strong>Autonomous Mechanism Design Technology</strong>, developed using the <strong>SBM (Spring-connected Block Model)</strong> and <strong>JBM (Joint-element Block Model)</strong> frameworks, represents a revolutionary approach to mechanism synthesis. This technology autonomously generates complex linkage mechanisms that achieve specific tasks and meet performance requirements across various applications.</p>
 
-### What are SBM and JBM?
+<h3>What are SBM and JBM?</h3>
 
 <div style="display: flex; justify-content: space-between;">
     <div style="width: 48%; display: flex; flex-direction: column; justify-content: space-between;">
@@ -66,25 +66,31 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
         <p style="font-size: 12px; text-align: center; margin-top: auto;">JBM, proposed by Kang and Kim (SMO, 2018), extends SBM by incorporating prismatic joints into 2D Linkage Mechanisms.</p>
     </div>
 </div>
-  
-- **SBM (Spring-connected Block Model)**:
-  - Represents mechanical systems using rigid blocks connected by springs.
-  - The spring connections simulate constraints and force-displacement relationships that characterize the dynamic behavior of the mechanism. 
-  - Enables the automatic synthesis of **2D 1DOF mechanisms** composed of **revolute joints**, optimized to follow specific paths.
 
-- **JBM (Joint-element Block Model)**:
-  - Extends SBM by incorporating revolute and prismatic joints.
-  - Allows for more sophisticated control of the mechanism's movement by enabling the usage of prismatic joints.
-  - Supports the synthesis of **2D 1DOF mechanisms** with **revolute and prismatic joints**.
+<h4>SBM (Spring-connected Block Model)</h4>
+<ul>
+  <li>Represents mechanical systems using rigid blocks connected by springs.</li>
+  <li>The spring connections simulate constraints and force-displacement relationships that characterize the dynamic behavior of the mechanism.</li>
+  <li>Enables the automatic synthesis of <strong>2D 1DOF mechanisms</strong> composed of <strong>revolute joints</strong>, optimized to follow specific paths.</li>
+</ul>
+
+<h4>JBM (Joint-element Block Model)</h4>
+<ul>
+  <li>Extends SBM by incorporating revolute and prismatic joints.</li>
+  <li>Allows for more sophisticated control of the mechanism's movement by enabling the usage of prismatic joints.</li>
+  <li>Supports the synthesis of <strong>2D 1DOF mechanisms</strong> with <strong>revolute and prismatic joints</strong>.</li>
+</ul>
 
 <div style="text-align: center;">
     <img src="https://cksdml1014.github.io/chanisong/images/optimizationformulation.png" alt="optimizationformulation" style="width: 50%;">
     <p style="font-size: 12px;">Optimization formulation for Autonomous Mechanism Design, first proposed by Kim et al. (IJNM, 2014)</p>
 </div>
 
-- The spring constant *k* of the springs in SBM & JBM models determines whether the system behaves like a linkage mechanism with revolute joints, like a rigidly connected structure, or something in between. By using spring values as variables, along with the position of the nodes and the angle of the double-spring structure in JBM models, we can represent various 2D linkage mechanisms composed of links and revolute/prismatic joints. 
-- Using an appropriate optimization formulation with these variables as optimization variables, we can automatically synthesize linkage mechanisms that follow specific paths. This process determines **both the topology and geometry** of the linkage mechanisms.
-- The synthesis process utilizes an **optimization formulation** based on the **work transmittance efficiency function** (Kim and Kim, IJNM, 2014), enabling the autonomous design of mechanisms that follow specific paths.
+<ul>
+  <li>The spring constant <em>k</em> of the springs in SBM & JBM models determines whether the system behaves like a linkage mechanism with revolute joints, like a rigidly connected structure, or something in between. By using spring values as variables, along with the position of the nodes and the angle of the double-spring structure in JBM models, we can represent various 2D linkage mechanisms composed of links and revolute/prismatic joints.</li>
+  <li>Using an appropriate optimization formulation with these variables as optimization variables, we can automatically synthesize linkage mechanisms that follow specific paths. This process determines <strong>both the topology and geometry</strong> of the linkage mechanisms.</li>
+  <li>The synthesis process utilizes an <strong>optimization formulation</strong> based on the <strong>work transmittance efficiency function</strong> (Kim and Kim, IJNM, 2014), enabling the autonomous design of mechanisms that follow specific paths.</li>
+</ul>
 
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 48%; text-align: center;">
@@ -104,35 +110,41 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
   </div>
 </div>
 
----
-### Examples of Applications of Autonomous Mechanism Design Technology
+<h3>Examples of Applications of Autonomous Mechanism Design Technology</h3>
 
-- **Vehicle Mechanisms**:  
-  - **Applications**: Autonomous suspension systems, aerodynamic components, adaptable chassis elements.
-  - **Impact**: Optimizes vehicle performance under various conditions, supporting the shift toward electric and autonomous vehicles.
+<h4>Vehicle Mechanisms</h4>
+<ul>
+  <li><strong>Applications:</strong> Autonomous suspension systems, aerodynamic components, adaptable chassis elements.</li>
+  <li><strong>Impact:</strong> Optimizes vehicle performance under various conditions, supporting the shift toward electric and autonomous vehicles.</li>
+</ul>
 
 <div style="text-align: center;">
     <img src="https://cksdml1014.github.io/chanisong/images/메커니즘그림1.png" alt="mech1" style="width: 90%;">
     <p style="font-size: 12px;">Novel vehicle mechanisms developed using SBM and JBM (Kim et al., IJNM, 2018).</p>
 </div>
 
-- **Human-Integrated Mechanisms and Robotics**:  
-  - **Applications**: Robotic exoskeletons, rehabilitation devices, assistive mobility systems.
-  - **Impact**: Designs mechanisms that interact with humans for wearable, assistive applications in medical robotics.
+<h4>Human-Integrated Mechanisms and Robotics</h4>
+<ul>
+  <li><strong>Applications:</strong> Robotic exoskeletons, rehabilitation devices, assistive mobility systems.</li>
+  <li><strong>Impact:</strong> Designs mechanisms that interact with humans for wearable, assistive applications in medical robotics.</li>
+</ul>
 
 <div style="text-align: center;">
     <img src="https://cksdml1014.github.io/chanisong/images/메커니즘그림2.png" alt="mech2" style="width: 90%;">
     <p style="font-size: 12px;">Exoskeletons and rehabilitation devices designed using SBM and JBM (Kim et al., SMO, 2018).</p>
 </div>
 
-- **Transformable Wheel Mechanisms**:  
-  - **Applications**: Transformable wheels with adaptable structures for torque, speed, and stability optimization.
-  - **Impact**: Reduces motor usage while maintaining performance, enabling 1-DOF robot systems to adjust to changing terrain.
+<h4>Transformable Wheel Mechanisms</h4>
+<ul>
+  <li><strong>Applications:</strong> Transformable wheels with adaptable structures for torque, speed, and stability optimization.</li>
+  <li><strong>Impact:</strong> Reduces motor usage while maintaining performance, enabling 1-DOF robot systems to adjust to changing terrain.</li>
+</ul>
 
 <div style="text-align: center;">
     <img src="https://cksdml1014.github.io/chanisong/images/메커니즘그림3.png" alt="mech3" style="width: 70%;">
     <p style="font-size: 12px;">Transformable wheels designed using JBM (Kim et al., IEEE T-RO, 2023).</p>
 </div>
+
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center; width: 48%;">
     <video width="100%" controls>
@@ -150,14 +162,15 @@ The **Autonomous Mechanism Design Technology**, developed using the **SBM (Sprin
   </div>
 </div>
 
-### The Value of SBM and JBM in Industry and Research
+<h3>The Value of SBM and JBM in Industry and Research</h3>
 
-- **Optimization and Innovation:** These models streamline the mechanism design process, enabling engineers to focus on optimization and innovation.
-- **Applications:** The technology is applied in various sectors, including automotive, medical robotics and mobility solutions.
+<p><strong>Optimization and Innovation:</strong> These models streamline the mechanism design process, enabling engineers to focus on optimization and innovation.</p>
+<p><strong>Applications:</strong> The technology is applied in various sectors, including automotive, medical robotics and mobility solutions.</p>
 
-### Previous Publications
+<h3>Previous Publications</h3>
 
-- For detailed publications and patents related to Autonomous Mechanism Design Technology, visit **[here](https://ideaocean.ai/technology/)**.
+<p>For detailed publications and patents related to Autonomous Mechanism Design Technology, visit <a href="https://ideaocean.ai/technology/" target="_blank"><strong>here</strong></a>.</p>
+
 
 </details>
 
