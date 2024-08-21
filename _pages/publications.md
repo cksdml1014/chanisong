@@ -33,7 +33,7 @@ At *IDeAOcean*, which evolved from *IDeALab* under Prof. Yoon Young Kim, I have 
   - Applied parallel computing to speed up mechanism synthesis.
   - Utilized size optimization algorithms, such as NSGA-II, to enhance the efficiency of mechanism designs.
 
-- **NDA Compliance**: While much of the research remains under NDA (Non-Disclosure Agreement), the advancements achieved through this work are reflected in several **manuscripts** and **patents** currently in preparation.
+* **NDA Compliance**: While much of the research remains under NDA (Non-Disclosure Agreement), the advancements achieved through this work are reflected in several **manuscripts** and **patents** currently in preparation.
 
 ### Emphasis on Zoom Meetings
 
