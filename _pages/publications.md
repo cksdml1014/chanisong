@@ -13,10 +13,10 @@ At *IDeAOcean*, which evolved from *IDeALab* under Prof. Yoon Young Kim, I have 
 
 1) **Extending SBM and JBM to 3D Mechanisms**
   - Developed novel methods to expand the 2D frameworks of SBM and JBM into 3D applications.
-  - Created mechanisms using this methodology, some of which are currently under patent processes, and the methodology itself is being prepared for publication in a <span style="color: blue;">**journal**</span>.
+  - Created mechanisms using this methodology, some of which are currently under patent processes, and the methodology itself is being prepared for publication in a <span style="color: #4a90e2;">**journal**</span>.
 
 2) **Applying SBM to Solve Special Problems**
-  - Utilized SBM to develop a methodology for designing linkage systems in complex environments and is preparing for publication in a <span style="color: blue;">**journal**</span>.
+  - Utilized SBM to develop a methodology for designing linkage systems in complex environments and is preparing for publication in a <span style="color: #4a90e2;">**journal**</span>.
   - Problem originality is critical, and details will be disclosed after journal acceptance.
   - **Private Zoom meetings** are available to discuss the target problems, methods, results, and potential impact.
 
@@ -26,7 +26,7 @@ At *IDeAOcean*, which evolved from *IDeALab* under Prof. Yoon Young Kim, I have 
   - Future collaborations include partnerships with *Honda* and leading robotics companies requiring advanced mechanism designs.
 
 4) **Developing METHEUS: AI-driven Mechanism Design Solution**
-  - Awarded the <span style="color: blue;">**CES 2024 Innovation Award**</span> for its ability to autonomously generate mechanisms tailored to various needs.
+  - Awarded the <span style="color: #4a90e2;">**CES 2024 Innovation Award**</span> for its ability to autonomously generate mechanisms tailored to various needs.
   - More information can be found in the "Project" Section.
 
 5) **Optimization and Computing Techniques**
@@ -35,18 +35,19 @@ At *IDeAOcean*, which evolved from *IDeALab* under Prof. Yoon Young Kim, I have 
 
 * **NDA Compliance**: While much of the research remains under NDA (Non-Disclosure Agreement), the advancements achieved through this work are reflected in several **manuscripts** and **patents** currently in preparation.
 
+---
 ### Emphasis on Zoom Meetings
 
-Due to the sensitive nature of my ongoing research projects, I offer <span style="color: red;">**private Zoom meetings**</span> to discuss the research in greater detail. During these meetings, I can:
+Due to the sensitive nature of my ongoing research projects, I offer <span style="color: #e57373;">**private Zoom meetings**</span> to discuss the research in greater detail. During these meetings, I can:
 
-- Share mechanism synthesis videos and research materials that are under NDA.
-- Discuss detailed problem definitions, methods, results, and the potential impact of developing new methods using SBM.
-- Provide in-depth explanations of the methods, results, and potential impacts of my work.
+- Share mechanism synthesis videos and research materials that are protected by NDA, including the 3D Mechanisms research currently being prepared for submission.
+- Discuss detailed problem definitions, methodologies, results, and the potential impact of the new methods developed using SBM, which are also in preparation for submission.
+- Provide in-depth explanations of the techniques, outcomes, and potential impact of Autonomous Mechanism Design Technology.
 
 It is recommended that I **record these meetings for personal reference** to ensure clarity when presenting my research processes and results. Please feel free to [**contact me**](<mailto:cksdml1014@gmail.com>) to schedule a discussion.
 
 
----
+<hr style="border: 3px solid black;">
 
 <details>
   <summary style="font-size: 1.3em; font-weight: bold;">Backgrounds on Autonomous Mechanism Design Technology: SBM and JBM Models </summary>  
@@ -171,7 +172,7 @@ It is recommended that I **record these meetings for personal reference** to ens
 <p>For detailed publications and patents related to Autonomous Mechanism Design Technology, visit <a href="https://ideaocean.ai/technology/" target="_blank"><strong>here</strong></a>.</p>
 </details>
 
----
+<hr style="border: 3px solid black;">
 
 ## Publications & Manuscripts
 
