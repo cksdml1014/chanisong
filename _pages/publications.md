@@ -49,7 +49,7 @@ Due to the sensitive nature of my ongoing research projects, I offer <span style
 It is recommended that I **record these meetings for personal reference** to ensure clarity when presenting my research processes and results. Please feel free to [**contact me**](<mailto:cksdml1014@gmail.com>) to schedule a discussion.
 
 
-<hr style="border: 3px solid black;">
+<hr style="border: 2px solid black;">
 
 <details>
   <summary style="font-size: 1.3em; font-weight: bold;">Backgrounds on Autonomous Mechanism Design Technology: SBM and JBM Models </summary>  
@@ -174,7 +174,7 @@ It is recommended that I **record these meetings for personal reference** to ens
 <p>For detailed publications and patents related to Autonomous Mechanism Design Technology, visit <a href="https://ideaocean.ai/technology/" target="_blank"><strong>here</strong></a>.</p>
 </details>
 
-<hr style="border: 3px solid black;">
+<hr style="border: 2px solid black;">
 
 ## Publications & Manuscripts
 
