@@ -11,25 +11,25 @@ Given that Autonomous Mechanism Design Technology is an emerging and relatively 
 
 At *IDeAOcean*, which evolved from *IDeALab* under Prof. Yoon Young Kim, I have played a central role in advancing Autonomous Mechanism Design Technology. My contributions include:
 
-- **Extending SBM and JBM to 3D Mechanisms**
+1) **Extending SBM and JBM to 3D Mechanisms**
   - Developed novel methods to expand the 2D frameworks of SBM and JBM into 3D applications.
   - Created mechanisms using this methodology, some of which are currently under patent processes, and the methodology itself is being prepared for publication in a <span style="color: blue;">**journal**</span>.
 
-- **Applying SBM to Solve Special Problems**
+2) **Applying SBM to Solve Special Problems**
   - Utilized SBM to develop a methodology for designing linkage systems in complex environments and is preparing for publication in a <span style="color: blue;">**journal**</span>.
   - Problem originality is critical, and details will be disclosed after journal acceptance.
   - **Private Zoom meetings** are available to discuss the target problems, methods, results, and potential impact.
 
-- **Collaborations and Industrial Applications**
+3) **Collaborations and Industrial Applications**
   - Worked closely with **Hyundai Motors, HD Hyundai**, and other leading firms.
   - Generated **3 innovative mechanisms** for various applications in next-generation automobiles and wheel loaders, using SBM and JBM.
   - Future collaborations include partnerships with *Honda* and leading robotics companies requiring advanced mechanism designs.
 
-- **Developing METHEUS: AI-driven Mechanism Design Solution**
+4) **Developing METHEUS: AI-driven Mechanism Design Solution**
   - Awarded the <span style="color: blue;">**CES 2024 Innovation Award**</span> for its ability to autonomously generate mechanisms tailored to various needs.
   - More information can be found in the "Project" Section.
 
-- **Optimization and Computing Techniques**
+5) **Optimization and Computing Techniques**
   - Applied parallel computing to speed up mechanism synthesis.
   - Utilized size optimization algorithms, such as NSGA-II, to enhance the efficiency of mechanism designs.
 
