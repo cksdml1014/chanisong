@@ -18,10 +18,11 @@ My contributions include:
   - Developed novel methods to expand the 2D frameworks of SBM and JBM into 3D applications.
   - Created mechanisms using this methodology, some of which are currently under patent processes, and the methodology itself is being prepared for publication in a <span style="color: #4a90e2;">**journal**</span>.
 
-2) **Applying SBM to Solve Special Problems**
-  - Utilized SBM to develop a methodology for designing linkage systems in complex environments and is preparing for publication in a <span style="color: #4a90e2;">**journal**</span>.
-  - Problem originality is critical, and details will be disclosed after journal acceptance.
-  - **Private Zoom meetings** are available to discuss the target problems, methods, results, and potential impact.
+2) **Applying SBM to Solve Practical Design Challenges**
+   - Created a methodology for designing linkage systems that address **real-world constraints**, with the research being prepared for publication in a <span style="color: #4a90e2;">**journal**</span>.
+   - Prior studies focused on advancing the mechanical models of SBM and JBM. This research shifts towards applying these models to solve practical design problems and create functional mechanisms.
+   - Problem originality is critical, and details will be disclosed after journal acceptance.
+   - **Private Zoom meetings** are available to discuss the target problems, methods, results, and potential impact.
 
 3) **Collaborations and Industrial Applications**
   - Worked closely with **Hyundai Motors, HD Hyundai**, and other leading firms.
@@ -40,14 +41,15 @@ My contributions include:
 **NDA Compliance**: While much of the research remains under NDA (Non-Disclosure Agreement), the advancements achieved through this work are reflected in several **manuscripts** and **patents** currently in preparation.
 
 ---
+
 ### Emphasis on Zoom Meetings
 
 Due to the sensitive nature of my ongoing research projects, I offer <span style="color: #e57373;">**private Zoom meetings**</span> to discuss the research in greater detail.  
 During these meetings, I can:
 
 - Share mechanism synthesis videos and research materials that are protected by NDA, including the 3D Mechanisms research currently being prepared for submission.
-- Discuss detailed problem definitions, methodologies, results, and the potential impact of the new methods developed using SBM, which are also in preparation for submission.
-- Provide in-depth explanations of the techniques, outcomes, and potential impact of Autonomous Mechanism Design Technology.
+- Discuss detailed problem definitions, methodologies, results, and the potential impact of the new methods developed using SBM, those designed for practical applications and real-world constraints.
+- Provide in-depth explanations of the techniques, outcomes, and broader impact of Autonomous Mechanism Design Technology.
 
 It is recommended that I **record these meetings for personal reference** to ensure clarity when presenting my research processes and results. Please feel free to [**contact me**](<mailto:cksdml1014@gmail.com>) to schedule a discussion.
 
@@ -184,13 +186,13 @@ It is recommended that I **record these meetings for personal reference** to ens
 
 ## Publications & Manuscripts
 
-### Synthesizing Mechanisms that requires special requirements Using SBM
+### Synthesizing Mechanisms for Practical Applications Using SBM
 
-1. **C. Song†**, J. Kim, and Y.Y. Kim∗, *“Automatic Synthesis of 1-DOF Linkage Mechanism Using SBM (applied in a special environment: Details to be disclosed upon acceptance)”*, expected submission in 2024 to *Journal of Mechanical Design*.
+1. **C. Song†**, J. Kim, and Y.Y. Kim∗, *“Automatic Synthesis of 1-DOF Linkage Mechanism Using SBM (Designed for Real-World Constraints: Details to be disclosed upon acceptance)”*, expected submission in 2024 to *Journal of Mechanical Design*.
 
-   - **Summary**: This paper introduces a novel synthesis method for linkage mechanisms using the SBM framework. The focus is on automating the design process and enhancing the performance of linkage systems in complex environments. Details of the target problems and the research impact will be disclosed after journal acceptance. Since the problem definition is critical to the originality of this research, disclosing it prematurely could jeopardize its uniqueness. However, **the problem definition, methods, results, and potential impact can be shared in private Zoom meetings**.
+   - **Summary**: This paper presents a new method for synthesizing linkage mechanisms using the SBM framework, focusing on **solving practical design challenges** in constrained environments. Unlike previous studies that primarily advanced the mechanical models, this research applies SBM to develop mechanisms that address **real-world constraints**. Detailed information about the target problems and research impact will be shared after journal acceptance. Since the problem definition is critical to the originality of this research, disclosing it prematurely could jeopardize its uniqueness. However, **the problem definition, methods, results, and potential impact can be discussed in private Zoom meetings**.
    
-   - **Expected Impact**: This research significantly contributes to the automatic design of linkage mechanisms for specialized environments, particularly in robotics.
+   - **Expected Impact**: This research enhances the automatic design of mechanisms for **practical applications** in specialized environments, particularly in fields like robotics where design constraints are crucial.
 
 ---
 
