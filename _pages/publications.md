@@ -95,8 +95,8 @@ It is recommended that I **record these meetings for personal reference** to ens
 </div>
 
 <ul>
-  <li>The spring constant <em>k</em> of the springs in SBM & JBM models determines whether the system behaves like a linkage mechanism with revolute joints, like a rigidly connected structure, or something in between. By using spring values as variables, along with the position of the nodes and the angle of the double-spring structure in JBM models, we can represent various 2D linkage mechanisms composed of links and revolute/prismatic joints.</li>
-  <li>Using an appropriate optimization formulation with these variables as optimization variables, we can automatically synthesize linkage mechanisms that follow specific paths. This process determines <strong>both the topology and geometry</strong> of the linkage mechanisms.</li>
+  <li>The spring constant <em>k</em> of the springs in SBM & JBM models determines whether the system behaves like a linkage mechanism with revolute joints, like a rigidly connected structure, or something in between. <br> By using spring values as variables, along with the position of the nodes and the angle of the double-spring structure in JBM models, we can represent various 2D linkage mechanisms composed of links and revolute/prismatic joints.</li>
+  <li>Using an appropriate optimization formulation with these variables as optimization variables, we can automatically synthesize linkage mechanisms that follow specific paths. <br> This process determines <strong>both the topology and geometry</strong> of the linkage mechanisms.</li>
   <li>The synthesis process utilizes an <strong>optimization formulation</strong> based on the <strong>work transmittance efficiency function</strong> (Kim and Kim, IJNM, 2014), enabling the autonomous design of mechanisms that follow specific paths.</li>
 </ul>
 
