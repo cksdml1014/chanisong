@@ -11,7 +11,8 @@ My **publications and manuscripts in preparation** can be found at the bottom of
 ---
 ## Personal Contributions to Autonomous Mechanism Design Technology
 
-At *IDeAOcean*, which evolved from *IDeALab* under Prof. Yoon Young Kim, I have played a central role in advancing Autonomous Mechanism Design Technology. My contributions include:
+At *IDeAOcean*, which evolved from *IDeALab* under Prof. Yoon Young Kim, I have played a central role in advancing Autonomous Mechanism Design Technology.  
+My contributions include:
 
 1) **Extending SBM and JBM to 3D Mechanisms**
   - Developed novel methods to expand the 2D frameworks of SBM and JBM into 3D applications.
