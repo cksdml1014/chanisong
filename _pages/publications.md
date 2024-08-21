@@ -50,8 +50,7 @@ It is recommended that I **record these meetings for personal reference** to ens
 ---
 
 <details>
-  <summary><h2>Autonomous Mechanism Design Technology: SBM and JBM Models </h2></summary>
-  
+  <summary style="font-size: 1.5em; font-weight: bold;">Autonomous Mechanism Design Technology: SBM and JBM Models </summary>  
 
 The **Autonomous Mechanism Design Technology**, developed using the **SBM (Spring-connected Block Model)** and **JBM (Joint-element Block Model)** frameworks, represents a revolutionary approach to mechanism synthesis. This technology autonomously generates complex linkage mechanisms that achieve specific tasks and meet performance requirements across various applications.
 
