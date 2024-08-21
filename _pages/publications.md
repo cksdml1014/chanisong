@@ -17,9 +17,8 @@ At *IDeAOcean*, which evolved from *IDeALab* under Prof. Yoon Young Kim, I have 
 
 - **Applying SBM to Solve Special Problems**
   - Utilized SBM to develop a methodology for designing linkage systems in complex environments and is preparing for publication in a <span style="color: blue;">**journal**</span>.
-  - The problem definition is critical to the originality of this research, and disclosing the target problem could jeopardize its uniqueness.
-  - Details of the target problems and the research impact will be disclosed after journal acceptance.
-  - However, the problem definition, methods, results, and potential impact can be shared in **private Zoom meetings**.
+  - Problem originality is critical, and details will be disclosed after journal acceptance.
+  - **Private Zoom meetings** are available to discuss the target problems, methods, results, and potential impact.
 
 - **Collaborations and Industrial Applications**
   - Worked closely with **Hyundai Motors, HD Hyundai**, and other leading firms.
@@ -40,9 +39,9 @@ At *IDeAOcean*, which evolved from *IDeALab* under Prof. Yoon Young Kim, I have 
 
 Due to the sensitive nature of my ongoing research projects, I offer <span style="color: red;">**private Zoom meetings**</span> to discuss the research in greater detail. During these meetings, I can:
 
-- **Share mechanism synthesis videos and research materials** that are under NDA.
-- **Discuss detailed problem definitions, methods, results, and the potential impact of developing new methods using SBM.**
-- **Provide in-depth explanations** of the methods, results, and potential impacts of my work.
+- Share mechanism synthesis videos and research materials that are under NDA.
+- Discuss detailed problem definitions, methods, results, and the potential impact of developing new methods using SBM.
+- Provide in-depth explanations of the methods, results, and potential impacts of my work.
 
 It is recommended that I **record these meetings for personal reference** to ensure clarity when presenting my research processes and results. Please feel free to [**contact me**](<mailto:cksdml1014@gmail.com>) to schedule a discussion.
 
@@ -112,7 +111,7 @@ It is recommended that I **record these meetings for personal reference** to ens
 
 <h3>Examples of Applications of Autonomous Mechanism Design Technology</h3>
 
-<h4>Vehicle Mechanisms</h4>
+<p><strong style="font-size: 1.2em;">Vehicle Mechanisms:</strong></p>
 <ul>
   <li><strong>Applications:</strong> Autonomous suspension systems, aerodynamic components, adaptable chassis elements.</li>
   <li><strong>Impact:</strong> Optimizes vehicle performance under various conditions, supporting the shift toward electric and autonomous vehicles.</li>
@@ -123,7 +122,7 @@ It is recommended that I **record these meetings for personal reference** to ens
     <p style="font-size: 12px;">Novel vehicle mechanisms developed using SBM and JBM (Kim et al., IJNM, 2018).</p>
 </div>
 
-<h4>Human-Integrated Mechanisms and Robotics</h4>
+<p><strong style="font-size: 1.2em;">Human-Integrated Mechanisms and Robotics:</strong></p>
 <ul>
   <li><strong>Applications:</strong> Robotic exoskeletons, rehabilitation devices, assistive mobility systems.</li>
   <li><strong>Impact:</strong> Designs mechanisms that interact with humans for wearable, assistive applications in medical robotics.</li>
@@ -134,7 +133,7 @@ It is recommended that I **record these meetings for personal reference** to ens
     <p style="font-size: 12px;">Exoskeletons and rehabilitation devices designed using SBM and JBM (Kim et al., SMO, 2018).</p>
 </div>
 
-<h4>Transformable Wheel Mechanisms</h4>
+<p><strong style="font-size: 1.2em;">Transformable Wheel Mechanisms:</strong></p>
 <ul>
   <li><strong>Applications:</strong> Transformable wheels with adaptable structures for torque, speed, and stability optimization.</li>
   <li><strong>Impact:</strong> Reduces motor usage while maintaining performance, enabling 1-DOF robot systems to adjust to changing terrain.</li>
@@ -146,14 +145,14 @@ It is recommended that I **record these meetings for personal reference** to ens
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="text-align: center; width: 48%;">
+  <div style="width: 48%; text-align: center;">
     <video width="100%" controls>
       <source src="https://cksdml1014.github.io/chanisong/images/wheel1.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <p style="font-size: 12px; color: gray;">This video illustrates the synthesis process of Transformable Wheel Mechanisms using the JBM framework. As the optimization problem approaches its optimal solution, the JBM system gradually converges into a 1-DOF mechanism. (IEEE T-RO, 2023)</p>
   </div>
-  <div style="text-align: center; width: 48%;">
+  <div style="width: 48%; text-align: center;">
     <video width="100%" controls>
       <source src="https://cksdml1014.github.io/chanisong/images/wheel2.mp4" type="video/mp4">
       Your browser does not support the video tag.
@@ -170,7 +169,6 @@ It is recommended that I **record these meetings for personal reference** to ens
 <h3>Previous Publications</h3>
 
 <p>For detailed publications and patents related to Autonomous Mechanism Design Technology, visit <a href="https://ideaocean.ai/technology/" target="_blank"><strong>here</strong></a>.</p>
-
 </details>
 
 ---
