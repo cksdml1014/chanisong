@@ -19,7 +19,7 @@ Here, you'll find a collection of my academic projects, publications, and other 
 ### Background
 
 My name is Chan-Eui Song, and I am currently completing a bachelor’s degree in Mechanical Engineering with a double major in Mathematics from Seoul National University (SNU).  
-While I have fulfilled the requirements for graduation, I am currently on a break from my studies to work as a researcher at **[IDeAOcean](https://ideaocean.ai)*—one of Korea's fastest-growing startups in mechanism and machine design, where I am a core founding member.
+While I have fulfilled the requirements for graduation, I am currently on a break from my studies to work as a researcher at <a href="https://ideaocean.ai" style="color: #4a90e2; text-decoration: none;">IDeAOcean</a>—one of Korea's fastest-growing startups in mechanism and machine design, where I am a core founding member.
 
 ### Research Interests
 
