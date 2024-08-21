@@ -170,7 +170,7 @@ It is recommended that I **record these meetings for personal reference** to ens
 
 <h3>The Value of SBM and JBM in Industry and Research</h3>
 
-<p>Optimization and Innovation:These models streamline the mechanism design process, enabling engineers to focus on optimization and innovation.</p>
+<p>Optimization and Innovation: These models streamline the mechanism design process, enabling engineers to focus on optimization and innovation.</p>
 <p>Applications: The technology is applied in various sectors, including automotive, medical robotics and mobility solutions.</p>
 
 <h3>Previous Publications</h3>
