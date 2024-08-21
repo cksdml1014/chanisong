@@ -50,7 +50,7 @@ It is recommended that I **record these meetings for personal reference** to ens
 ---
 
 <details>
-  <summary style="font-size: 1.0em; font-weight: bold;">Autonomous Mechanism Design Technology: SBM and JBM Models </summary>  
+  <summary style="font-size: 1.3em; font-weight: bold;">Backgrounds on Autonomous Mechanism Design Technology: SBM and JBM Models </summary>  
 
 <p>The <strong>Autonomous Mechanism Design Technology</strong>, developed using the <strong>SBM (Spring-connected Block Model)</strong> and <strong>JBM (Joint-element Block Model)</strong> frameworks, represents a revolutionary approach to mechanism synthesis. This technology autonomously generates complex linkage mechanisms that achieve specific tasks and meet performance requirements across various applications.</p>
 
@@ -67,14 +67,14 @@ It is recommended that I **record these meetings for personal reference** to ens
     </div>
 </div>
 
-<h4>SBM (Spring-connected Block Model)</h4>
+<p><strong style="font-size: 1.2em;">SBM (Spring-connected Block Model):</strong></p>
 <ul>
   <li>Represents mechanical systems using rigid blocks connected by springs.</li>
   <li>The spring connections simulate constraints and force-displacement relationships that characterize the dynamic behavior of the mechanism.</li>
   <li>Enables the automatic synthesis of <strong>2D 1DOF mechanisms</strong> composed of <strong>revolute joints</strong>, optimized to follow specific paths.</li>
 </ul>
 
-<h4>JBM (Joint-element Block Model)</h4>
+<p><strong style="font-size: 1.2em;">JBM (Joint-element Block Model):</strong></p>
 <ul>
   <li>Extends SBM by incorporating revolute and prismatic joints.</li>
   <li>Allows for more sophisticated control of the mechanism's movement by enabling the usage of prismatic joints.</li>
@@ -170,7 +170,6 @@ It is recommended that I **record these meetings for personal reference** to ens
 <h3>Previous Publications</h3>
 
 <p>For detailed publications and patents related to Autonomous Mechanism Design Technology, visit <a href="https://ideaocean.ai/technology/" target="_blank"><strong>here</strong></a>.</p>
-
 
 </details>
 
