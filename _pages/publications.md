@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-Given that Autonomous Mechanism Design Technology is an emerging and relatively unfamiliar field even among researchers in related areas, here's a brief explanation of the technology, followed by a summary of my contributions. My **publications and manuscripts in preparation** can be found at the bottom of the page.
+Given that Autonomous Mechanism Design Technology is an emerging and relatively unfamiliar field even among researchers in related areas, here's a brief explanation of the technology, followed by a summary of my contributions.  
+My **publications and manuscripts in preparation** can be found at the bottom of the page.
 
 ---
 ## Personal Contributions to Autonomous Mechanism Design Technology
@@ -54,7 +55,10 @@ It is recommended that I **record these meetings for personal reference** to ens
 <details>
   <summary style="font-size: 1.3em; font-weight: bold;">Backgrounds on Autonomous Mechanism Design Technology: SBM and JBM Models </summary>  
 
-<p>The <strong>Autonomous Mechanism Design Technology</strong>, developed using the <strong>SBM (Spring-connected Block Model)</strong> and <strong>JBM (Joint-element Block Model)</strong> frameworks, represents a revolutionary approach to mechanism synthesis. This technology autonomously generates complex linkage mechanisms that achieve specific tasks and meet performance requirements across various applications. Specifically, it synthesizes <strong>1-DOF linkage mechanisms that follow desired paths</strong> by automatically determining <strong>both the topology and geometry</strong> of the mechanism. This is achieved through appropriate optimization problem formulations and precise modeling of the spring-block systems.</p>
+<p>The <strong>Autonomous Mechanism Design Technology</strong>, developed using the <strong>SBM (Spring-connected Block Model)</strong> and <strong>JBM (Joint-element Block Model)</strong> frameworks, represents a revolutionary approach to mechanism synthesis.  
+  This technology autonomously generates complex linkage mechanisms that achieve specific tasks and meet performance requirements across various applications.  
+  Specifically, it synthesizes <strong>1-DOF linkage mechanisms that follow desired paths</strong> by automatically determining <strong>both the topology and geometry</strong> of the mechanism.  
+  This is achieved through appropriate optimization problem formulations and precise modeling of the spring-block systems.</p>
 
 <h2>What are SBM and JBM?</h2>
 
