@@ -42,7 +42,8 @@ My contributions include:
 ---
 ### Emphasis on Zoom Meetings
 
-Due to the sensitive nature of my ongoing research projects, I offer <span style="color: #e57373;">**private Zoom meetings**</span> to discuss the research in greater detail. During these meetings, I can:
+Due to the sensitive nature of my ongoing research projects, I offer <span style="color: #e57373;">**private Zoom meetings**</span> to discuss the research in greater detail.  
+During these meetings, I can:
 
 - Share mechanism synthesis videos and research materials that are protected by NDA, including the 3D Mechanisms research currently being prepared for submission.
 - Discuss detailed problem definitions, methodologies, results, and the potential impact of the new methods developed using SBM, which are also in preparation for submission.
