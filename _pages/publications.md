@@ -122,7 +122,7 @@ It is recommended that I **record these meetings for personal reference** to ens
 
 <div style="text-align: center;">
     <img src="https://cksdml1014.github.io/chanisong/images/메커니즘그림1.png" alt="mech1" style="width: 90%;">
-    <p style="font-size: 12px;">Novel vehicle mechanisms developed using SBM and JBM (Kim et al., IJNM, 2018).</p>
+    <p style="font-size: 12px;">Novel vehicle mechanisms developed using predecessor to SBM and JBM, referred to as the 'bar model' proposed by Kim and Kim (IJNM, 2014). Figure also referenced in Kim et al. (IJNM, 2018).</p>
 </div>
 
 <p><strong style="font-size: 1.2em;">Human-Integrated Mechanisms and Robotics:</strong></p>
@@ -133,7 +133,7 @@ It is recommended that I **record these meetings for personal reference** to ens
 
 <div style="text-align: center;">
     <img src="https://cksdml1014.github.io/chanisong/images/메커니즘그림2.png" alt="mech2" style="width: 90%;">
-    <p style="font-size: 12px;">Exoskeletons and rehabilitation devices designed using SBM and JBM (Kim et al., SMO, 2018).</p>
+    <p style="font-size: 12px;">Rehabilitation devices designed using SBM and JBM (Kim et al., SMO, 2018) and exoskeletons (Lee et al., IEEE Access, 2023).</p>
 </div>
 
 <p><strong style="font-size: 1.2em;">Transformable Wheel Mechanisms:</strong></p>
