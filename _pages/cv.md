@@ -80,7 +80,7 @@ Extracurricular Involvement
   * Graduated as an Honors Member for exceptional contributions as HR/PR Director and Chairman of SRT 2022.
   * Engaged in discussions on engineering issues, research ethics, and leadership, fostering both personal and professional growth as an engineer.
 
-* SENS (SNU Engineering Education volunteer club) \| Mar.2018 _ Jul.2019
+* SENS (SNU Engineering Education volunteer club) \| Mar.2018 - Jul.2019
   * Completed 87.5 hours of mentoring through SENS, serving as chair for Daily Engineering Classes and vice president.
   * Participated Gong Dream Camp twice as a mentor, a four-day mentoring camp for 120 high school students.
 
