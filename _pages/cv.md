@@ -9,7 +9,7 @@ redirect_from:
 
 PDF File (Last Updated: August 21st, 2024): **[PDF File](https://cksdml1014.github.io/chanisong/files/cv_chaneuisong.pdf)**
 
-=====
+---
 
 Education
 ======
