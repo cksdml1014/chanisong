@@ -30,7 +30,11 @@ While I have fulfilled the requirements for graduation, I am currently on a brea
 
 ### Future Goals
 
-I plan to begin my PhD studies in 2025, and aspire to become a professor, where I can combine my passions for *teaching* and *research* to inspire future engineers while making meaningful contributions to the field.
+I plan to begin my PhD studies in 2025, focusing on advancing robot mechanism design and automation. My goal is to develop efficient mechanisms that reduce the complexity and cost of robotic systems, making them more accessible for widespread use.  
+
+I aim to contribute to robotics by designing systems that improve mobility and reliability while integrating control systems and optimization for enhanced performance. These affordable robots have the potential to increase productivity, improve safety in dangerous tasks, and make advanced technology more accessible across various sectors.  
+
+In the long term, I aspire to become a professor, combining teaching and research to mentor future engineers and continue advancing the field. My goal is to drive innovation and make a lasting impact through both academic work and real-world applications.
 
 ### Explore My Work
 
