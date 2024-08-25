@@ -16,7 +16,7 @@ Education
   * Left for Mandatory Military Service, Aug 2019 - Mar 2021
   * Fulfilled graduation requirements, left for Industrial Experience and Research, Jan 2024 - *Present*
  
-  * Exchange Semester in Mechanical Engineering, RWTH Aachen University(RWTH), 2023 Spring
+* Exchange Semester in Mechanical Engineering, RWTH Aachen University(RWTH), 2023 Spring
   * GPA: 1.0/5.0 (equivalent to 4.0/4.0 CGPA)
  
 * Graduated Gyeonggi Science High School for the Gifted, 2018
