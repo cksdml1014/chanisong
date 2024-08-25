@@ -82,6 +82,7 @@ It is recommended that I **record these meetings for personal reference** to ens
 <p><strong style="font-size: 1.2em;">SBM (Spring-connected Block Model):</strong></p>
 <ul>
   <li>Represents mechanical systems using rigid blocks connected by springs.</li>
+  <li>The ratio of the spring constants of two springs connected to the same blocks determines whether the springs behave as a revolute joint or not, as shown in the diagram above.</li>
   <li>The spring connections simulate constraints and force-displacement relationships that characterize the dynamic behavior of the mechanism.</li>
   <li>Enables the automatic synthesis of <strong>2D 1DOF mechanisms</strong> composed of <strong>revolute joints</strong>, optimized to follow specific paths.</li>
 </ul>
@@ -89,6 +90,7 @@ It is recommended that I **record these meetings for personal reference** to ens
 <p><strong style="font-size: 1.2em;">JBM (Joint-element Block Model):</strong></p>
 <ul>
   <li>Extends SBM by incorporating revolute and prismatic joints.</li>
+  <li>A special spring structure called a "Double Spring" enables translational motion in one direction if the spring constants meet certain conditions, allowing the system to function as a prismatic joint.</li>
   <li>Allows for more sophisticated control of the mechanism's movement by enabling the usage of prismatic joints.</li>
   <li>Supports the synthesis of <strong>2D 1DOF mechanisms</strong> with <strong>revolute and prismatic joints</strong>.</li>
 </ul>
