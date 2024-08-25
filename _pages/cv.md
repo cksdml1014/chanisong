@@ -25,6 +25,7 @@ Education
   * High school for the gifted in science and mathematics, 1 year Accelerated Admission via Exam.
 
 ---
+
 Reserach & Work experience
 ======
 * IDeAOcean: Researcher \| Sep.2023 - *Present*
@@ -62,12 +63,14 @@ Reserach & Work experience
   * Supervisor: Prof. Dano Kim
 
 ---
+
 Publications & Manuscripts
 ======
 1. **C. Song†**, J. Kim, and Y.Y. Kim∗, *“Automatic Synthesis of 1-DOF Linkage Mechanism Using SBM (applied in a special environment: Details to be disclosed upon acceptance)”*, expected submission in 2024 to *Journal of Mechanical Design*.
 2. **C. Song†**, J. Kim, and Y.Y. Kim∗, *“A Novel Mechanism Synthesized Using the 3D JBM Model and Topology Optimization”*, expected submission in 2025 to *Mechanism and Machine Theory*.
 
 ---
+
 Selected Awards & Honors
 ======
 * Academic Merit Scholarship, $11,700 \| College of Engineering, SNU \| 2018 - 2023
@@ -78,7 +81,9 @@ Selected Awards & Honors
 * 2nd Place, Excellence Book Review Contest, $150 \| Faculty of Liberal Education, SNU \| Feb.2022
 * Grand Prize, Korean Mathematics Competition \| Korean Society of Mathematical Education \| Feb.2017
 * Gold Prize, Korean Mathematics Competition \| Korean Society of Mathematical Education \| Jul.2017
+
 ---
+
 Extracurricular Involvement
 ======
 * STEM (SNU Engineers Honor Society) \| Sep.2021 - *Present*
@@ -90,12 +95,16 @@ Extracurricular Involvement
   * Participated Gong Dream Camp twice as a mentor, a four-day mentoring camp for 120 high school students.
 
 * Republic of Korea Air Force, Mandatory Military Service \| Aug.2019 - May.2021
+
 ---
+
 Teaching
 ======
 * Undergraduate Tutor, Calculus \| College of Engineering, SNU \| Jan.2022 - Feb.2022
 * Private Tutor, Mathematics/Physics \| in total 8 students \| Jan.2018 - Feb.2023
+
 ---
+
 Skills
 ======
 * Languages: Korean (Native), English (Fluent, TOEFL 109), German (Elementary)
