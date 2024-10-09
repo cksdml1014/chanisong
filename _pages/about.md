@@ -24,13 +24,13 @@ While I have fulfilled the requirements for graduation, I am currently on a brea
 ### Research Interests
 
 - My research focuses on **Mechanism Design Automation Technology**, combining design and optimization to develop efficient, low-cost mechanisms.
-- I am particularly interested in reducing degrees of freedom (DoF) for lighter, more mobile designs, with applications in robotics.
-- My broader interests include control systems and AI-based mechanics, all of which intersect with optimization. Additionally, I have explored origami structures and aim to apply these principles to mechanism design in the future.
+- I am particularly interested in reducing degrees of freedom (DoF) for lighter, more mobile and affordable designs, with applications in robotics: focusing on legged/locomotion robots.
+- My broader interests include control systems and AI-based optimal design, all of which intersect with optimization. Additionally, I have explored origami structures and aim to apply these principles to mechanism design in the future.
 - A strong foundation in mathematics and mechanics, especially in optimization, drives my research approach.
 
 ### Future Goals
 
-I plan to begin my PhD studies in 2025, focusing on advancing robot mechanism design and automation. My goal is to develop efficient mechanisms that reduce the complexity and cost of robotic systems, making them more accessible for widespread use.  
+I plan to begin my PhD studies in 2025, focusing on advancing robot mechanism design and optimal design automation. My goal is to develop efficient mechanisms that reduce the complexity and cost of robotic systems, making them more accessible for widespread use over various environments.  
 
 I aim to contribute to robotics by designing systems that improve mobility and reliability while integrating control systems and optimization for enhanced performance. These affordable robots have the potential to increase productivity, improve safety in dangerous tasks, and make advanced technology more accessible across various sectors.  
 
