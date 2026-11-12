@@ -15,7 +15,7 @@ I am a PhD candidate in Mechanical Engineering at Carnegie Mellon University. I 
 
 My research studies how AI can support engineering design optimization. Large language models contain broad engineering knowledge, but their reasoning alone cannot evaluate a physical design accurately. Therefore, engineering design still depends on simulators, which are expensive and often available only as black boxes. I develop methods that combine LLM knowledge with simulator feedback and numerical optimizers, and I test these methods on electric vehicle battery packs, battery electrodes, and mechanisms.
 
-Before CMU, I developed topology optimization methods for automatic mechanism design at IDeAOcean and worked on industry-sponsored projects with Hyundai Motor, HD Hyundai, and Samsung Electronics. I received a B.S. in Mechanical Engineering and Mathematical Sciences from Seoul National University in 2025.
+Before CMU, I spent two years as a Senior Researcher at IDeAOcean, where I developed topology optimization methods for automatic mechanism design, led the development of the METHEUS design software, and designed mechanisms for Hyundai Motor and HD Hyundai. I received a B.S. in Mechanical Engineering and Mathematical Sciences from Seoul National University in 2025.
 
 I am looking for Summer 2027 research internships in AI for engineering design, optimization, and LLM agents. My CV is [here](https://cksdml1014.github.io/chanisong/cv/).
 
@@ -29,11 +29,12 @@ I am looking for Summer 2027 research internships in AI for engineering design, 
 
 ### Recent
 
+- **2026.** Agents4experiments, LLM agents for physical experiment design, at AGENTICS 2026.
+- **2026.** Oral presentation on graded cathode porosity at the 250th ECS Meeting in Calgary.
 - **2026.** "LLM-Assisted Optimization for Simulation-Based Redesign" is on [arXiv](https://arxiv.org/abs/2610.39275) and under review at ASME Journal of Mechanical Design.
 - **2026.** Two papers at ASME IDETC/CIE 2026 in Houston, on LLM agents for dynamic design optimization and on DesignBench.
-- **2026.** Oral presentation on graded cathode porosity at the 250th ECS Meeting in Calgary.
-- **2026.** Agents4experiments, LLM agents for physical experiment design, at AGENTICS 2026.
 - **2026.** Graduate Teaching Assistant for Engineering Optimization (24-785) at CMU.
 - **2025.** Journal paper on obstacle-avoiding mechanism synthesis published in [ASME Journal of Mechanical Design](https://doi.org/10.1115/1.4068693).
+- **2024.** METHEUS, automatic linkage design software I led at IDeAOcean, received a CES 2024 Innovation Award.
 
 My work before the PhD, including mechanism design projects, coursework, and student activities at Seoul National University, is collected in the [undergraduate archive](https://cksdml1014.github.io/chanisong/archive/).
