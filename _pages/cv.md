@@ -23,6 +23,7 @@ redirect_from:
   - LLM-assisted optimization for simulation-based redesign, LLM agents for dynamic design optimization, DesignBench, and graded cathode porosity optimization
   - LLM agents for physical experiment design with the Barati Farimani group
 - **IDeAOcean, Seoul**, Senior Researcher, Sep 2023 to Jun 2025
+  - Advisor: Yoon Young Kim
   - Topology optimization methods for 2D and 3D mechanism synthesis, published in ASME Journal of Mechanical Design
   - Automotive linkage design for Hyundai Motor Company and industry-sponsored projects with Hyundai Motor, HD Hyundai, and Samsung Electronics
   - Led development of METHEUS, automatic linkage design software recognized with a CES 2024 Innovation Award

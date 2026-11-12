@@ -15,7 +15,7 @@ I am a PhD candidate in Mechanical Engineering at Carnegie Mellon University. I 
 
 My research studies how AI can support engineering design optimization. Large language models contain broad engineering knowledge, but their reasoning alone cannot evaluate a physical design accurately. Therefore, engineering design still depends on simulators, which are expensive and often available only as black boxes. I develop methods that combine LLM knowledge with simulator feedback and numerical optimizers, and I test these methods on electric vehicle battery packs, battery electrodes, and mechanisms.
 
-Before CMU, I spent two years as a Senior Researcher at IDeAOcean, where I developed topology optimization methods for automatic mechanism design, led the development of the METHEUS design software, and designed mechanisms for Hyundai Motor and HD Hyundai. I received a B.S. in Mechanical Engineering and Mathematical Sciences from Seoul National University in 2025.
+Before CMU, I spent two years as a Senior Researcher at IDeAOcean with Prof. Yoon Young Kim, where I developed topology optimization methods for automatic mechanism design, led the development of the METHEUS design software, and designed mechanisms for Hyundai Motor and HD Hyundai. I received a B.S. in Mechanical Engineering and Mathematical Sciences from Seoul National University in 2025.
 
 I am looking for Summer 2027 research internships in AI for engineering design, optimization, and LLM agents. My CV is [here](https://cksdml1014.github.io/chanisong/cv/).
 
