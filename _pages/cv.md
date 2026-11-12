@@ -37,5 +37,3 @@ redirect_from:
 
 - CES 2024 Innovation Award for METHEUS
 - Academic Merit Scholarship, College of Engineering, Seoul National University, 2018 to 2023
-
-The [CV from August 2024](https://cksdml1014.github.io/chanisong/archive/cv-2024/) is kept in the undergraduate archive.
