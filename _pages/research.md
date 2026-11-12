@@ -23,7 +23,7 @@ My research brings engineering knowledge into design optimization. At Carnegie M
 <span style="{{ tag }}">LLM agents</span><span style="{{ tag }}">Black-box optimization</span><span style="{{ tag }}">Battery design</span>
 
 *C. Song, J. J. Michalek, and C. McComb. Under review at ASME Journal of Mechanical Design, 2026.*
-**[arXiv](https://arxiv.org/abs/2610.39275)** | **[Code](https://github.com/Chani-song/WAFER)**
+**[arXiv](https://arxiv.org/abs/2610.39275)** &nbsp;·&nbsp; **[Code](https://github.com/Chani-song/WAFER)**
 
 Engineers often adapt an existing design when a requirement changes. This adaptation is called redesign, and it usually means rerunning a numerical optimizer with an expensive simulator. In this project, we studied how LLMs can bring engineering knowledge into this redesign loop. We compared three ways of using an LLM, namely variable fixing, warm starting, and a ReAct agent, with conventional reoptimization on an EV battery pack redesign problem with four scenarios. LLM guidance matched the feasible-design discovery of standard optimizers with 80% fewer simulator calls and tripled the rate of runs that reached near-optimal designs.
 
@@ -61,13 +61,13 @@ A design problem can change while it is being optimized, for example when a mate
 <span style="{{ tag }}">Benchmarks</span><span style="{{ tag }}">LLM agents</span>
 
 *W. Xu†, C. Song†, Z. Zdobinski†, Z. Xu†, M. Zhang, and C. McComb. ASME IDETC/CIE 2026, Houston, August 2026.*
-**[Abstract](https://idetc.secure-platform.com/a/solicitations/280/sessiongallery/24098/application/195011)** | **[Dataset](https://huggingface.co/datasets/cmudrc/DesignBench)**
+**[Abstract](https://idetc.secure-platform.com/a/solicitations/280/sessiongallery/24098/application/195011)** &nbsp;·&nbsp; **[Dataset](https://huggingface.co/datasets/cmudrc/DesignBench)**
 
 Most LLM benchmarks test one-shot answers, but designers work in a loop. They read simulation feedback, find the cause of a failure, and revise the design over many steps. DesignBench tests this closed-loop design reasoning in three domains: truss optimization, planar linkage synthesis, and battery electrode design. Each domain has a deterministic simulator that returns feedback after every action. Design is represented as search over grammar-constrained modification trees, which makes the evaluation reproducible and also produces training traces for fine-tuning. Frontier models improved designs under feedback, but unevenly. They preferred small parameter edits to higher-leverage configuration changes, gained little from long-context reasoning, and depended strongly on how the feedback was structured.
 
 <div style="text-align: center; margin: 1em 0;">
-  <img src="https://cksdml1014.github.io/chanisong/images/research/designbench_truss.png" alt="The truss benchmark in DesignBench" style="width: 100%; max-width: 760px;">
-  <p style="{{ cap }}">The truss benchmark: a planar Pratt truss, its structural analysis with factor-of-safety constraints, and the design modifications available to the model.</p>
+  <img src="https://cksdml1014.github.io/chanisong/images/research/designbench_linkage.png" alt="The linkage benchmark in DesignBench" style="width: 100%; max-width: 640px;">
+  <p style="{{ cap }}">The linkage benchmark: a planar four-bar mechanism, the rotatability task, and the trajectory-matching task.</p>
 </div>
 
 <div style="text-align: center; margin: 1em 0;">
@@ -80,7 +80,7 @@ Most LLM benchmarks test one-shot answers, but designers work in a loop. They re
 <span style="{{ tag }}">LLM agents</span><span style="{{ tag }}">LLM fine-tuning</span>
 
 *C. Song†, S. Bose-Bandyopadhyay†, G. Yu†, P. Pak, F. Ogoke, and A. Barati Farimani. AGENTICS 2026, online, October 2026.*
-**[Poster](https://cksdml1014.github.io/chanisong/files/Agents4experiments_AGENTICS2026_poster.pdf)** | **[Program and abstract](https://www.insticc.org/node/TechnicalProgram/ijcci/2026/presentationDetails/153002)**
+**[Poster](https://cksdml1014.github.io/chanisong/files/Agents4experiments_AGENTICS2026_poster.pdf)** &nbsp;·&nbsp; **[Program and abstract](https://www.insticc.org/node/TechnicalProgram/ijcci/2026/presentationDetails/153002)**
 
 A physical experiment has to work with the equipment and materials on hand. With the Barati Farimani group, we asked whether LLM agents can design such experiments. We tested prompting, retrieval-augmented generation, and fine-tuning with SFT and DPO under a fixed bill of materials, and scored each plan with an 11-criterion design-of-experiments rubric. Model choice mattered more than any technique, and irrelevant retrieved context harmed the plans. All systems struggled with iteration, interaction, and blocking.
 
@@ -133,7 +133,7 @@ From 2023 to 2025, I worked as a Senior Researcher at [IDeAOcean](https://ideaoc
   <p style="{{ cap }}">METHEUS v1.0, CES 2024 Innovation Award.</p>
 </div>
 
-I led the development of METHEUS, software that generates linkage mechanisms for a target motion. METHEUS received a CES 2024 Innovation Award. My work included building large-scale linkage datasets with end-effector paths, manipulability, and kinetostatic analysis. **[METHEUS](https://metheus.ai/)** | **[IDeAOcean](https://ideaocean.ai/)**
+I led the development of METHEUS, software that generates linkage mechanisms for a target motion. METHEUS received a CES 2024 Innovation Award. My work included building large-scale linkage datasets with end-effector paths, manipulability, and kinetostatic analysis. **[METHEUS](https://metheus.ai/)** &nbsp;·&nbsp; **[IDeAOcean](https://ideaocean.ai/)**
 
 <div style="clear: both;"></div>
 
@@ -155,7 +155,7 @@ I applied automatic mechanism design to industry problems. For Hyundai Motor Com
 <span style="{{ tag }}">Mechanism design</span><span style="{{ tag }}">Topology optimization</span>
 
 *C. Song, J. Kim, and Y. Y. Kim. ASME Journal of Mechanical Design, 2025.*
-**[Paper](https://doi.org/10.1115/1.4068693)** | **[WCSMO 16 slides](https://cksdml1014.github.io/chanisong/files/WCSMO16_ChanEuiSong_slides.pdf)**
+**[Paper](https://doi.org/10.1115/1.4068693)** &nbsp;·&nbsp; **[WCSMO 16 slides](https://cksdml1014.github.io/chanisong/files/WCSMO16_ChanEuiSong_slides.pdf)**
 
 Real mechanisms must move around surrounding parts. Previous rigid block methods could synthesize a linkage that traces a target path, but the resulting links could collide with obstacles. I developed an obstacle-avoiding formulation of the spring-connected rigid block model, which uses MMA-based topology optimization to determine both the topology and the dimensions of a planar linkage that traces the path without colliding with obstacles. I also extended the joint-element block model from 2D to 3D spatial mechanisms, and this work is in preparation for a journal.
 
