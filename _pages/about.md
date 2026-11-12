@@ -1,54 +1,39 @@
 ---
 permalink: /
-title: "About Chan-Eui"
+title: "Chan-Eui Song"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-<div style="float: right; width: 200px; margin: 0 0 10px 10px;">
-    <img src="https://cksdml1014.github.io/chanisong/images/profile1.jpg" alt="Hi! I'm Chani!" style="width: 100%;">
+<div style="float: right; width: 200px; margin: 0 0 10px 16px;">
+    <img src="https://cksdml1014.github.io/chanisong/images/profile1.jpg" alt="Chan-Eui Song" style="width: 100%;">
 </div>
 
-Welcome to my personal website!
+I am a PhD candidate in Mechanical Engineering at Carnegie Mellon University. I am advised by Prof. Christopher McComb in the Design Research Collective and Prof. Jeremy Michalek in the Vehicle Electrification Group.
 
-I created this space to showcase my work and research, which reflect my qualifications as a prospective PhD candidate and my journey toward pursuing a doctoral degree.  
-Here, you'll find a collection of my academic projects, publications, and other efforts that have shaped my path and aspirations in research.
+My research studies how AI can support engineering design optimization. Large language models contain broad engineering knowledge, but their reasoning alone cannot evaluate a physical design accurately. Therefore, engineering design still depends on simulators, which are expensive and often available only as black boxes. I develop methods that combine LLM knowledge with simulator feedback and numerical optimizers, and I test these methods on electric vehicle battery packs, battery electrodes, and mechanisms.
 
-### Background
+Before CMU, I developed topology optimization methods for automatic mechanism design at IDeAOcean and worked on industry-sponsored projects with Hyundai Motor, HD Hyundai, and Samsung Electronics. I received a B.S. in Mechanical Engineering and Mathematical Sciences from Seoul National University in 2025.
 
-My name is Chan-Eui Song, and I am currently completing a bachelor’s degree in Mechanical Engineering with a double major in Mathematics from Seoul National University (SNU).  
-While I have fulfilled the requirements for graduation, I am currently on a break from my studies to work as a researcher at <a href="https://ideaocean.ai" style="color: #4a90e2; text-decoration: none;">IDeAOcean</a>—one of Korea's fastest-growing startups in mechanism and machine design, where I am a core founding member.
+I am looking for Summer 2027 research internships in AI for engineering design, optimization, and LLM agents. My CV is [here](https://cksdml1014.github.io/chanisong/cv/).
 
-### Research Interests
+<div style="clear: both;"></div>
 
-- My research focuses on **Mechanism Design Automation Technology**, combining design and optimization to develop efficient, low-cost mechanisms.
-- I am particularly interested in reducing degrees of freedom (DoF) for lighter, more mobile and affordable designs, with applications in robotics: focusing on legged/locomotion robots.
-- My broader interests include control systems and AI-based optimal design, all of which intersect with optimization. Additionally, I have explored origami structures and aim to apply these principles to mechanism design in the future.
-- A strong foundation in mathematics and mechanics, especially in optimization, drives my research approach.
+### Research interests
 
-### Future Goals
+- LLM-guided optimization with black-box engineering simulators
+- Benchmarks and evaluation of LLM agents for engineering design
+- Simulation-based design optimization of battery systems and mechanisms
 
-I plan to begin my PhD studies in 2025, focusing on advancing robot mechanism design and optimal design automation. My goal is to develop efficient mechanisms that reduce the complexity and cost of robotic systems, making them more accessible for widespread use over various environments.  
+### Recent
 
-I aim to contribute to robotics by designing systems that improve mobility and reliability while integrating control systems and optimization for enhanced performance. These affordable robots have the potential to increase productivity, improve safety in dangerous tasks, and make advanced technology more accessible across various sectors.  
+- **2026.** "LLM-Assisted Optimization for Simulation-Based Redesign" is on [arXiv](https://arxiv.org/abs/2610.39275) and under review at ASME Journal of Mechanical Design.
+- **2026.** Two papers at ASME IDETC/CIE 2026 in Houston, on LLM agents for dynamic design optimization and on DesignBench.
+- **2026.** Oral presentation on graded cathode porosity at the 250th ECS Meeting in Calgary.
+- **2026.** Agents4experiments, LLM agents for physical experiment design, at AGENTICS 2026.
+- **2026.** Graduate Teaching Assistant for Engineering Optimization (24-785) at CMU.
+- **2025.** Journal paper on obstacle-avoiding mechanism synthesis published in [ASME Journal of Mechanical Design](https://doi.org/10.1115/1.4068693).
 
-In the long term, I aspire to become a professor, combining teaching and research to mentor future engineers and continue advancing the field. My goal is to drive innovation and make a lasting impact through both academic work and real-world applications.
-
-### Explore My Work
-
-- **Publications and Manuscripts:** This section features my research in Mechanism Design Automation Technology, supported by images and videos that illustrate my findings. I am currently preparing **two journals** related to my work in this field.
-  
-- **Projects:** Here, you'll find research spanning control systems, robotics, and AI-based mechanics, as well as work on origami structures. It also includes other notable projects, such as METHEUS, which was recognized with a *CES Innovation Award*.
-
-- **Key Courses:** This section highlights my academic achievements across key subject areas, showcasing the breadth of my studies.
-
-- **STEM:** Learn about my involvement in SNU's Honor Society STEM, where collaboration with peers from various disciplines has allowed me to gain fresh insights and approach research challenges with creative solutions.
-  
-- **Teaching:** Discover the diverse educational experiences that have shaped my passion for academia and my drive to become both a professor and a researcher.
-
-- **Beyond SNU:** Here, you’ll find reflections on my time as an exchange student at RWTH Aachen University, where I embraced diverse cultural perspectives, and insights from my military service, which developed my leadership, discipline, and resilience.
-
-P.S. If you find it difficult to pronounce my name, feel free to call me Chani!
-
+My work before the PhD, including mechanism design projects, coursework, and student activities at Seoul National University, is collected in the [undergraduate archive](https://cksdml1014.github.io/chanisong/archive/).

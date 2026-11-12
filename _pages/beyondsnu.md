@@ -4,6 +4,7 @@ title: "Beyond SNU"
 permalink: /beyondsnu/
 author_profile: true
 ---
+<p style="background:#f5f5f5; border-left:4px solid #999; padding:8px 12px; font-size:0.9em;">This page is part of my <a href="https://cksdml1014.github.io/chanisong/archive/">undergraduate archive</a> (2018 to 2025). For my current research at Carnegie Mellon, see <a href="https://cksdml1014.github.io/chanisong/research/">Research</a>.</p>
 
 ## Exchange Semester at RWTH Aachen University
 
